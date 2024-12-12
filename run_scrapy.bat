@@ -1,3 +1,3 @@
 @echo off
 cd python/disciplinas/spiders/
-scrapy runspider disciplinas.py
+scrapy runspider disciplina.py

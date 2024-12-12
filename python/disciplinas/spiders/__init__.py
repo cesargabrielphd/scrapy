@@ -1,4 +1,4 @@
-# Este pacote conterá os spiders do seu projeto Scrapy
+# This package will contain the spiders of your Scrapy project
 #
-# Por favor, consulte a documentação para obter informações sobre como criar e gerenciar
-# seus spiders.
+# Please refer to the documentation for information on how to create and manage
+# your spiders.
