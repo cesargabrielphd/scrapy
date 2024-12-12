@@ -1,18 +1,24 @@
+import os
 import scrapy
 from scrapy.http import FormRequest
 
-class DisciplinasSpider(scrapy.Spider):
-    name = "disciplinas"
+class DisciplinaSpider(scrapy.Spider):
+    name = "disciplina"
     allowed_domains = ["sigaa.unb.br"]
     start_urls = [
         "https://sigaa.unb.br/sigaa/public/componentes/busca_componentes.jsf?aba=p-ensino"
     ]
-    custom_settings = {"FEED_FORMAT": "json", "FEED_URI": "disciplinas.json"}
+    custom_settings = {
+        "FEED_FORMAT": "json",
+        "FEED_URI": "disciplina.json",
+    }
+
     def parse(self, response):
         # Captura o estado do formulário (ViewState)
         view_state = response.css(
             'input[name="javax.faces.ViewState"]::attr(value)'
         ).get()
+
         formdata = {
             "form": "form",
             "form:nivel": "G",  # GRADUAÇÃO
@@ -29,14 +35,18 @@ class DisciplinasSpider(scrapy.Spider):
         return FormRequest.from_response(
             response, formdata=formdata, callback=self.after_form_submission
         )
+
     def after_form_submission(self, response):
         # Itera sobre as linhas da tabela
         for linha in response.css("table.listagem tbody tr"):
+            codigo = linha.css("td:nth-child(1)::text").get()
+            nome = linha.css("td:nth-child(2)::text").get()
+            tipo = linha.css("td:nth-child(3)::text").get()
+            ch_total = linha.css("td:nth-child(4)::text").get()
+
             yield {
-                "codigo": linha.css(
-                    "td:nth-child(1)::text"
-                ).get(),  # Código da disciplina
-                "nome": linha.css("td:nth-child(2)::text").get(),  # Nome da disciplina
-                "tipo": linha.css("td:nth-child(3)::text").get(),  # Tipo
-                "ch_total": linha.css("td:nth-child(4)::text").get(),  # Carga horária
+                "Código": codigo,
+                "Nome": nome,
+                "Tipo": tipo,
+                "Carga_Horária": ch_total,
             }
