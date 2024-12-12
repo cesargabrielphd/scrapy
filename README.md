@@ -6,13 +6,13 @@
 Verifique se o arquivo scrapy.exe está no diretório **C:\Program Files\Python\Scripts** ou em **AppData**
 
 ```{cmd}
+scrapy startproject disciplinas python
+```
+```{cmd}
 cd python/disciplinas/spiders/
 ```
 ```{cmd}
-scrapy statproject disciplinas
-```
-```{cmd}
-scrapy genspider disciplina
+scrapy genspider disciplina sigaa.unb.br
 ```
 
 Depois de tudpo pronto, basta rodar o script abaixo:
