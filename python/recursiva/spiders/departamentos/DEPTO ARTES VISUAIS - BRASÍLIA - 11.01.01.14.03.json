@@ -1,0 +1,1340 @@
+[
+    {
+        "Código": "VIS0104",
+        "Nome": "ANALISE DO FILME 1",
+        "Tipo": "DISCIPLINA",
+        "Carga_Horária": "60h"
+    },
+    {
+        "Código": "VIS0105",
+        "Nome": "ANALISE DO FILME 2",
+        "Tipo": "DISCIPLINA",
+        "Carga_Horária": "60h"
+    },
+    {
+        "Código": "VIS0106",
+        "Nome": "ANALISE DO FILME 3",
+        "Tipo": "DISCIPLINA",
+        "Carga_Horária": "60h"
+    },
+    {
+        "Código": "VIS0140",
+        "Nome": "ANATOMIA ARTÍSTICA",
+        "Tipo": "DISCIPLINA",
+        "Carga_Horária": "90h"
+    },
+    {
+        "Código": "VIS0244",
+        "Nome": "ANIMAÇÃO",
+        "Tipo": "DISCIPLINA",
+        "Carga_Horária": "90h"
+    },
+    {
+        "Código": "VIS0213",
+        "Nome": "APARTE - ATELIE PERMANENTE DE ARTE",
+        "Tipo": "DISCIPLINA",
+        "Carga_Horária": "30h"
+    },
+    {
+        "Código": "VIS0012",
+        "Nome": "ARTE E ANTROPOLOGIA",
+        "Tipo": "DISCIPLINA",
+        "Carga_Horária": "60h"
+    },
+    {
+        "Código": "VIS0004",
+        "Nome": "ARTE E CIÊNCIAS DA LINGUAGEM",
+        "Tipo": "DISCIPLINA",
+        "Carga_Horária": "60h"
+    },
+    {
+        "Código": "VIS0185",
+        "Nome": "ARTE ELETRONICA 1",
+        "Tipo": "DISCIPLINA",
+        "Carga_Horária": "90h"
+    },
+    {
+        "Código": "VIS0246",
+        "Nome": "ARTE ELETRONICA 2",
+        "Tipo": "DISCIPLINA",
+        "Carga_Horária": "90h"
+    },
+    {
+        "Código": "VIS0295",
+        "Nome": "ARTE E LITERATURA",
+        "Tipo": "DISCIPLINA",
+        "Carga_Horária": "60h"
+    },
+    {
+        "Código": "VIS0003",
+        "Nome": "ARTE E PENSAMENTO",
+        "Tipo": "DISCIPLINA",
+        "Carga_Horária": "60h"
+    },
+    {
+        "Código": "VIS0007",
+        "Nome": "ARTE E PSICANÁLISE",
+        "Tipo": "DISCIPLINA",
+        "Carga_Horária": "60h"
+    },
+    {
+        "Código": "VIS0002",
+        "Nome": "ARTE E SOCIOLOGIA",
+        "Tipo": "DISCIPLINA",
+        "Carga_Horária": "60h"
+    },
+    {
+        "Código": "VIS0217",
+        "Nome": "ATELIE 1",
+        "Tipo": "DISCIPLINA",
+        "Carga_Horária": "120h"
+    },
+    {
+        "Código": "VIS0219",
+        "Nome": "ATELIE 2",
+        "Tipo": "DISCIPLINA",
+        "Carga_Horária": "120h"
+    },
+    {
+        "Código": "VIS0180",
+        "Nome": "ATELIE DE CERAMICA 1",
+        "Tipo": "DISCIPLINA",
+        "Carga_Horária": "225h"
+    },
+    {
+        "Código": "VIS0181",
+        "Nome": "ATELIE DE CERAMICA 2",
+        "Tipo": "DISCIPLINA",
+        "Carga_Horária": "225h"
+    },
+    {
+        "Código": "VIS0182",
+        "Nome": "ATELIE DE CERAMICA 3",
+        "Tipo": "DISCIPLINA",
+        "Carga_Horária": "225h"
+    },
+    {
+        "Código": "VIS0183",
+        "Nome": "ATELIE DE CERAMICA 4",
+        "Tipo": "DISCIPLINA",
+        "Carga_Horária": "225h"
+    },
+    {
+        "Código": "VIS0192",
+        "Nome": "ATELIE DE DESENHO 1",
+        "Tipo": "DISCIPLINA",
+        "Carga_Horária": "225h"
+    },
+    {
+        "Código": "VIS0194",
+        "Nome": "ATELIE DE DESENHO 2",
+        "Tipo": "DISCIPLINA",
+        "Carga_Horária": "225h"
+    },
+    {
+        "Código": "VIS0196",
+        "Nome": "ATELIE DE DESENHO 3",
+        "Tipo": "DISCIPLINA",
+        "Carga_Horária": "225h"
+    },
+    {
+        "Código": "VIS0198",
+        "Nome": "ATELIE DE DESENHO 4",
+        "Tipo": "DISCIPLINA",
+        "Carga_Horária": "225h"
+    },
+    {
+        "Código": "VIS0143",
+        "Nome": "ATELIE DE ESCULTURA 1",
+        "Tipo": "DISCIPLINA",
+        "Carga_Horária": "225h"
+    },
+    {
+        "Código": "VIS0145",
+        "Nome": "ATELIE DE ESCULTURA 2",
+        "Tipo": "DISCIPLINA",
+        "Carga_Horária": "225h"
+    },
+    {
+        "Código": "VIS0147",
+        "Nome": "ATELIE DE ESCULTURA 3",
+        "Tipo": "DISCIPLINA",
+        "Carga_Horária": "225h"
+    },
+    {
+        "Código": "VIS0149",
+        "Nome": "ATELIE DE ESCULTURA 4",
+        "Tipo": "DISCIPLINA",
+        "Carga_Horária": "225h"
+    },
+    {
+        "Código": "VIS0173",
+        "Nome": "ATELIE DE GRAVURA 1",
+        "Tipo": "DISCIPLINA",
+        "Carga_Horária": "225h"
+    },
+    {
+        "Código": "VIS0175",
+        "Nome": "ATELIE DE GRAVURA 2",
+        "Tipo": "DISCIPLINA",
+        "Carga_Horária": "225h"
+    },
+    {
+        "Código": "VIS0177",
+        "Nome": "ATELIE DE GRAVURA 3",
+        "Tipo": "DISCIPLINA",
+        "Carga_Horária": "225h"
+    },
+    {
+        "Código": "VIS0179",
+        "Nome": "ATELIE DE GRAVURA 4",
+        "Tipo": "DISCIPLINA",
+        "Carga_Horária": "225h"
+    },
+    {
+        "Código": "VIS0150",
+        "Nome": "ATELIE DE MULTI MEIOS 1",
+        "Tipo": "DISCIPLINA",
+        "Carga_Horária": "225h"
+    },
+    {
+        "Código": "VIS0151",
+        "Nome": "ATELIE DE MULTI MEIOS 2",
+        "Tipo": "DISCIPLINA",
+        "Carga_Horária": "225h"
+    },
+    {
+        "Código": "VIS0152",
+        "Nome": "ATELIE DE MULTI MEIOS 3",
+        "Tipo": "DISCIPLINA",
+        "Carga_Horária": "225h"
+    },
+    {
+        "Código": "VIS0153",
+        "Nome": "ATELIE DE MULTI MEIOS 4",
+        "Tipo": "DISCIPLINA",
+        "Carga_Horária": "225h"
+    },
+    {
+        "Código": "VIS0165",
+        "Nome": "ATELIE DE PINTURA 1",
+        "Tipo": "DISCIPLINA",
+        "Carga_Horária": "225h"
+    },
+    {
+        "Código": "VIS0167",
+        "Nome": "ATELIE DE PINTURA 2",
+        "Tipo": "DISCIPLINA",
+        "Carga_Horária": "225h"
+    },
+    {
+        "Código": "VIS0169",
+        "Nome": "ATELIE DE PINTURA 3",
+        "Tipo": "DISCIPLINA",
+        "Carga_Horária": "225h"
+    },
+    {
+        "Código": "VIS0171",
+        "Nome": "ATELIE DE PINTURA 4",
+        "Tipo": "DISCIPLINA",
+        "Carga_Horária": "225h"
+    },
+    {
+        "Código": "VIS0285",
+        "Nome": "ATELIER DE ARTES VISUAIS 3",
+        "Tipo": "DISCIPLINA",
+        "Carga_Horária": "90h"
+    },
+    {
+        "Código": "VIS0286",
+        "Nome": "ATELIER DE ARTES VISUAIS 4",
+        "Tipo": "DISCIPLINA",
+        "Carga_Horária": "90h"
+    },
+    {
+        "Código": "VIS0283",
+        "Nome": "ATELIER DE PRODUÇÃO INTERDISCIPLINAR",
+        "Tipo": "DISCIPLINA",
+        "Carga_Horária": "90h"
+    },
+    {
+        "Código": "VIS0249",
+        "Nome": "CALCOGRAVURA",
+        "Tipo": "DISCIPLINA",
+        "Carga_Horária": "90h"
+    },
+    {
+        "Código": "VIS0097",
+        "Nome": "CINEMA BRASILEIRO CONTEMPORANEO",
+        "Tipo": "DISCIPLINA",
+        "Carga_Horária": "60h"
+    },
+    {
+        "Código": "VIS0021",
+        "Nome": "CRÍTICA E HISTÓRIA DA ARTE NO BRASIL 1",
+        "Tipo": "DISCIPLINA",
+        "Carga_Horária": "60h"
+    },
+    {
+        "Código": "VIS0022",
+        "Nome": "CRÍTICA E HISTÓRIA DA ARTE NO BRASIL 2",
+        "Tipo": "DISCIPLINA",
+        "Carga_Horária": "60h"
+    },
+    {
+        "Código": "VIS0010",
+        "Nome": "CRÍTICA E HISTÓRIA DA ARTE NO BRASIL 3",
+        "Tipo": "DISCIPLINA",
+        "Carga_Horária": "60h"
+    },
+    {
+        "Código": "VIS0015",
+        "Nome": "CRÍTICA E HISTÓRIA DA ARTE NO BRASIL 4",
+        "Tipo": "DISCIPLINA",
+        "Carga_Horária": "60h"
+    },
+    {
+        "Código": "VIS0035",
+        "Nome": "CURRÍCULO E AVALIAÇÃO EM ARTES VISUAIS",
+        "Tipo": "DISCIPLINA",
+        "Carga_Horária": "90h"
+    },
+    {
+        "Código": "VIS0063",
+        "Nome": "DESENHO 1",
+        "Tipo": "DISCIPLINA",
+        "Carga_Horária": "90h"
+    },
+    {
+        "Código": "VIS0065",
+        "Nome": "DESENHO 2",
+        "Tipo": "DISCIPLINA",
+        "Carga_Horária": "90h"
+    },
+    {
+        "Código": "VIS0212",
+        "Nome": "DESENHO 3",
+        "Tipo": "DISCIPLINA",
+        "Carga_Horária": "90h"
+    },
+    {
+        "Código": "VIS0245",
+        "Nome": "DESENHO 4",
+        "Tipo": "DISCIPLINA",
+        "Carga_Horária": "90h"
+    },
+    {
+        "Código": "VIS0074",
+        "Nome": "DESENHO GEOMETRICO",
+        "Tipo": "DISCIPLINA",
+        "Carga_Horária": "90h"
+    },
+    {
+        "Código": "VIS0075",
+        "Nome": "DESENHO PERSPECTIVO",
+        "Tipo": "DISCIPLINA",
+        "Carga_Horária": "60h"
+    },
+    {
+        "Código": "VIS0029",
+        "Nome": "DIDÁTICA DAS ARTES VISUAIS",
+        "Tipo": "DISCIPLINA",
+        "Carga_Horária": "60h"
+    },
+    {
+        "Código": "VIS0229",
+        "Nome": "DIPLOMAÇÃO EM ARTES PLÁSTICAS - BACHARELADO",
+        "Tipo": "DISCIPLINA",
+        "Carga_Horária": "90h"
+    },
+    {
+        "Código": "VIS0161",
+        "Nome": "DIPLOMAÇÃO EM ARTES PLÁSTICAS - LICENCIATURA",
+        "Tipo": "DISCIPLINA",
+        "Carga_Horária": "90h"
+    },
+    {
+        "Código": "VIS0122",
+        "Nome": "ELEMENTOS DE LINGUAGEM, ARTE E CULTURA POPULAR",
+        "Tipo": "DISCIPLINA",
+        "Carga_Horária": "60h"
+    },
+    {
+        "Código": "VIS0060",
+        "Nome": "ELEMENTOS DE LINGUAGEM, ESTÉTICA E HISTÓRIA DA ARTE 1",
+        "Tipo": "DISCIPLINA",
+        "Carga_Horária": "60h"
+    },
+    {
+        "Código": "VIS0067",
+        "Nome": "ESCULTURA 1",
+        "Tipo": "DISCIPLINA",
+        "Carga_Horária": "90h"
+    },
+    {
+        "Código": "VIS0241",
+        "Nome": "ESCULTURA 2",
+        "Tipo": "DISCIPLINA",
+        "Carga_Horária": "90h"
+    },
+    {
+        "Código": "VIS0135",
+        "Nome": "ESTAGIO SUPERVISIONADO EM ARTES PLASTICAS",
+        "Tipo": "DISCIPLINA",
+        "Carga_Horária": "60h"
+    },
+    {
+        "Código": "VIS0222",
+        "Nome": "ESTÁGIO SUPERVISIONADO EM ARTES PLÁSTICAS 1",
+        "Tipo": "DISCIPLINA",
+        "Carga_Horária": "60h"
+    },
+    {
+        "Código": "VIS0224",
+        "Nome": "ESTÁGIO SUPERVISIONADO EM ARTES PLÁSTICAS 2",
+        "Tipo": "DISCIPLINA",
+        "Carga_Horária": "60h"
+    },
+    {
+        "Código": "VIS0226",
+        "Nome": "ESTÁGIO SUPERVISIONADO EM ARTES PLÁSTICAS 3",
+        "Tipo": "DISCIPLINA",
+        "Carga_Horária": "60h"
+    },
+    {
+        "Código": "VIS0288",
+        "Nome": "ESTÁGIO SUPERVISIONADO EM ARTES VISUAIS 1",
+        "Tipo": "DISCIPLINA",
+        "Carga_Horária": "90h"
+    },
+    {
+        "Código": "VIS0289",
+        "Nome": "ESTÁGIO SUPERVISIONADO EM ARTES VISUAIS 2",
+        "Tipo": "DISCIPLINA",
+        "Carga_Horária": "90h"
+    },
+    {
+        "Código": "VIS0293",
+        "Nome": "ESTÁGIO SUPERVISIONADO EM ARTES VISUAIS 3",
+        "Tipo": "DISCIPLINA",
+        "Carga_Horária": "90h"
+    },
+    {
+        "Código": "VIS0041",
+        "Nome": "ESTÁGIO SUPERVISIONADO EM ARTES VISUAIS - ESPAÇOS MUSEAIS 1",
+        "Tipo": "DISCIPLINA",
+        "Carga_Horária": "150h"
+    },
+    {
+        "Código": "VIS0043",
+        "Nome": "ESTÁGIO SUPERVISIONADO EM ARTES VISUAIS - ESPAÇOS MUSEAIS 2",
+        "Tipo": "DISCIPLINA",
+        "Carga_Horária": "120h"
+    },
+    {
+        "Código": "VIS0036",
+        "Nome": "ESTÁGIO SUPERVISIONADO EM ARTES VISUAIS - FORMAÇÃO DE PROFESSORES",
+        "Tipo": "DISCIPLINA",
+        "Carga_Horária": "150h"
+    },
+    {
+        "Código": "VIS0136",
+        "Nome": "ESTAGIO SUPERVISIONADO EM DESENHO",
+        "Tipo": "DISCIPLINA",
+        "Carga_Horária": "60h"
+    },
+    {
+        "Código": "VIS0115",
+        "Nome": "ESTAGIO SUPERVISIONADO EM DESENHO E PLASTICA 1",
+        "Tipo": "DISCIPLINA",
+        "Carga_Horária": "60h"
+    },
+    {
+        "Código": "VIS0039",
+        "Nome": "ESTÁGIO SUPEVISIONADO ARTES VISUAIS-AMBIENTES VIRTUAIS DE APRENDIZAGEM 1",
+        "Tipo": "DISCIPLINA",
+        "Carga_Horária": "150h"
+    },
+    {
+        "Código": "VIS0040",
+        "Nome": "ESTÁGIO SUPEVISIONADO ARTES VISUAIS-AMBIENTES VIRTUAIS DE APRENDIZAGEM 2",
+        "Tipo": "DISCIPLINA",
+        "Carga_Horária": "150h"
+    },
+    {
+        "Código": "VIS0050",
+        "Nome": "ESTUDOS AVANÇADOS EM EDUCAÇÃO A DISTÂNCIA",
+        "Tipo": "DISCIPLINA",
+        "Carga_Horária": "30h"
+    },
+    {
+        "Código": "VIS0034",
+        "Nome": "ESTUDOS DAS VISUALIDADES AFRO-BRASILEIRA",
+        "Tipo": "DISCIPLINA",
+        "Carga_Horária": "60h"
+    },
+    {
+        "Código": "VIS0031",
+        "Nome": "ESTUDOS DAS VISUALIDADES INDÍGENAS",
+        "Tipo": "DISCIPLINA",
+        "Carga_Horária": "60h"
+    },
+    {
+        "Código": "VIS0057",
+        "Nome": "ESTUDOS VISUAIS E EDUCAÇÃO - EXPERIMENTOS",
+        "Tipo": "DISCIPLINA",
+        "Carga_Horária": "60h"
+    },
+    {
+        "Código": "VIS0053",
+        "Nome": "ESTUDOS VISUAIS E EDUCAÇÃO - FUNDAMENTOS",
+        "Tipo": "DISCIPLINA",
+        "Carga_Horária": "60h"
+    },
+    {
+        "Código": "VIS0054",
+        "Nome": "ESTUDOS VISUAIS E EDUCAÇÃO - LINGUAGENS",
+        "Tipo": "DISCIPLINA",
+        "Carga_Horária": "60h"
+    },
+    {
+        "Código": "VIS0056",
+        "Nome": "ESTUDOS VISUAIS E EDUCAÇÃO - NARRATIVAS",
+        "Tipo": "DISCIPLINA",
+        "Carga_Horária": "60h"
+    },
+    {
+        "Código": "VIS0055",
+        "Nome": "ESTUDOS VISUAIS E EDUCAÇÃO - TÓPICOS ESPECIAIS",
+        "Tipo": "DISCIPLINA",
+        "Carga_Horária": "60h"
+    },
+    {
+        "Código": "VIS0069",
+        "Nome": "EXPRESSAO EM SUPERFICIE",
+        "Tipo": "DISCIPLINA",
+        "Carga_Horária": "90h"
+    },
+    {
+        "Código": "VIS0070",
+        "Nome": "EXPRESSAO EM VOLUME",
+        "Tipo": "DISCIPLINA",
+        "Carga_Horária": "60h"
+    },
+    {
+        "Código": "VIS0129",
+        "Nome": "FUNDAMENTOS DA LINGUAGEM VISUAL",
+        "Tipo": "DISCIPLINA",
+        "Carga_Horária": "90h"
+    },
+    {
+        "Código": "VIS0127",
+        "Nome": "FUNDAMENTOS DE LINGUAGEM",
+        "Tipo": "DISCIPLINA",
+        "Carga_Horária": "60h"
+    },
+    {
+        "Código": "VIS0048",
+        "Nome": "FUNDAMENTOS METODOLÓGICOS DA ARTE/EDUCAÇÃO EM ESPAÇOS MUSEAIS",
+        "Tipo": "DISCIPLINA",
+        "Carga_Horária": "30h"
+    },
+    {
+        "Código": "VIS0061",
+        "Nome": "HISTORIA DA ARTE 1",
+        "Tipo": "DISCIPLINA",
+        "Carga_Horária": "60h"
+    },
+    {
+        "Código": "VIS0114",
+        "Nome": "HISTORIA DA ARTE 2",
+        "Tipo": "DISCIPLINA",
+        "Carga_Horária": "60h"
+    },
+    {
+        "Código": "VIS0189",
+        "Nome": "HISTORIA DA ARTE 3",
+        "Tipo": "DISCIPLINA",
+        "Carga_Horária": "60h"
+    },
+    {
+        "Código": "VIS0190",
+        "Nome": "HISTORIA DA ARTE 4",
+        "Tipo": "DISCIPLINA",
+        "Carga_Horária": "60h"
+    },
+    {
+        "Código": "VIS0141",
+        "Nome": "HISTORIA DA ARTE ANTIGA",
+        "Tipo": "DISCIPLINA",
+        "Carga_Horária": "60h"
+    },
+    {
+        "Código": "VIS0255",
+        "Nome": "HISTORIA DA ARTE CONTEMPORANEA",
+        "Tipo": "DISCIPLINA",
+        "Carga_Horária": "60h"
+    },
+    {
+        "Código": "VIS0253",
+        "Nome": "HISTORIA DA ARTE MEDIEVAL",
+        "Tipo": "DISCIPLINA",
+        "Carga_Horária": "60h"
+    },
+    {
+        "Código": "VIS0254",
+        "Nome": "HISTORIA DA ARTE MODERNA",
+        "Tipo": "DISCIPLINA",
+        "Carga_Horária": "60h"
+    },
+    {
+        "Código": "VIS0256",
+        "Nome": "HISTÓRIA DA ARTE NO BRASIL",
+        "Tipo": "DISCIPLINA",
+        "Carga_Horária": "60h"
+    },
+    {
+        "Código": "VIS0025",
+        "Nome": "HISTÓRIA DA ARTE NO BRASIL, MEMÓRIA E PATRIMÔNIO",
+        "Tipo": "DISCIPLINA",
+        "Carga_Horária": "60h"
+    },
+    {
+        "Código": "VIS0284",
+        "Nome": "HISTÓRIA DAS ARTES VISUAIS 2",
+        "Tipo": "DISCIPLINA",
+        "Carga_Horária": "90h"
+    },
+    {
+        "Código": "VIS0281",
+        "Nome": "HISTÓRIA DAS ARTES VISUAIS NO BRASIL",
+        "Tipo": "DISCIPLINA",
+        "Carga_Horária": "90h"
+    },
+    {
+        "Código": "VIS0049",
+        "Nome": "HISTÓRIA E TEORIA DA EDUCAÇÃO A DISTÂNCIA",
+        "Tipo": "DISCIPLINA",
+        "Carga_Horária": "60h"
+    },
+    {
+        "Código": "VIS0028",
+        "Nome": "HISTÓRIA E TEORIA DO ENSINO DAS ARTES VISUAIS",
+        "Tipo": "DISCIPLINA",
+        "Carga_Horária": "60h"
+    },
+    {
+        "Código": "VIS0058",
+        "Nome": "HISTÓRIA E TEORIA DO ENSINO DAS ARTES VISUAIS 2",
+        "Tipo": "DISCIPLINA",
+        "Carga_Horária": "60h"
+    },
+    {
+        "Código": "VIS0038",
+        "Nome": "IMAGEM, CULTURA E SOCIEDADE",
+        "Tipo": "DISCIPLINA",
+        "Carga_Horária": "90h"
+    },
+    {
+        "Código": "VIS0280",
+        "Nome": "IMAGEM INTERATIVA",
+        "Tipo": "DISCIPLINA",
+        "Carga_Horária": "60h"
+    },
+    {
+        "Código": "VIS0059",
+        "Nome": "INFOESTETICA 1 - ESTETICA DAS IMAGENS INFORMATICAS",
+        "Tipo": "DISCIPLINA",
+        "Carga_Horária": "60h"
+    },
+    {
+        "Código": "VIS0079",
+        "Nome": "INICIACAO AS TECNICAS INDUSTRIAIS 1",
+        "Tipo": "DISCIPLINA",
+        "Carga_Horária": "60h"
+    },
+    {
+        "Código": "VIS0230",
+        "Nome": "INTERVENCAO/PERFORMANCE/INSTALACAO",
+        "Tipo": "DISCIPLINA",
+        "Carga_Horária": "90h"
+    },
+    {
+        "Código": "VIS0019",
+        "Nome": "INTRODUÇÃO A CURADORIA",
+        "Tipo": "DISCIPLINA",
+        "Carga_Horária": "60h"
+    },
+    {
+        "Código": "VIS0188",
+        "Nome": "INTRODUCAO A GRAVURA",
+        "Tipo": "DISCIPLINA",
+        "Carga_Horária": "90h"
+    },
+    {
+        "Código": "VIS0080",
+        "Nome": "INTRODUCAO AS TECNICAS ARTESANAIS",
+        "Tipo": "DISCIPLINA",
+        "Carga_Horária": "90h"
+    },
+    {
+        "Código": "VIS0014",
+        "Nome": "LABORATÓRIO DE CRÍTICA,TEORIA E HISTÓRIA DA ARTE 2",
+        "Tipo": "DISCIPLINA",
+        "Carga_Horária": "60h"
+    },
+    {
+        "Código": "VIS0047",
+        "Nome": "LABORATÓRIO DE EDUCAÇÃO EM ESPAÇOS MUSEAIS",
+        "Tipo": "DISCIPLINA",
+        "Carga_Horária": "60h"
+    },
+    {
+        "Código": "VIS0008",
+        "Nome": "LABORATÓRIO DE TEORIA, CRÍTICA E HISTÓRIA DA ARTE 1",
+        "Tipo": "DISCIPLINA",
+        "Carga_Horária": "60h"
+    },
+    {
+        "Código": "VIS0018",
+        "Nome": "LABORATÓRIO DE TEORIA, CRÍTICA E HISTÓRIA DA ARTE 3",
+        "Tipo": "DISCIPLINA",
+        "Carga_Horária": "60h"
+    },
+    {
+        "Código": "VIS0023",
+        "Nome": "LABORATÓRIO DE TEORIA, CRÍTICA E HISTÓRIA DA ARTE 4",
+        "Tipo": "DISCIPLINA",
+        "Carga_Horária": "60h"
+    },
+    {
+        "Código": "VIS0051",
+        "Nome": "LABORATÓRIO EM EDUCAÇÃO A DISTÂNCIA",
+        "Tipo": "DISCIPLINA",
+        "Carga_Horária": "30h"
+    },
+    {
+        "Código": "VIS0248",
+        "Nome": "LITOGRAFIA",
+        "Tipo": "DISCIPLINA",
+        "Carga_Horária": "90h"
+    },
+    {
+        "Código": "VIS0296",
+        "Nome": "MATERIAIS EM ARTE 1",
+        "Tipo": "DISCIPLINA",
+        "Carga_Horária": "60h"
+    },
+    {
+        "Código": "VIS0163",
+        "Nome": "MATERIAIS EM ARTE 2",
+        "Tipo": "DISCIPLINA",
+        "Carga_Horária": "60h"
+    },
+    {
+        "Código": "VIS0032",
+        "Nome": "METODOLOGIA DE ENSINO E PESQUISA EM ARTES VISUAIS",
+        "Tipo": "DISCIPLINA",
+        "Carga_Horária": "90h"
+    },
+    {
+        "Código": "VIS0116",
+        "Nome": "MODELAGEM DO OBJETO 1",
+        "Tipo": "DISCIPLINA",
+        "Carga_Horária": "90h"
+    },
+    {
+        "Código": "VIS0117",
+        "Nome": "MODELAGEM DO OBJETO 2",
+        "Tipo": "DISCIPLINA",
+        "Carga_Horária": "90h"
+    },
+    {
+        "Código": "VIS0073",
+        "Nome": "MORFOLOGIA EXPERIMENTAL",
+        "Tipo": "DISCIPLINA",
+        "Carga_Horária": "90h"
+    },
+    {
+        "Código": "VIS0072",
+        "Nome": "MORFOLOGIA GEOMETRICA",
+        "Tipo": "DISCIPLINA",
+        "Carga_Horária": "60h"
+    },
+    {
+        "Código": "VIS0085",
+        "Nome": "OFICINA BASICA DE ARTES PLASTICAS 1",
+        "Tipo": "DISCIPLINA",
+        "Carga_Horária": "90h"
+    },
+    {
+        "Código": "VIS0118",
+        "Nome": "OFICINA BASICA DE ARTES PLASTICAS 2",
+        "Tipo": "DISCIPLINA",
+        "Carga_Horária": "90h"
+    },
+    {
+        "Código": "VIS0137",
+        "Nome": "OFICINA BASICA DE CINEMA",
+        "Tipo": "DISCIPLINA",
+        "Carga_Horária": "90h"
+    },
+    {
+        "Código": "VIS0096",
+        "Nome": "OFICINA DE CINEMA E TEATRO",
+        "Tipo": "DISCIPLINA",
+        "Carga_Horária": "60h"
+    },
+    {
+        "Código": "VIS0076",
+        "Nome": "OFICINA DE COMPOSICAO 1",
+        "Tipo": "DISCIPLINA",
+        "Carga_Horária": "60h"
+    },
+    {
+        "Código": "VIS0077",
+        "Nome": "OFICINA DE COMPOSICAO 2",
+        "Tipo": "DISCIPLINA",
+        "Carga_Horária": "60h"
+    },
+    {
+        "Código": "VIS0078",
+        "Nome": "OFICINA DE COMPOSICAO 3",
+        "Tipo": "DISCIPLINA",
+        "Carga_Horária": "60h"
+    },
+    {
+        "Código": "VIS0088",
+        "Nome": "OFICINA DE FOTOGRAFIA 1",
+        "Tipo": "DISCIPLINA",
+        "Carga_Horária": "60h"
+    },
+    {
+        "Código": "VIS0090",
+        "Nome": "OFICINA DE FOTOGRAFIA 2",
+        "Tipo": "DISCIPLINA",
+        "Carga_Horária": "60h"
+    },
+    {
+        "Código": "VIS0094",
+        "Nome": "OFICINA DE FOTOGRAFIA 3",
+        "Tipo": "DISCIPLINA",
+        "Carga_Horária": "90h"
+    },
+    {
+        "Código": "VIS0095",
+        "Nome": "OFICINA DE FOTOGRAFIA 4",
+        "Tipo": "DISCIPLINA",
+        "Carga_Horária": "30h"
+    },
+    {
+        "Código": "VIS0187",
+        "Nome": "PINTURA 1",
+        "Tipo": "DISCIPLINA",
+        "Carga_Horária": "90h"
+    },
+    {
+        "Código": "VIS0240",
+        "Nome": "PINTURA 2",
+        "Tipo": "DISCIPLINA",
+        "Carga_Horária": "90h"
+    },
+    {
+        "Código": "VIS0297",
+        "Nome": "PRÁTICA DE ENSINO  AMBIENTES VIRTUAIS DE APRENDIZAGEM",
+        "Tipo": "DISCIPLINA",
+        "Carga_Horária": "60h"
+    },
+    {
+        "Código": "VIS0042",
+        "Nome": "PRÁTICA DE ENSINO - ESPAÇOS MUSEAIS",
+        "Tipo": "DISCIPLINA",
+        "Carga_Horária": "60h"
+    },
+    {
+        "Código": "VIS0037",
+        "Nome": "PRÁTICA DE ENSINO - FORMAÇÃO DE PROFESSORES",
+        "Tipo": "DISCIPLINA",
+        "Carga_Horária": "60h"
+    },
+    {
+        "Código": "VIS0030",
+        "Nome": "PRÁTICA DE ENSINO - LINGUAGENS DA ARTE",
+        "Tipo": "DISCIPLINA",
+        "Carga_Horária": "90h"
+    },
+    {
+        "Código": "VIS0033",
+        "Nome": "PRÁTICA DE ENSINO - OBJETOS DE APRENDIZAGEM",
+        "Tipo": "DISCIPLINA",
+        "Carga_Horária": "60h"
+    },
+    {
+        "Código": "VIS0113",
+        "Nome": "PRÁTICAS DE ENSINO: MATERIAIS EM ARTES",
+        "Tipo": "DISCIPLINA",
+        "Carga_Horária": "60h"
+    },
+    {
+        "Código": "VIS0268",
+        "Nome": "PRODUÇÃO CULTURAL",
+        "Tipo": "DISCIPLINA",
+        "Carga_Horária": "60h"
+    },
+    {
+        "Código": "VIS0131",
+        "Nome": "PROJETO DE DIPLOMACAO EM DESENHO",
+        "Tipo": "DISCIPLINA",
+        "Carga_Horária": "90h"
+    },
+    {
+        "Código": "VIS0208",
+        "Nome": "PROJETO DE DIPLOMACAO EM DESENHO, PARA O BACHARELADO",
+        "Tipo": "DISCIPLINA",
+        "Carga_Horária": "150h"
+    },
+    {
+        "Código": "VIS0201",
+        "Nome": "PROJETO DE DIPLOMACAO EM ESCULTURA",
+        "Tipo": "DISCIPLINA",
+        "Carga_Horária": "150h"
+    },
+    {
+        "Código": "VIS0205",
+        "Nome": "PROJETO DE DIPLOMACAO EM GRAVURA",
+        "Tipo": "DISCIPLINA",
+        "Carga_Horária": "150h"
+    },
+    {
+        "Código": "VIS0199",
+        "Nome": "PROJETO DE DIPLOMACAO EM MULTIMEIOS",
+        "Tipo": "DISCIPLINA",
+        "Carga_Horária": "150h"
+    },
+    {
+        "Código": "VIS0203",
+        "Nome": "PROJETO DE DIPLOMACAO EM PINTURA",
+        "Tipo": "DISCIPLINA",
+        "Carga_Horária": "150h"
+    },
+    {
+        "Código": "VIS0207",
+        "Nome": "PROJETO DE DIPLOMACAO EM TEORIA HISTORIA E CRITICA DA ARTE",
+        "Tipo": "DISCIPLINA",
+        "Carga_Horária": "150h"
+    },
+    {
+        "Código": "VIS0220",
+        "Nome": "PROJETO INTERDISCIPLINAR",
+        "Tipo": "DISCIPLINA",
+        "Carga_Horária": "90h"
+    },
+    {
+        "Código": "VIS0287",
+        "Nome": "PROJETO INTERDISCIPLINAR DE ENSINO E APRENDIZAGEM 1",
+        "Tipo": "DISCIPLINA",
+        "Carga_Horária": "90h"
+    },
+    {
+        "Código": "VIS0290",
+        "Nome": "PROJETO INTERDISCIPLINAR DE ENSINO E APRENDIZAGEM 2",
+        "Tipo": "DISCIPLINA",
+        "Carga_Horária": "270h"
+    },
+    {
+        "Código": "VIS0292",
+        "Nome": "SEMINÁRIO DE CONCLUSÃO DE CURSO",
+        "Tipo": "DISCIPLINA",
+        "Carga_Horária": "45h"
+    },
+    {
+        "Código": "VIS0214",
+        "Nome": "SEMINARIO EM ARTES PLASTICAS",
+        "Tipo": "DISCIPLINA",
+        "Carga_Horária": "90h"
+    },
+    {
+        "Código": "VIS0231",
+        "Nome": "SEMINARIO EM TEORIA,CRITICA E HISTORIA DA ARTE 1",
+        "Tipo": "DISCIPLINA",
+        "Carga_Horária": "60h"
+    },
+    {
+        "Código": "VIS0267",
+        "Nome": "SEMINARIO EM TEORIA,CRITICA E HISTORIA DA ARTE 10",
+        "Tipo": "DISCIPLINA",
+        "Carga_Horária": "60h"
+    },
+    {
+        "Código": "VIS0271",
+        "Nome": "SEMINÁRIO EM TEORIA, CRÍTICA E HISTÓRIA DA ARTE 11",
+        "Tipo": "DISCIPLINA",
+        "Carga_Horária": "60h"
+    },
+    {
+        "Código": "VIS0273",
+        "Nome": "SEMINÁRIO EM TEORIA, CRÍTICA E HISTÓRIA DA ARTE 12",
+        "Tipo": "DISCIPLINA",
+        "Carga_Horária": "60h"
+    },
+    {
+        "Código": "VIS0275",
+        "Nome": "SEMINÁRIO EM TEORIA, CRÍTICA E HISTÓRIA DA ARTE 13",
+        "Tipo": "DISCIPLINA",
+        "Carga_Horária": "60h"
+    },
+    {
+        "Código": "VIS0277",
+        "Nome": "SEMINÁRIO EM TEORIA, CRÍTICA E HISTÓRIA DA ARTE 14",
+        "Tipo": "DISCIPLINA",
+        "Carga_Horária": "60h"
+    },
+    {
+        "Código": "VIS0279",
+        "Nome": "SEMINÁRIO EM TEORIA, CRÍTICA E HISTÓRIA DA ARTE 15",
+        "Tipo": "DISCIPLINA",
+        "Carga_Horária": "60h"
+    },
+    {
+        "Código": "VIS0233",
+        "Nome": "SEMINÁRIO EM TEORIA, CRÍTICA E HISTÓRIA DA ARTE 2",
+        "Tipo": "DISCIPLINA",
+        "Carga_Horária": "60h"
+    },
+    {
+        "Código": "VIS0235",
+        "Nome": "SEMINARIO EM TEORIA,CRITICA E HISTORIA DA ARTE 3",
+        "Tipo": "DISCIPLINA",
+        "Carga_Horária": "60h"
+    },
+    {
+        "Código": "VIS0236",
+        "Nome": "SEMINÁRIO EM TEORIA, CRÍTICA E HISTÓRIA DA ARTE 3",
+        "Tipo": "DISCIPLINA",
+        "Carga_Horária": "60h"
+    },
+    {
+        "Código": "VIS0238",
+        "Nome": "SEMINÁRIO EM TEORIA, CRÍTICA E HISTÓRIA DA ARTE 4",
+        "Tipo": "DISCIPLINA",
+        "Carga_Horária": "60h"
+    },
+    {
+        "Código": "VIS0251",
+        "Nome": "SEMINÁRIO EM TEORIA, CRÍTICA E HISTÓRIA DA ARTE 5",
+        "Tipo": "DISCIPLINA",
+        "Carga_Horária": "60h"
+    },
+    {
+        "Código": "VIS0259",
+        "Nome": "SEMINARIO EM TEORIA,CRITICA E HISTORIA DA ARTE 6",
+        "Tipo": "DISCIPLINA",
+        "Carga_Horária": "60h"
+    },
+    {
+        "Código": "VIS0261",
+        "Nome": "SEMINARIO EM TEORIA,CRITICA E HISTORIA DA ARTE 7",
+        "Tipo": "DISCIPLINA",
+        "Carga_Horária": "60h"
+    },
+    {
+        "Código": "VIS0263",
+        "Nome": "SEMINARIO EM TEORIA,CRITICA E HISTORIA DA ARTE 8",
+        "Tipo": "DISCIPLINA",
+        "Carga_Horária": "60h"
+    },
+    {
+        "Código": "VIS0265",
+        "Nome": "SEMINARIO EM TEORIA,CRITICA E HISTORIA DA ARTE 9",
+        "Tipo": "DISCIPLINA",
+        "Carga_Horária": "60h"
+    },
+    {
+        "Código": "VIS0154",
+        "Nome": "SEMINARIO INTERDISCIPLINAR EM TEORIA E HISTORIA DA ARTE 1",
+        "Tipo": "DISCIPLINA",
+        "Carga_Horária": "225h"
+    },
+    {
+        "Código": "VIS0155",
+        "Nome": "SEMINARIO INTERDISCIPLINAR EM TEORIA E HISTORIA DA ARTE 2",
+        "Tipo": "DISCIPLINA",
+        "Carga_Horária": "225h"
+    },
+    {
+        "Código": "VIS0156",
+        "Nome": "SEMINARIO INTERDISCIPLINAR EM TEORIA E HISTORIA DA ARTE 3",
+        "Tipo": "DISCIPLINA",
+        "Carga_Horária": "225h"
+    },
+    {
+        "Código": "VIS0157",
+        "Nome": "SEMINARIO INTERDISCIPLINAR EM TEORIA E HISTORIA DA ARTE 4",
+        "Tipo": "DISCIPLINA",
+        "Carga_Horária": "225h"
+    },
+    {
+        "Código": "VIS0239",
+        "Nome": "SERIGRAFIA",
+        "Tipo": "DISCIPLINA",
+        "Carga_Horária": "90h"
+    },
+    {
+        "Código": "VIS0101",
+        "Nome": "TECNICA DE EDICAO CINEMATOGRAFICA 1",
+        "Tipo": "DISCIPLINA",
+        "Carga_Horária": "60h"
+    },
+    {
+        "Código": "VIS0102",
+        "Nome": "TECNICA DE EDICAO CINEMATOGRAFICA 2",
+        "Tipo": "DISCIPLINA",
+        "Carga_Horária": "60h"
+    },
+    {
+        "Código": "VIS0103",
+        "Nome": "TECNICA DE EDICAO CINEMATOGRAFICA 3",
+        "Tipo": "DISCIPLINA",
+        "Carga_Horária": "150h"
+    },
+    {
+        "Código": "VIS0107",
+        "Nome": "TECNICA DE FILMAGEM 1",
+        "Tipo": "DISCIPLINA",
+        "Carga_Horária": "60h"
+    },
+    {
+        "Código": "VIS0108",
+        "Nome": "TECNICA DE FILMAGEM 2",
+        "Tipo": "DISCIPLINA",
+        "Carga_Horária": "90h"
+    },
+    {
+        "Código": "VIS0109",
+        "Nome": "TECNICA DE FILMAGEM 3",
+        "Tipo": "DISCIPLINA",
+        "Carga_Horária": "150h"
+    },
+    {
+        "Código": "VIS0098",
+        "Nome": "TECNICA DE PLANEJAMENTO CINEMATOGRAFICO 1",
+        "Tipo": "DISCIPLINA",
+        "Carga_Horária": "60h"
+    },
+    {
+        "Código": "VIS0099",
+        "Nome": "TECNICA DE PLANEJAMENTO CINEMATOGRAFICO 2",
+        "Tipo": "DISCIPLINA",
+        "Carga_Horária": "60h"
+    },
+    {
+        "Código": "VIS0100",
+        "Nome": "TECNICA DE PLANEJAMENTO CINEMATOGRAFICO 3",
+        "Tipo": "DISCIPLINA",
+        "Carga_Horária": "60h"
+    },
+    {
+        "Código": "VIS0124",
+        "Nome": "TECNICAS DE GRAVURA 1",
+        "Tipo": "DISCIPLINA",
+        "Carga_Horária": "60h"
+    },
+    {
+        "Código": "VIS0125",
+        "Nome": "TECNICAS DE GRAVURA 2",
+        "Tipo": "DISCIPLINA",
+        "Carga_Horária": "60h"
+    },
+    {
+        "Código": "VIS0126",
+        "Nome": "TECNICAS DE GRAVURA 3",
+        "Tipo": "DISCIPLINA",
+        "Carga_Horária": "60h"
+    },
+    {
+        "Código": "VIS0138",
+        "Nome": "TECNICAS DE GRAVURA 4",
+        "Tipo": "DISCIPLINA",
+        "Carga_Horária": "60h"
+    },
+    {
+        "Código": "VIS0130",
+        "Nome": "TECNICAS DE REPRESENTACAO GRAFICA",
+        "Tipo": "DISCIPLINA",
+        "Carga_Horária": "60h"
+    },
+    {
+        "Código": "VIS0119",
+        "Nome": "TECNICAS EXPERIMENTAIS DE ARTE 1",
+        "Tipo": "DISCIPLINA",
+        "Carga_Horária": "60h"
+    },
+    {
+        "Código": "VIS0120",
+        "Nome": "TECNICAS EXPERIMENTAIS DE ARTE 2",
+        "Tipo": "DISCIPLINA",
+        "Carga_Horária": "60h"
+    },
+    {
+        "Código": "VIS0269",
+        "Nome": "TECNOLOGIAS CONTEMPORÂNEAS NA ARTE-EDUCAÇÃO",
+        "Tipo": "DISCIPLINA",
+        "Carga_Horária": "90h"
+    },
+    {
+        "Código": "VIS0294",
+        "Nome": "TEORIA, CRÍTICA E HISTÓRIA DA ARTE 1",
+        "Tipo": "DISCIPLINA",
+        "Carga_Horária": "60h"
+    },
+    {
+        "Código": "VIS0001",
+        "Nome": "TEORIA, CRÍTICA E HISTÓRIA DA ARTE 2",
+        "Tipo": "DISCIPLINA",
+        "Carga_Horária": "60h"
+    },
+    {
+        "Código": "VIS0005",
+        "Nome": "TEORIA, CRÍTICA E HISTÓRIA DA ARTE 3",
+        "Tipo": "DISCIPLINA",
+        "Carga_Horária": "60h"
+    },
+    {
+        "Código": "VIS0006",
+        "Nome": "TEORIA, CRÍTICA E HISTÓRIA DA ARTE 4",
+        "Tipo": "DISCIPLINA",
+        "Carga_Horária": "60h"
+    },
+    {
+        "Código": "VIS0011",
+        "Nome": "TEORIA, CRÍTICA E HISTÓRIA DA ARTE 5",
+        "Tipo": "DISCIPLINA",
+        "Carga_Horária": "60h"
+    },
+    {
+        "Código": "VIS0016",
+        "Nome": "TEORIA, CRÍTICA E HISTÓRIA DA ARTE 6",
+        "Tipo": "DISCIPLINA",
+        "Carga_Horária": "60h"
+    },
+    {
+        "Código": "VIS0282",
+        "Nome": "TEORIA DA ARTE",
+        "Tipo": "DISCIPLINA",
+        "Carga_Horária": "90h"
+    },
+    {
+        "Código": "VIS0081",
+        "Nome": "TEORIA DAS TECNICAS E DOS MATERIAIS 1",
+        "Tipo": "DISCIPLINA",
+        "Carga_Horária": "60h"
+    },
+    {
+        "Código": "VIS0082",
+        "Nome": "TEORIA DAS TECNICAS E DOS MATERIAIS 2",
+        "Tipo": "DISCIPLINA",
+        "Carga_Horária": "60h"
+    },
+    {
+        "Código": "VIS0083",
+        "Nome": "TEORIA DAS TECNICAS E DOS MATERIAIS 3",
+        "Tipo": "DISCIPLINA",
+        "Carga_Horária": "60h"
+    },
+    {
+        "Código": "VIS0084",
+        "Nome": "TEORIA DAS TECNICAS E DOS MATERIAIS 4",
+        "Tipo": "DISCIPLINA",
+        "Carga_Horária": "60h"
+    },
+    {
+        "Código": "VIS0257",
+        "Nome": "TEORIA E HISTORIA DA ARTE",
+        "Tipo": "DISCIPLINA",
+        "Carga_Horária": "60h"
+    },
+    {
+        "Código": "VIS0017",
+        "Nome": "TEORIA E HISTÓRIA DA ARTE E DA IMAGEM NO ESPAÇO/TEMPO 1",
+        "Tipo": "DISCIPLINA",
+        "Carga_Horária": "60h"
+    },
+    {
+        "Código": "VIS0009",
+        "Nome": "TEORIA E HISTÓRIA DA ARTE E DA IMAGEM NO ESPAÇO/TEMPO 2",
+        "Tipo": "DISCIPLINA",
+        "Carga_Horária": "60h"
+    },
+    {
+        "Código": "VIS0020",
+        "Nome": "TEORIA E HISTÓRIA DA ARTE E DA IMAGEM NO ESPAÇO/TEMPO 3",
+        "Tipo": "DISCIPLINA",
+        "Carga_Horária": "60h"
+    },
+    {
+        "Código": "VIS0013",
+        "Nome": "TEORIA E HISTÓRIA DA ARTE E DA IMAGEM NO ESPAÇO/TEMPO 4",
+        "Tipo": "DISCIPLINA",
+        "Carga_Horária": "60h"
+    },
+    {
+        "Código": "VIS0026",
+        "Nome": "TEORIA E HISTÓRIA DA ARTE E DA IMAGEM NO ESPAÇO/TEMPO 5",
+        "Tipo": "DISCIPLINA",
+        "Carga_Horária": "60h"
+    },
+    {
+        "Código": "VIS0027",
+        "Nome": "TEORIA E HISTÓRIA DA ARTE E DA IMAGEM NO ESPAÇO/TEMPO 6",
+        "Tipo": "DISCIPLINA",
+        "Carga_Horária": "60h"
+    },
+    {
+        "Código": "VIS0046",
+        "Nome": "TEORIA E HISTÓRIA DA EDUCAÇÃO EM ESPAÇOS MUSEAIS",
+        "Tipo": "DISCIPLINA",
+        "Carga_Horária": "60h"
+    },
+    {
+        "Código": "VIS0291",
+        "Nome": "TRABALHO DE CONCLUSÃO DE CURSO",
+        "Tipo": "DISCIPLINA",
+        "Carga_Horária": "270h"
+    },
+    {
+        "Código": "VIS0044",
+        "Nome": "TRABALHO DE CONCLUSÃO DE CURSO 1",
+        "Tipo": "DISCIPLINA",
+        "Carga_Horária": "90h"
+    },
+    {
+        "Código": "VIS0045",
+        "Nome": "TRABALHO DE CONCLUSÃO DE CURSO 2",
+        "Tipo": "DISCIPLINA",
+        "Carga_Horária": "90h"
+    },
+    {
+        "Código": "VIS0024",
+        "Nome": "TRABALHO DE CONCLUSÃO DE CURSO EM TEORIA, CRÍTICA E HISTÓRIA DA ARTE",
+        "Tipo": "DISCIPLINA",
+        "Carga_Horária": "90h"
+    },
+    {
+        "Código": "VIS0215",
+        "Nome": "UTILIZACAO DE MULTIMEIOS NO ENSINO",
+        "Tipo": "DISCIPLINA",
+        "Carga_Horária": "90h"
+    },
+    {
+        "Código": "VIS0242",
+        "Nome": "VIDEO-ARTE",
+        "Tipo": "DISCIPLINA",
+        "Carga_Horária": "120h"
+    },
+    {
+        "Código": "VIS0247",
+        "Nome": "XILOGRAVURA",
+        "Tipo": "DISCIPLINA",
+        "Carga_Horária": "90h"
+    }
+]

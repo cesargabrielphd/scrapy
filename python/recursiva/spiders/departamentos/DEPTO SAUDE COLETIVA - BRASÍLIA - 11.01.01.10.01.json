@@ -1,0 +1,488 @@
+[
+    {
+        "Código": "DSC0026",
+        "Nome": "ADMINISTRACAO DE SERVICOS DE SAUDE",
+        "Tipo": "DISCIPLINA",
+        "Carga_Horária": "30h"
+    },
+    {
+        "Código": "DSC0025",
+        "Nome": "AMBIENTE SAÚDE E TRABALHO",
+        "Tipo": "DISCIPLINA",
+        "Carga_Horária": "60h"
+    },
+    {
+        "Código": "DSC0151",
+        "Nome": "ANÁLISE DE POLÍTICAS DE SAÚDE I",
+        "Tipo": "DISCIPLINA",
+        "Carga_Horária": "45h"
+    },
+    {
+        "Código": "DSC0053",
+        "Nome": "BIOÉTICA E ODONTOLOGIA",
+        "Tipo": "DISCIPLINA",
+        "Carga_Horária": "60h"
+    },
+    {
+        "Código": "DSC0064",
+        "Nome": "BIOÉTICA E SAÚDE PÚBLICA",
+        "Tipo": "DISCIPLINA",
+        "Carga_Horária": "60h"
+    },
+    {
+        "Código": "DSC0057",
+        "Nome": "CIÊNCIAS SOCIAIS EM SAÚDE",
+        "Tipo": "DISCIPLINA",
+        "Carga_Horária": "60h"
+    },
+    {
+        "Código": "DSC0056",
+        "Nome": "COMUNICAÇÃO EM SAÚDE",
+        "Tipo": "DISCIPLINA",
+        "Carga_Horária": "60h"
+    },
+    {
+        "Código": "DSC0002",
+        "Nome": "COMUNICAÇÃO, SAÚDE E SOCIEDADE",
+        "Tipo": "DISCIPLINA",
+        "Carga_Horária": "60h"
+    },
+    {
+        "Código": "DSC0051",
+        "Nome": "DEMOGRAFIA E BIOESTATÍSTICA",
+        "Tipo": "DISCIPLINA",
+        "Carga_Horária": "60h"
+    },
+    {
+        "Código": "DSC0063",
+        "Nome": "DIREITO SANITÁRIO E LEGISLAÇÃO",
+        "Tipo": "DISCIPLINA",
+        "Carga_Horária": "30h"
+    },
+    {
+        "Código": "DSC0096",
+        "Nome": "ECONOMIA DA SAÚDE",
+        "Tipo": "DISCIPLINA",
+        "Carga_Horária": "60h"
+    },
+    {
+        "Código": "DSC0016",
+        "Nome": "EDUCAÇÃO EM SAÚDE",
+        "Tipo": "DISCIPLINA",
+        "Carga_Horária": "60h"
+    },
+    {
+        "Código": "DSC0044",
+        "Nome": "ELABORACAO DE TRABALHO CIENTIFICO",
+        "Tipo": "DISCIPLINA",
+        "Carga_Horária": "45h"
+    },
+    {
+        "Código": "DSC0088",
+        "Nome": "ELABORAÇÃO DO TRABALHO CIENTÍFICO 2",
+        "Tipo": "DISCIPLINA",
+        "Carga_Horária": "60h"
+    },
+    {
+        "Código": "DSC0095",
+        "Nome": "EPIDEMIOLOGIA ANALÍTICA",
+        "Tipo": "DISCIPLINA",
+        "Carga_Horária": "60h"
+    },
+    {
+        "Código": "DSC0093",
+        "Nome": "EPIDEMIOLOGIA DESCRITIVA",
+        "Tipo": "DISCIPLINA",
+        "Carga_Horária": "60h"
+    },
+    {
+        "Código": "DSC0020",
+        "Nome": "EPIDEMIOLOGIA GERAL",
+        "Tipo": "DISCIPLINA",
+        "Carga_Horária": "60h"
+    },
+    {
+        "Código": "DSC0069",
+        "Nome": "EPIDEMIOLOGIA PARA A GESTÃO 3 VIGILÂNCIA EM SAÚDE",
+        "Tipo": "DISCIPLINA",
+        "Carga_Horária": "60h"
+    },
+    {
+        "Código": "DSC0028",
+        "Nome": "ESTAGIO EM MEDICINA RURAL",
+        "Tipo": "DISCIPLINA",
+        "Carga_Horária": "60h"
+    },
+    {
+        "Código": "DSC0084",
+        "Nome": "ESTÁGIO SUPERVISIONADO 1",
+        "Tipo": "DISCIPLINA",
+        "Carga_Horária": "150h"
+    },
+    {
+        "Código": "DSC0080",
+        "Nome": "ESTÁGIO SUPERVISIONADO 1",
+        "Tipo": "DISCIPLINA",
+        "Carga_Horária": "150h"
+    },
+    {
+        "Código": "DSC0085",
+        "Nome": "ESTÁGIO SUPERVISIONADO 2",
+        "Tipo": "DISCIPLINA",
+        "Carga_Horária": "150h"
+    },
+    {
+        "Código": "DSC0081",
+        "Nome": "ESTÁGIO SUPERVISIONADO 2",
+        "Tipo": "DISCIPLINA",
+        "Carga_Horária": "150h"
+    },
+    {
+        "Código": "DSC0004",
+        "Nome": "ESTÁGIO SUPERVISIONADO 3",
+        "Tipo": "DISCIPLINA",
+        "Carga_Horária": "90h"
+    },
+    {
+        "Código": "DSC0033",
+        "Nome": "ESTUDOS EPIDEMIOLOGICOS",
+        "Tipo": "DISCIPLINA",
+        "Carga_Horária": "60h"
+    },
+    {
+        "Código": "DSC0066",
+        "Nome": "ÉTICA, CIÊNCIA E TECNOLOGIA EM SAÚDE",
+        "Tipo": "DISCIPLINA",
+        "Carga_Horária": "60h"
+    },
+    {
+        "Código": "DSC0154",
+        "Nome": "EXTENSÃO EM HUMANIDADES E SAÚDE",
+        "Tipo": "DISCIPLINA",
+        "Carga_Horária": "60h"
+    },
+    {
+        "Código": "DSC0156",
+        "Nome": "EXTENSÃO EM PLANEJAMENTO E GESTÃO EM SAÚDE",
+        "Tipo": "DISCIPLINA",
+        "Carga_Horária": "60h"
+    },
+    {
+        "Código": "DSC0090",
+        "Nome": "EXTENSÃO EM SAÚDE",
+        "Tipo": "DISCIPLINA",
+        "Carga_Horária": "60h"
+    },
+    {
+        "Código": "DSC0158",
+        "Nome": "EXTENSÃO EM VIGILÂNCIA EM SAÚDE",
+        "Tipo": "DISCIPLINA",
+        "Carga_Horária": "60h"
+    },
+    {
+        "Código": "DSC0052",
+        "Nome": "FUNDAMENTOS BIOLÓGICOS EM SAÚDE COLETIVA",
+        "Tipo": "DISCIPLINA",
+        "Carga_Horária": "60h"
+    },
+    {
+        "Código": "DSC0058",
+        "Nome": "FUNDAMENTOS BIOLÓGICOS EM SAÚDE COLETIVA 2",
+        "Tipo": "DISCIPLINA",
+        "Carga_Horária": "60h"
+    },
+    {
+        "Código": "DSC0061",
+        "Nome": "FUNDAMENTOS BIOLÓGICOS EM SAÚDE COLETIVA 3",
+        "Tipo": "DISCIPLINA",
+        "Carga_Horária": "60h"
+    },
+    {
+        "Código": "DSC0082",
+        "Nome": "GESTÃO DE INSUMOS MATERIAL E PATRIMONIO",
+        "Tipo": "DISCIPLINA",
+        "Carga_Horária": "60h"
+    },
+    {
+        "Código": "DSC0079",
+        "Nome": "GESTÃO DE SISTEMAS E SERVIÇOS DE SAÚDE",
+        "Tipo": "DISCIPLINA",
+        "Carga_Horária": "60h"
+    },
+    {
+        "Código": "DSC0072",
+        "Nome": "GESTÃO DO TRABALHO E EDUCAÇÃO PERMANENTE NA SAÚDE",
+        "Tipo": "DISCIPLINA",
+        "Carga_Horária": "60h"
+    },
+    {
+        "Código": "DSC0075",
+        "Nome": "GESTÃO E PROMOÇÃO DA SAÚDE",
+        "Tipo": "DISCIPLINA",
+        "Carga_Horária": "60h"
+    },
+    {
+        "Código": "DSC0065",
+        "Nome": "GESTÃO ESTRATÉGICA PARTICIPAÇÃO E CONTROLE SOCIAL EM SAÚDE",
+        "Tipo": "DISCIPLINA",
+        "Carga_Horária": "60h"
+    },
+    {
+        "Código": "DSC0010",
+        "Nome": "INFORMAÇÃO E INFORMÁTICA EM SAÚDE",
+        "Tipo": "DISCIPLINA",
+        "Carga_Horária": "60h"
+    },
+    {
+        "Código": "DSC0089",
+        "Nome": "INFORMAÇÃO E INFORMÁTICA EM SAÚDE 2",
+        "Tipo": "DISCIPLINA",
+        "Carga_Horária": "60h"
+    },
+    {
+        "Código": "DSC0007",
+        "Nome": "INTRODUCAO A BIOETICA",
+        "Tipo": "DISCIPLINA",
+        "Carga_Horária": "30h"
+    },
+    {
+        "Código": "DSC0006",
+        "Nome": "INTRODUÇÃO À GESTÃO HOSPITALAR",
+        "Tipo": "DISCIPLINA",
+        "Carga_Horária": "30h"
+    },
+    {
+        "Código": "DSC0040",
+        "Nome": "INTRODUCAO AO METODOS QUANTITATIVOS EM SAUDE",
+        "Tipo": "DISCIPLINA",
+        "Carga_Horária": "30h"
+    },
+    {
+        "Código": "DSC0049",
+        "Nome": "LABORATÓRIO DA ANTROPOLOGIA DA SAÚDE E DA DOENÇA",
+        "Tipo": "DISCIPLINA",
+        "Carga_Horária": "60h"
+    },
+    {
+        "Código": "DSC0159",
+        "Nome": "MIGRAÇÃO, SAÚDE E DIREITOS HUMANOS",
+        "Tipo": "DISCIPLINA",
+        "Carga_Horária": "60h"
+    },
+    {
+        "Código": "DSC0070",
+        "Nome": "MONITORAMENTO E AVALIAÇÃO EM SAÚDE",
+        "Tipo": "DISCIPLINA",
+        "Carga_Horária": "60h"
+    },
+    {
+        "Código": "DSC0091",
+        "Nome": "PESQUISA EM SAÚDE",
+        "Tipo": "DISCIPLINA",
+        "Carga_Horária": "60h"
+    },
+    {
+        "Código": "DSC0059",
+        "Nome": "PESQUISA SOCIAL EM SAÚDE COLETIVA",
+        "Tipo": "DISCIPLINA",
+        "Carga_Horária": "45h"
+    },
+    {
+        "Código": "DSC0092",
+        "Nome": "PLANEJAMENTO E PROGRAMAÇÃO EM SAÚDE",
+        "Tipo": "DISCIPLINA",
+        "Carga_Horária": "60h"
+    },
+    {
+        "Código": "DSC0005",
+        "Nome": "POLÍTICAS DE SEGURANÇA ALIMENTAR E NUTRICIONAL",
+        "Tipo": "DISCIPLINA",
+        "Carga_Horária": "60h"
+    },
+    {
+        "Código": "DSC0050",
+        "Nome": "POLÍTICAS PÚBLICAS EM SAÚDE",
+        "Tipo": "DISCIPLINA",
+        "Carga_Horária": "60h"
+    },
+    {
+        "Código": "DSC0037",
+        "Nome": "PRATICAS DE SAUDE",
+        "Tipo": "DISCIPLINA",
+        "Carga_Horária": "60h"
+    },
+    {
+        "Código": "DSC0067",
+        "Nome": "PRÁTICAS INTEGRADAS EM SAÚDE 2",
+        "Tipo": "DISCIPLINA",
+        "Carga_Horária": "60h"
+    },
+    {
+        "Código": "DSC0071",
+        "Nome": "PRÁTICAS INTEGRADAS EM SAÚDE 3",
+        "Tipo": "DISCIPLINA",
+        "Carga_Horária": "120h"
+    },
+    {
+        "Código": "DSC0062",
+        "Nome": "PRÁTICAS INTEGRADAS EM SAÚDE COLETIVA 1",
+        "Tipo": "DISCIPLINA",
+        "Carga_Horária": "60h"
+    },
+    {
+        "Código": "DSC0163",
+        "Nome": "PRÁTICAS SUPERVISIONADAS EM SAÚDE COLETIVA I",
+        "Tipo": "DISCIPLINA",
+        "Carga_Horária": "60h"
+    },
+    {
+        "Código": "DSC0164",
+        "Nome": "PRÁTICAS SUPERVISIONADAS EM SAÚDE COLETIVA II",
+        "Tipo": "DISCIPLINA",
+        "Carga_Horária": "60h"
+    },
+    {
+        "Código": "DSC0167",
+        "Nome": "PRÁTICAS SUPERVISIONADAS EM SAÚDE COLETIVA III",
+        "Tipo": "DISCIPLINA",
+        "Carga_Horária": "60h"
+    },
+    {
+        "Código": "DSC0068",
+        "Nome": "SAÚDE DO TRABALHADOR",
+        "Tipo": "DISCIPLINA",
+        "Carga_Horária": "60h"
+    },
+    {
+        "Código": "DSC0011",
+        "Nome": "SAUDE E SOCIEDADE 1",
+        "Tipo": "DISCIPLINA",
+        "Carga_Horária": "60h"
+    },
+    {
+        "Código": "DSC0018",
+        "Nome": "SAUDE E SOCIEDADE 3",
+        "Tipo": "DISCIPLINA",
+        "Carga_Horária": "60h"
+    },
+    {
+        "Código": "DSC0038",
+        "Nome": "SAUDE FAMILIAR",
+        "Tipo": "DISCIPLINA",
+        "Carga_Horária": "60h"
+    },
+    {
+        "Código": "DSC0003",
+        "Nome": "SAÚDE INDÍGENA",
+        "Tipo": "DISCIPLINA",
+        "Carga_Horária": "60h"
+    },
+    {
+        "Código": "DSC0086",
+        "Nome": "SAÚDE INTERNACIONAL - TÓPICOS ESPECIAIS EM SAÚDE COLETIVA",
+        "Tipo": "DISCIPLINA",
+        "Carga_Horária": "60h"
+    },
+    {
+        "Código": "DSC0055",
+        "Nome": "SAÚDE MENTAL E BEM-ESTAR NO TRABALHO",
+        "Tipo": "DISCIPLINA",
+        "Carga_Horária": "60h"
+    },
+    {
+        "Código": "DSC0043",
+        "Nome": "SAUDE MENTAL EM SAUDE COLETIVA",
+        "Tipo": "DISCIPLINA",
+        "Carga_Horária": "45h"
+    },
+    {
+        "Código": "DSC0039",
+        "Nome": "SAUDE NO BRASIL - SITUACAO ATUAL E PERSPECTIVAS",
+        "Tipo": "DISCIPLINA",
+        "Carga_Horária": "30h"
+    },
+    {
+        "Código": "DSC0074",
+        "Nome": "SEMINÁRIO INTEGRADOR EM SAÚDE COLETIVA 1",
+        "Tipo": "DISCIPLINA",
+        "Carga_Horária": "30h"
+    },
+    {
+        "Código": "DSC0076",
+        "Nome": "SEMINÁRIO INTEGRADOR EM SAÚDE COLETIVA 2",
+        "Tipo": "DISCIPLINA",
+        "Carga_Horária": "30h"
+    },
+    {
+        "Código": "DSC0078",
+        "Nome": "SEMINÁRIO INTEGRADOR EM SAÚDE COLETIVA 3",
+        "Tipo": "DISCIPLINA",
+        "Carga_Horária": "45h"
+    },
+    {
+        "Código": "DSC0060",
+        "Nome": "SEMINÁRIOS INTEGRADOS EM SAÚDE COLETIVA 1",
+        "Tipo": "DISCIPLINA",
+        "Carga_Horária": "30h"
+    },
+    {
+        "Código": "DSC0073",
+        "Nome": "TECNOLOGIAS PARA INFORMAÇÃO COMUNICAÇÃO EM SAÚDE",
+        "Tipo": "DISCIPLINA",
+        "Carga_Horária": "60h"
+    },
+    {
+        "Código": "DSC0094",
+        "Nome": "TERAPIAS COMUNITÁRIAS E PRÁTICAS INTEGRATIVAS",
+        "Tipo": "DISCIPLINA",
+        "Carga_Horária": "30h"
+    },
+    {
+        "Código": "DSC0046",
+        "Nome": "TÓPICOS ESPECIAIS EM ANTROPOLOGIA DA SAÚDE",
+        "Tipo": "DISCIPLINA",
+        "Carga_Horária": "60h"
+    },
+    {
+        "Código": "DSC0008",
+        "Nome": "TÓPICOS ESPECIAIS EM BIOÉTICA 1",
+        "Tipo": "DISCIPLINA",
+        "Carga_Horária": "60h"
+    },
+    {
+        "Código": "DSC0009",
+        "Nome": "TÓPICOS ESPECIAIS EM BIOÉTICA 2",
+        "Tipo": "DISCIPLINA",
+        "Carga_Horária": "60h"
+    },
+    {
+        "Código": "DSC0083",
+        "Nome": "TRABALHO DE CONCLUSÃO DE CURSO",
+        "Tipo": "DISCIPLINA",
+        "Carga_Horária": "150h"
+    },
+    {
+        "Código": "DSC0099",
+        "Nome": "TRABALHO DE CONCLUSÃO DE CURSO 1",
+        "Tipo": "DISCIPLINA",
+        "Carga_Horária": "60h"
+    },
+    {
+        "Código": "DSC0171",
+        "Nome": "TRABALHO DE CONCLUSÃO DE CURSO EM SAÚDE COLETIVA 2",
+        "Tipo": "DISCIPLINA",
+        "Carga_Horária": "45h"
+    },
+    {
+        "Código": "DSC0172",
+        "Nome": "VIGILÂNCIA EPIDEMIOLÓGICA PARTICIPATIVA",
+        "Tipo": "DISCIPLINA",
+        "Carga_Horária": "30h"
+    },
+    {
+        "Código": "DSC0045",
+        "Nome": "VIGILANCIA SANITARIA",
+        "Tipo": "DISCIPLINA",
+        "Carga_Horária": "60h"
+    }
+]

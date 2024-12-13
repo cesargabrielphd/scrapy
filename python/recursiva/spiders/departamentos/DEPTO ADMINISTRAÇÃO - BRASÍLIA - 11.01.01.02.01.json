@@ -1,0 +1,764 @@
+[
+    {
+        "Código": "ADM0321",
+        "Nome": "ABORDAGENS CRÍTICAS AO ESTUDO DE ORGANIZAÇÕES",
+        "Tipo": "DISCIPLINA",
+        "Carga_Horária": "60h"
+    },
+    {
+        "Código": "ADM0092",
+        "Nome": "ADMINISTRAÇÃO DA PRODUÇÃO E OPERAÇÕES",
+        "Tipo": "DISCIPLINA",
+        "Carga_Horária": "60h"
+    },
+    {
+        "Código": "ADM0317",
+        "Nome": "ADMINISTRAÇÃO DA QUALIDADE",
+        "Tipo": "DISCIPLINA",
+        "Carga_Horária": "60h"
+    },
+    {
+        "Código": "ADM0012",
+        "Nome": "ADMINISTRAÇÃO DE CUSTOS",
+        "Tipo": "DISCIPLINA",
+        "Carga_Horária": "60h"
+    },
+    {
+        "Código": "ADM0064",
+        "Nome": "ADMINISTRAÇÃO DE MARKETING",
+        "Tipo": "DISCIPLINA",
+        "Carga_Horária": "60h"
+    },
+    {
+        "Código": "ADM0314",
+        "Nome": "ADMINISTRAÇÃO DE RECURSOS MATERIAIS E PATRIMONIAIS",
+        "Tipo": "DISCIPLINA",
+        "Carga_Horária": "60h"
+    },
+    {
+        "Código": "ADM0057",
+        "Nome": "ADMINISTRACAO DE RECURSOS ORCAMENTARIOS E FINANCEIROS",
+        "Tipo": "DISCIPLINA",
+        "Carga_Horária": "60h"
+    },
+    {
+        "Código": "ADM0298",
+        "Nome": "ADMINISTRAÇÃO DE SISTEMAS DE INFORMAÇÃO",
+        "Tipo": "DISCIPLINA",
+        "Carga_Horária": "60h"
+    },
+    {
+        "Código": "ADM0221",
+        "Nome": "ADMINISTRACAO EMPREENDEDORA",
+        "Tipo": "DISCIPLINA",
+        "Carga_Horária": "60h"
+    },
+    {
+        "Código": "ADM0080",
+        "Nome": "ADMINISTRACAO INDUSTRIAL",
+        "Tipo": "DISCIPLINA",
+        "Carga_Horária": "60h"
+    },
+    {
+        "Código": "ADM0072",
+        "Nome": "ADMINISTRACAO MUNICIPAL",
+        "Tipo": "DISCIPLINA",
+        "Carga_Horária": "60h"
+    },
+    {
+        "Código": "ADM0014",
+        "Nome": "ADMINISTRAÇÃO PÚBLICA E GESTÃO SOCIAL",
+        "Tipo": "DISCIPLINA",
+        "Carga_Horária": "60h"
+    },
+    {
+        "Código": "ADM0219",
+        "Nome": "ANÁLISE DECISÓRIA EM PROJETOS",
+        "Tipo": "DISCIPLINA",
+        "Carga_Horária": "60h"
+    },
+    {
+        "Código": "ADM0035",
+        "Nome": "ANÁLISE DE DECISÕES 1",
+        "Tipo": "DISCIPLINA",
+        "Carga_Horária": "60h"
+    },
+    {
+        "Código": "ADM0299",
+        "Nome": "ANÁLISE DE DECISÕES 2",
+        "Tipo": "DISCIPLINA",
+        "Carga_Horária": "60h"
+    },
+    {
+        "Código": "ADM0228",
+        "Nome": "ANALISE INSTITUCIONAL",
+        "Tipo": "DISCIPLINA",
+        "Carga_Horária": "60h"
+    },
+    {
+        "Código": "ADM0320",
+        "Nome": "ANÁLISE ORGANIZACIONAL, SISTEMAS E MÉTODOS",
+        "Tipo": "DISCIPLINA",
+        "Carga_Horária": "60h"
+    },
+    {
+        "Código": "ADM0013",
+        "Nome": "AVALIAÇÃO DA EFICIÊNCIA E PRODUTIVIDADE",
+        "Tipo": "DISCIPLINA",
+        "Carga_Horária": "60h"
+    },
+    {
+        "Código": "ADM0018",
+        "Nome": "AVALIAÇÃO E MONITORAMENTO DA ESTRATÉGIA ORGANIZACIONAL",
+        "Tipo": "DISCIPLINA",
+        "Carga_Horária": "60h"
+    },
+    {
+        "Código": "ADM0192",
+        "Nome": "CALCULO FINANCEIRO",
+        "Tipo": "DISCIPLINA",
+        "Carga_Horária": "60h"
+    },
+    {
+        "Código": "ADM0044",
+        "Nome": "CHEFIA E LIDERANCA",
+        "Tipo": "DISCIPLINA",
+        "Carga_Horária": "60h"
+    },
+    {
+        "Código": "ADM0337",
+        "Nome": "COMÉRCIO EXTERIOR",
+        "Tipo": "DISCIPLINA",
+        "Carga_Horária": "60h"
+    },
+    {
+        "Código": "ADM0300",
+        "Nome": "COMPORTAMENTO DO CONSUMIDOR",
+        "Tipo": "DISCIPLINA",
+        "Carga_Horária": "60h"
+    },
+    {
+        "Código": "ADM0231",
+        "Nome": "COMPORTAMENTO ORGANIZACIONAL",
+        "Tipo": "DISCIPLINA",
+        "Carga_Horária": "60h"
+    },
+    {
+        "Código": "ADM0038",
+        "Nome": "COMUNICACOES ADMINISTRATIVAS",
+        "Tipo": "DISCIPLINA",
+        "Carga_Horária": "60h"
+    },
+    {
+        "Código": "ADM0328",
+        "Nome": "CONTABILIDADE GERAL",
+        "Tipo": "DISCIPLINA",
+        "Carga_Horária": "60h"
+    },
+    {
+        "Código": "ADM0150",
+        "Nome": "CRIACAO DE NEGOCIOS",
+        "Tipo": "DISCIPLINA",
+        "Carga_Horária": "60h"
+    },
+    {
+        "Código": "ADM0322",
+        "Nome": "CRIATIVIDADE E INOVAÇÃO NAS ORGANIZAÇÕES",
+        "Tipo": "DISCIPLINA",
+        "Carga_Horária": "60h"
+    },
+    {
+        "Código": "ADM0365",
+        "Nome": "DIREITO E LEGISLAÇÃO TRIBUTÁRIA",
+        "Tipo": "DISCIPLINA",
+        "Carga_Horária": "30h"
+    },
+    {
+        "Código": "ADM0362",
+        "Nome": "DIREITO EMPRESARIAL",
+        "Tipo": "DISCIPLINA",
+        "Carga_Horária": "60h"
+    },
+    {
+        "Código": "ADM0333",
+        "Nome": "ECONOMIA BRASILEIRA",
+        "Tipo": "DISCIPLINA",
+        "Carga_Horária": "60h"
+    },
+    {
+        "Código": "ADM0011",
+        "Nome": "ECONOMIA COMPORTAMENTAL APLICADA AO MARKETING",
+        "Tipo": "DISCIPLINA",
+        "Carga_Horária": "60h"
+    },
+    {
+        "Código": "ADM0297",
+        "Nome": "ELABORAÇÃO DE TRABALHO DE CURSO",
+        "Tipo": "DISCIPLINA",
+        "Carga_Horária": "60h"
+    },
+    {
+        "Código": "ADM0015",
+        "Nome": "ESTADO, GOVERNO E SOCIEDADE",
+        "Tipo": "DISCIPLINA",
+        "Carga_Horária": "60h"
+    },
+    {
+        "Código": "ADM0223",
+        "Nome": "ESTAGIO SUPERVISIONADO",
+        "Tipo": "DISCIPLINA",
+        "Carga_Horária": "270h"
+    },
+    {
+        "Código": "ADM0097",
+        "Nome": "ESTAGIO SUPERVISIONADO 1",
+        "Tipo": "DISCIPLINA",
+        "Carga_Horária": "90h"
+    },
+    {
+        "Código": "ADM0099",
+        "Nome": "ESTAGIO SUPERVISIONADO 2",
+        "Tipo": "DISCIPLINA",
+        "Carga_Horária": "90h"
+    },
+    {
+        "Código": "ADM0101",
+        "Nome": "ESTAGIO SUPERVISIONADO 3",
+        "Tipo": "DISCIPLINA",
+        "Carga_Horária": "90h"
+    },
+    {
+        "Código": "ADM0210",
+        "Nome": "ESTAGIO SUPERVISIONADO EM ADMINISTRACAO DE EMPRESA",
+        "Tipo": "DISCIPLINA",
+        "Carga_Horária": "270h"
+    },
+    {
+        "Código": "ADM0208",
+        "Nome": "ESTAGIO SUPERVISIONADO EM ADMINISTRACAO PUBLICA",
+        "Tipo": "DISCIPLINA",
+        "Carga_Horária": "270h"
+    },
+    {
+        "Código": "ADM0157",
+        "Nome": "ESTRATÉGIA ORGANIZACIONAL",
+        "Tipo": "DISCIPLINA",
+        "Carga_Horária": "60h"
+    },
+    {
+        "Código": "ADM0002",
+        "Nome": "ESTUDOS E PESQUISAS EM ADMINISTRAÇÃO",
+        "Tipo": "DISCIPLINA",
+        "Carga_Horária": "30h"
+    },
+    {
+        "Código": "ADM0052",
+        "Nome": "FINANÇAS 1",
+        "Tipo": "DISCIPLINA",
+        "Carga_Horária": "60h"
+    },
+    {
+        "Código": "ADM0301",
+        "Nome": "FINANÇAS 2",
+        "Tipo": "DISCIPLINA",
+        "Carga_Horária": "60h"
+    },
+    {
+        "Código": "ADM0051",
+        "Nome": "FINANCAS DE EMPRESAS",
+        "Tipo": "DISCIPLINA",
+        "Carga_Horária": "90h"
+    },
+    {
+        "Código": "ADM0162",
+        "Nome": "GESTÃO DA INOVAÇÃO",
+        "Tipo": "DISCIPLINA",
+        "Carga_Horária": "60h"
+    },
+    {
+        "Código": "ADM0352",
+        "Nome": "GESTÃO DA QUALIDADE NO SETOR PÚBLICO",
+        "Tipo": "DISCIPLINA",
+        "Carga_Horária": "30h"
+    },
+    {
+        "Código": "ADM0017",
+        "Nome": "GESTÃO DE COMPRAS PÚBLICAS",
+        "Tipo": "DISCIPLINA",
+        "Carga_Horária": "60h"
+    },
+    {
+        "Código": "ADM0258",
+        "Nome": "GESTÃO DE DESEMPENHO",
+        "Tipo": "DISCIPLINA",
+        "Carga_Horária": "60h"
+    },
+    {
+        "Código": "ADM0087",
+        "Nome": "GESTÃO DE FINANÇAS PESSOAIS",
+        "Tipo": "DISCIPLINA",
+        "Carga_Horária": "60h"
+    },
+    {
+        "Código": "ADM0006",
+        "Nome": "GESTÃO DE MARCAS",
+        "Tipo": "DISCIPLINA",
+        "Carga_Horária": "60h"
+    },
+    {
+        "Código": "ADM0302",
+        "Nome": "GESTÃO DE MUDANÇA ORGANIZACIONAL",
+        "Tipo": "DISCIPLINA",
+        "Carga_Horária": "60h"
+    },
+    {
+        "Código": "ADM0342",
+        "Nome": "GESTÃO DE OPERAÇÕES E LOGÍSTICA 1",
+        "Tipo": "DISCIPLINA",
+        "Carga_Horária": "60h"
+    },
+    {
+        "Código": "ADM0363",
+        "Nome": "GESTÃO DE ORGANIZAÇÃO SEM FINS LUCRATIVOS",
+        "Tipo": "DISCIPLINA",
+        "Carga_Horária": "60h"
+    },
+    {
+        "Código": "ADM0041",
+        "Nome": "GESTÃO DE PESSOAS EM ORGANIZAÇÕES",
+        "Tipo": "DISCIPLINA",
+        "Carga_Horária": "60h"
+    },
+    {
+        "Código": "ADM0303",
+        "Nome": "GESTÃO DE PROCESSOS",
+        "Tipo": "DISCIPLINA",
+        "Carga_Horária": "60h"
+    },
+    {
+        "Código": "ADM0226",
+        "Nome": "GESTÃO DE PROJETOS",
+        "Tipo": "DISCIPLINA",
+        "Carga_Horária": "60h"
+    },
+    {
+        "Código": "ADM0304",
+        "Nome": "GESTÃO DE RESPONSABILIDADE SOCIOAMBIENTAL",
+        "Tipo": "DISCIPLINA",
+        "Carga_Horária": "60h"
+    },
+    {
+        "Código": "ADM0366",
+        "Nome": "GESTÃO DE TELETRABALHO",
+        "Tipo": "DISCIPLINA",
+        "Carga_Horária": "60h"
+    },
+    {
+        "Código": "ADM0244",
+        "Nome": "GESTÃO DE VENDAS",
+        "Tipo": "DISCIPLINA",
+        "Carga_Horária": "60h"
+    },
+    {
+        "Código": "ADM0305",
+        "Nome": "GESTÃO POR COMPETÊNCIAS",
+        "Tipo": "DISCIPLINA",
+        "Carga_Horária": "60h"
+    },
+    {
+        "Código": "ADM0070",
+        "Nome": "GOVERNO E ADMINISTRACAO NO BRASIL",
+        "Tipo": "DISCIPLINA",
+        "Carga_Horária": "60h"
+    },
+    {
+        "Código": "ADM0005",
+        "Nome": "INOVAÇÃO EM SERVIÇOS",
+        "Tipo": "DISCIPLINA",
+        "Carga_Horária": "60h"
+    },
+    {
+        "Código": "ADM0318",
+        "Nome": "INTERNACIONALIZAÇÃO DE EMPRESAS E GESTÃO DE NEGÓCIOS",
+        "Tipo": "DISCIPLINA",
+        "Carga_Horária": "60h"
+    },
+    {
+        "Código": "ADM0023",
+        "Nome": "INTRODUÇÃO À ADMINISTRAÇÃO",
+        "Tipo": "DISCIPLINA",
+        "Carga_Horária": "60h"
+    },
+    {
+        "Código": "ADM0324",
+        "Nome": "INTRODUÇÃO À EDUCAÇÃO A DISTÂNCIA",
+        "Tipo": "DISCIPLINA",
+        "Carga_Horária": "30h"
+    },
+    {
+        "Código": "ADM0214",
+        "Nome": "INTRODUÇÃO A TEORIAS ORGANIZACIONAIS",
+        "Tipo": "DISCIPLINA",
+        "Carga_Horária": "60h"
+    },
+    {
+        "Código": "ADM0367",
+        "Nome": "LGBT NAS ORGANIZAÇÕES",
+        "Tipo": "DISCIPLINA",
+        "Carga_Horária": "60h"
+    },
+    {
+        "Código": "ADM0356",
+        "Nome": "LICITAÇÃO, CONTRATOS E CONVÊNIOS",
+        "Tipo": "DISCIPLINA",
+        "Carga_Horária": "30h"
+    },
+    {
+        "Código": "ADM0007",
+        "Nome": "LOGÍSTICA INTERNACIONAL",
+        "Tipo": "DISCIPLINA",
+        "Carga_Horária": "60h"
+    },
+    {
+        "Código": "ADM0061",
+        "Nome": "LOGÍSTICA ORGANIZACIONAL",
+        "Tipo": "DISCIPLINA",
+        "Carga_Horária": "60h"
+    },
+    {
+        "Código": "ADM0327",
+        "Nome": "MACROECONOMIA",
+        "Tipo": "DISCIPLINA",
+        "Carga_Horária": "60h"
+    },
+    {
+        "Código": "ADM0190",
+        "Nome": "MACROECONOMIA APLICADA",
+        "Tipo": "DISCIPLINA",
+        "Carga_Horária": "60h"
+    },
+    {
+        "Código": "ADM0261",
+        "Nome": "MARKETING DE ESPECIALIDADES",
+        "Tipo": "DISCIPLINA",
+        "Carga_Horária": "60h"
+    },
+    {
+        "Código": "ADM0306",
+        "Nome": "MARKETING DE RELACIONAMENTO",
+        "Tipo": "DISCIPLINA",
+        "Carga_Horária": "60h"
+    },
+    {
+        "Código": "ADM0009",
+        "Nome": "MARKETING DE SERVIÇOS",
+        "Tipo": "DISCIPLINA",
+        "Carga_Horária": "60h"
+    },
+    {
+        "Código": "ADM0010",
+        "Nome": "MARKETING DIGITAL",
+        "Tipo": "DISCIPLINA",
+        "Carga_Horária": "60h"
+    },
+    {
+        "Código": "ADM0264",
+        "Nome": "MARKETING SOCIAL E DE SERVICOS",
+        "Tipo": "DISCIPLINA",
+        "Carga_Horária": "60h"
+    },
+    {
+        "Código": "ADM0008",
+        "Nome": "MARKETING SOCIALMENTE RESPONSÁVEL",
+        "Tipo": "DISCIPLINA",
+        "Carga_Horária": "60h"
+    },
+    {
+        "Código": "ADM0325",
+        "Nome": "MATEMÁTICA BÁSICA",
+        "Tipo": "DISCIPLINA",
+        "Carga_Horária": "30h"
+    },
+    {
+        "Código": "ADM0343",
+        "Nome": "MATEMÁTICA FINANCEIRA E ANÁLISE DE INVESTIMENTO",
+        "Tipo": "DISCIPLINA",
+        "Carga_Horária": "60h"
+    },
+    {
+        "Código": "ADM0329",
+        "Nome": "MATEMÁTICA PARA ADMINISTRADORES",
+        "Tipo": "DISCIPLINA",
+        "Carga_Horária": "60h"
+    },
+    {
+        "Código": "ADM0068",
+        "Nome": "MERCADO FINANCEIRO E DE CAPITAIS",
+        "Tipo": "DISCIPLINA",
+        "Carga_Horária": "60h"
+    },
+    {
+        "Código": "ADM0198",
+        "Nome": "METODOLOGIA CIENTÍFICA APLICADA",
+        "Tipo": "DISCIPLINA",
+        "Carga_Horária": "60h"
+    },
+    {
+        "Código": "ADM0047",
+        "Nome": "MÉTODOS E MODELOS QUANTITATIVOS DE DECISÃO 1",
+        "Tipo": "DISCIPLINA",
+        "Carga_Horária": "60h"
+    },
+    {
+        "Código": "ADM0307",
+        "Nome": "MÉTODOS E MODELOS QUANTITATIVOS DE DECISÃO 2",
+        "Tipo": "DISCIPLINA",
+        "Carga_Horária": "60h"
+    },
+    {
+        "Código": "ADM0027",
+        "Nome": "METODOS E PROCESSOS ADMINISTRATIVOS",
+        "Tipo": "DISCIPLINA",
+        "Carga_Horária": "60h"
+    },
+    {
+        "Código": "ADM0187",
+        "Nome": "MICROECONOMIA APLICADA",
+        "Tipo": "DISCIPLINA",
+        "Carga_Horária": "60h"
+    },
+    {
+        "Código": "ADM0308",
+        "Nome": "NEGOCIAÇÃO",
+        "Tipo": "DISCIPLINA",
+        "Carga_Horária": "60h"
+    },
+    {
+        "Código": "ADM0270",
+        "Nome": "OFICINA DE PRODUTOS E PROJETOS",
+        "Tipo": "DISCIPLINA",
+        "Carga_Horária": "60h"
+    },
+    {
+        "Código": "ADM0295",
+        "Nome": "OPERAÇÕES POSTAIS 3",
+        "Tipo": "DISCIPLINA",
+        "Carga_Horária": "60h"
+    },
+    {
+        "Código": "ADM0107",
+        "Nome": "ORÇAMENTO EMPRESARIAL",
+        "Tipo": "DISCIPLINA",
+        "Carga_Horária": "60h"
+    },
+    {
+        "Código": "ADM0016",
+        "Nome": "ORGANIZAÇÃO E GESTÃO DE SERVIÇOS PÚBLICOS",
+        "Tipo": "DISCIPLINA",
+        "Carga_Horária": "60h"
+    },
+    {
+        "Código": "ADM0025",
+        "Nome": "ORGANIZACAO E SISTEMAS",
+        "Tipo": "DISCIPLINA",
+        "Carga_Horária": "60h"
+    },
+    {
+        "Código": "ADM0241",
+        "Nome": "PESQUISA DE MARKETING",
+        "Tipo": "DISCIPLINA",
+        "Carga_Horária": "60h"
+    },
+    {
+        "Código": "ADM0340",
+        "Nome": "PLANEJAMENTO E PROGRAMAÇÃO NA ADMINISTRAÇÃO PÚBLICA",
+        "Tipo": "DISCIPLINA",
+        "Carga_Horária": "60h"
+    },
+    {
+        "Código": "ADM0364",
+        "Nome": "POLITICAS PÚBLICAS DE TURISMO",
+        "Tipo": "DISCIPLINA",
+        "Carga_Horária": "60h"
+    },
+    {
+        "Código": "ADM0273",
+        "Nome": "PROJETO DE PESQUISA EM ADMINISTRAÇÃO",
+        "Tipo": "DISCIPLINA",
+        "Carga_Horária": "60h"
+    },
+    {
+        "Código": "ADM0330",
+        "Nome": "SEMINÁRIO TEMÁTICO 1",
+        "Tipo": "DISCIPLINA",
+        "Carga_Horária": "30h"
+    },
+    {
+        "Código": "ADM0346",
+        "Nome": "SEMINÁRIO TEMÁTICO NA LFE GESTÃO MUNICIPAL 1",
+        "Tipo": "DISCIPLINA",
+        "Carga_Horária": "30h"
+    },
+    {
+        "Código": "ADM0354",
+        "Nome": "SEMINÁRIO TEMÁTICO NA LFE GESTÃO MUNICIPAL 2",
+        "Tipo": "DISCIPLINA",
+        "Carga_Horária": "30h"
+    },
+    {
+        "Código": "ADM0360",
+        "Nome": "SEMINÁRIO TEMÁTICO NA LFE GESTÃO MUNICIPAL 3",
+        "Tipo": "DISCIPLINA",
+        "Carga_Horária": "30h"
+    },
+    {
+        "Código": "ADM0345",
+        "Nome": "SEMINÁRIO TEMÁTICO NA LFE GESTÃO PÚBLICA DA SAÚDE 1",
+        "Tipo": "DISCIPLINA",
+        "Carga_Horária": "30h"
+    },
+    {
+        "Código": "ADM0353",
+        "Nome": "SEMINÁRIO TEMÁTICO NA LFE GESTÃO PÚBLICA DA SAÚDE 2",
+        "Tipo": "DISCIPLINA",
+        "Carga_Horária": "30h"
+    },
+    {
+        "Código": "ADM0359",
+        "Nome": "SEMINÁRIO TEMÁTICO NA LFE GESTÃO PÚBLICA DA SAÚDE 3",
+        "Tipo": "DISCIPLINA",
+        "Carga_Horária": "30h"
+    },
+    {
+        "Código": "ADM0347",
+        "Nome": "SEMINÁRIO TEMÁTICO NA LFE GOVERNAMENTAL 1",
+        "Tipo": "DISCIPLINA",
+        "Carga_Horária": "30h"
+    },
+    {
+        "Código": "ADM0355",
+        "Nome": "SEMINÁRIO TEMÁTICO NA LFE GOVERNAMENTAL 2",
+        "Tipo": "DISCIPLINA",
+        "Carga_Horária": "30h"
+    },
+    {
+        "Código": "ADM0361",
+        "Nome": "SEMINÁRIO TEMÁTICO NA LFE GOVERNAMENTAL 3",
+        "Tipo": "DISCIPLINA",
+        "Carga_Horária": "30h"
+    },
+    {
+        "Código": "ADM0170",
+        "Nome": "SISTEMAS DE COMPUTACAO APLICADOS A ADMINISTRACAO",
+        "Tipo": "DISCIPLINA",
+        "Carga_Horária": "60h"
+    },
+    {
+        "Código": "ADM0338",
+        "Nome": "SISTEMAS DE INFORMAÇÃO E COMUNICAÇÃO NO SETOR PÚBLICO",
+        "Tipo": "DISCIPLINA",
+        "Carga_Horária": "60h"
+    },
+    {
+        "Código": "ADM0021",
+        "Nome": "SOCIOLOGIA APLICADA À ADMINISTRAÇÃO",
+        "Tipo": "DISCIPLINA",
+        "Carga_Horária": "60h"
+    },
+    {
+        "Código": "ADM0326",
+        "Nome": "TEORIAS DA ADMINISTRAÇÃO 2",
+        "Tipo": "DISCIPLINA",
+        "Carga_Horária": "60h"
+    },
+    {
+        "Código": "ADM0331",
+        "Nome": "TEORIAS DA ADMINISTRAÇÃO PÚBLICA",
+        "Tipo": "DISCIPLINA",
+        "Carga_Horária": "60h"
+    },
+    {
+        "Código": "ADM0315",
+        "Nome": "TÓPICOS CONTEMPORÂNEOS EM ADMINISTRAÇÃO 1",
+        "Tipo": "DISCIPLINA",
+        "Carga_Horária": "30h"
+    },
+    {
+        "Código": "ADM0316",
+        "Nome": "TÓPICOS CONTEMPORÂNEOS EM ADMINISTRAÇÃO 2",
+        "Tipo": "DISCIPLINA",
+        "Carga_Horária": "30h"
+    },
+    {
+        "Código": "ADM0309",
+        "Nome": "TÓPICOS CONTEMPORÂNEOS EM ADMINISTRAÇÃO PÚBLICA E GESTÃO SOCIAL",
+        "Tipo": "DISCIPLINA",
+        "Carga_Horária": "30h"
+    },
+    {
+        "Código": "ADM0003",
+        "Nome": "TÓPICOS CONTEMPORÂNEOS EM ESTRATÉGIA",
+        "Tipo": "DISCIPLINA",
+        "Carga_Horária": "30h"
+    },
+    {
+        "Código": "ADM0310",
+        "Nome": "TÓPICOS CONTEMPORÂNEOS EM ESTRATÉGIA E INOVAÇÃO EM ORGANIZAÇÃO",
+        "Tipo": "DISCIPLINA",
+        "Carga_Horária": "30h"
+    },
+    {
+        "Código": "ADM0311",
+        "Nome": "TÓPICOS CONTEMPORÂNEOS EM FINANÇAS",
+        "Tipo": "DISCIPLINA",
+        "Carga_Horária": "30h"
+    },
+    {
+        "Código": "ADM0312",
+        "Nome": "TÓPICOS CONTEMPORÂNEOS EM GESTÃO DE PESSOAS E RELAÇÕES DE TRABALHO",
+        "Tipo": "DISCIPLINA",
+        "Carga_Horária": "30h"
+    },
+    {
+        "Código": "ADM0004",
+        "Nome": "TÓPICOS CONTEMPORÂNEOS EM INOVAÇÃO",
+        "Tipo": "DISCIPLINA",
+        "Carga_Horária": "30h"
+    },
+    {
+        "Código": "ADM0323",
+        "Nome": "TÓPICOS CONTEMPORÂNEOS EM MARKETING",
+        "Tipo": "DISCIPLINA",
+        "Carga_Horária": "30h"
+    },
+    {
+        "Código": "ADM0313",
+        "Nome": "TÓPICOS CONTEMPORÂNEOS EM PRODUÇÃO, LOGÍSTICA E GESTÃO DA INFORMAÇÃO",
+        "Tipo": "DISCIPLINA",
+        "Carga_Horária": "30h"
+    },
+    {
+        "Código": "ADM0020",
+        "Nome": "TÓPICOS EM GESTÃO DA TECNOLOGIA",
+        "Tipo": "DISCIPLINA",
+        "Carga_Horária": "30h"
+    },
+    {
+        "Código": "ADM0019",
+        "Nome": "TÓPICOS EM PRODUÇÃO E OPERAÇÕES",
+        "Tipo": "DISCIPLINA",
+        "Carga_Horária": "30h"
+    },
+    {
+        "Código": "ADM0293",
+        "Nome": "TÓPICOS ESPECIAIS 2",
+        "Tipo": "DISCIPLINA",
+        "Carga_Horária": "60h"
+    },
+    {
+        "Código": "ADM0253",
+        "Nome": "TREINAMENTO, DESENVOLVIMENTO E EDUCAÇÃO",
+        "Tipo": "DISCIPLINA",
+        "Carga_Horária": "60h"
+    }
+]

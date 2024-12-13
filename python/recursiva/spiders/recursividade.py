@@ -5,8 +5,8 @@ import os
 import time
 
 
-class RecursivaDiscSpider(scrapy.Spider):
-    name = "recursiva_disc"
+class RecursividadeSpider(scrapy.Spider):
+    name = "recursividade"
     allowed_domains = ["sigaa.unb.br"]
     start_urls = [
         "https://sigaa.unb.br/sigaa/public/componentes/busca_componentes.jsf?aba=p-ensino"
@@ -15,7 +15,7 @@ class RecursivaDiscSpider(scrapy.Spider):
     def __init__(self, *args, **kwargs):
         super().__init__(*args, **kwargs)
         # Carrega o arquivo de opções do formulário
-        with open("opcoes_formulario.json", "r", encoding="utf-8") as f:
+        with open("../../opcoes_formulario.json", "r", encoding="utf-8") as f:
             self.form_options = json.load(f)
 
         # Filtra todos os departamentos e garante que captura "DEPARTAMENTO" e "DEPTO"

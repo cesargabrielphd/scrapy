@@ -132,224 +132,224 @@
         "Carga_Horária": "60h"
     },
     {
-        "Código": "DAN0008",
-        "Nome": "ARQUEOLOGIA E OS MUNDOS INDÍGENAS PRÉ-COLOMBIANOS",
+        "Código": "ADM0300",
+        "Nome": "COMPORTAMENTO DO CONSUMIDOR",
         "Tipo": "DISCIPLINA",
         "Carga_Horária": "60h"
     },
     {
-        "Código": "DAN0089",
-        "Nome": "ARTES E OFÍCIOS DOS SABERES TRADICIONAIS",
+        "Código": "ADM0231",
+        "Nome": "COMPORTAMENTO ORGANIZACIONAL",
+        "Tipo": "DISCIPLINA",
+        "Carga_Horária": "60h"
+    },
+    {
+        "Código": "ADM0038",
+        "Nome": "COMUNICACOES ADMINISTRATIVAS",
+        "Tipo": "DISCIPLINA",
+        "Carga_Horária": "60h"
+    },
+    {
+        "Código": "ADM0328",
+        "Nome": "CONTABILIDADE GERAL",
+        "Tipo": "DISCIPLINA",
+        "Carga_Horária": "60h"
+    },
+    {
+        "Código": "ADM0150",
+        "Nome": "CRIACAO DE NEGOCIOS",
+        "Tipo": "DISCIPLINA",
+        "Carga_Horária": "60h"
+    },
+    {
+        "Código": "ADM0322",
+        "Nome": "CRIATIVIDADE E INOVAÇÃO NAS ORGANIZAÇÕES",
+        "Tipo": "DISCIPLINA",
+        "Carga_Horária": "60h"
+    },
+    {
+        "Código": "ADM0365",
+        "Nome": "DIREITO E LEGISLAÇÃO TRIBUTÁRIA",
+        "Tipo": "DISCIPLINA",
+        "Carga_Horária": "30h"
+    },
+    {
+        "Código": "ADM0362",
+        "Nome": "DIREITO EMPRESARIAL",
+        "Tipo": "DISCIPLINA",
+        "Carga_Horária": "60h"
+    },
+    {
+        "Código": "ADM0333",
+        "Nome": "ECONOMIA BRASILEIRA",
+        "Tipo": "DISCIPLINA",
+        "Carga_Horária": "60h"
+    },
+    {
+        "Código": "ADM0011",
+        "Nome": "ECONOMIA COMPORTAMENTAL APLICADA AO MARKETING",
+        "Tipo": "DISCIPLINA",
+        "Carga_Horária": "60h"
+    },
+    {
+        "Código": "ADM0297",
+        "Nome": "ELABORAÇÃO DE TRABALHO DE CURSO",
+        "Tipo": "DISCIPLINA",
+        "Carga_Horária": "60h"
+    },
+    {
+        "Código": "ADM0015",
+        "Nome": "ESTADO, GOVERNO E SOCIEDADE",
+        "Tipo": "DISCIPLINA",
+        "Carga_Horária": "60h"
+    },
+    {
+        "Código": "ADM0223",
+        "Nome": "ESTAGIO SUPERVISIONADO",
+        "Tipo": "DISCIPLINA",
+        "Carga_Horária": "270h"
+    },
+    {
+        "Código": "ADM0097",
+        "Nome": "ESTAGIO SUPERVISIONADO 1",
         "Tipo": "DISCIPLINA",
         "Carga_Horária": "90h"
     },
     {
-        "Código": "DAN0001",
-        "Nome": "CHINA: QUESTÕES SÓCIO-CULTURAIS",
-        "Tipo": "DISCIPLINA",
-        "Carga_Horária": "60h"
-    },
-    {
-        "Código": "DAN0002",
-        "Nome": "COMUNIDADES QUILOMBOLAS",
-        "Tipo": "DISCIPLINA",
-        "Carga_Horária": "60h"
-    },
-    {
-        "Código": "DAN0052",
-        "Nome": "CULTURA E MEIO AMBIENTE",
-        "Tipo": "DISCIPLINA",
-        "Carga_Horária": "60h"
-    },
-    {
-        "Código": "DAN0031",
-        "Nome": "DISSERTAÇÃO",
-        "Tipo": "DISCIPLINA",
-        "Carga_Horária": "300h"
-    },
-    {
-        "Código": "DAN0011",
-        "Nome": "ESTILOS DE ANTROPOLOGIA",
-        "Tipo": "DISCIPLINA",
-        "Carga_Horária": "60h"
-    },
-    {
-        "Código": "DAN0061",
-        "Nome": "ESTUDOS AFRO-BRASILEIROS",
-        "Tipo": "DISCIPLINA",
-        "Carga_Horária": "60h"
-    },
-    {
-        "Código": "DAN0010",
-        "Nome": "ETNOGRAFIA DAS INSTITUIÇÕES",
-        "Tipo": "DISCIPLINA",
-        "Carga_Horária": "60h"
-    },
-    {
-        "Código": "DAN0039",
-        "Nome": "FUNDAMENTOS DE CIÊNCIAS SOCIAIS",
-        "Tipo": "DISCIPLINA",
-        "Carga_Horária": "60h"
-    },
-    {
-        "Código": "DAN0058",
-        "Nome": "IDENTIDADE E RELAÇÕES INTERÉTNICAS",
-        "Tipo": "DISCIPLINA",
-        "Carga_Horária": "60h"
-    },
-    {
-        "Código": "DAN0012",
-        "Nome": "INDIGENISMO",
-        "Tipo": "DISCIPLINA",
-        "Carga_Horária": "60h"
-    },
-    {
-        "Código": "DAN0049",
-        "Nome": "INDIVÍDUO, CULTURA E SOCIEDADE",
-        "Tipo": "DISCIPLINA",
-        "Carga_Horária": "60h"
-    },
-    {
-        "Código": "DAN0022",
-        "Nome": "INTRODUÇÃO À ANTROPOLOGIA",
-        "Tipo": "DISCIPLINA",
-        "Carga_Horária": "60h"
-    },
-    {
-        "Código": "DAN0040",
-        "Nome": "MÉTODOS E TÉCNICAS EM ANTROPOLOGIA SOCIAL",
+        "Código": "ADM0099",
+        "Nome": "ESTAGIO SUPERVISIONADO 2",
         "Tipo": "DISCIPLINA",
         "Carga_Horária": "90h"
     },
     {
-        "Código": "DAN0024",
-        "Nome": "MULHER, CULTURA E SOCIEDADE",
-        "Tipo": "DISCIPLINA",
-        "Carga_Horária": "60h"
-    },
-    {
-        "Código": "DAN0050",
-        "Nome": "ORGANIZAÇÃO SOCIAL E PARENTESCO",
-        "Tipo": "DISCIPLINA",
-        "Carga_Horária": "60h"
-    },
-    {
-        "Código": "DAN0077",
-        "Nome": "PENSAMENTO ANTROPOLÓGICO BRASILEIRO",
-        "Tipo": "DISCIPLINA",
-        "Carga_Horária": "60h"
-    },
-    {
-        "Código": "DAN0021",
-        "Nome": "SEMINÁRIO DE PESQUISA ANTROPOLÓGICA",
+        "Código": "ADM0101",
+        "Nome": "ESTAGIO SUPERVISIONADO 3",
         "Tipo": "DISCIPLINA",
         "Carga_Horária": "90h"
     },
     {
-        "Código": "DAN0062",
-        "Nome": "SOCIEDADES CAMPONESAS",
+        "Código": "ADM0210",
+        "Nome": "ESTAGIO SUPERVISIONADO EM ADMINISTRACAO DE EMPRESA",
+        "Tipo": "DISCIPLINA",
+        "Carga_Horária": "270h"
+    },
+    {
+        "Código": "ADM0208",
+        "Nome": "ESTAGIO SUPERVISIONADO EM ADMINISTRACAO PUBLICA",
+        "Tipo": "DISCIPLINA",
+        "Carga_Horária": "270h"
+    },
+    {
+        "Código": "ADM0157",
+        "Nome": "ESTRATÉGIA ORGANIZACIONAL",
         "Tipo": "DISCIPLINA",
         "Carga_Horária": "60h"
     },
     {
-        "Código": "DAN0036",
-        "Nome": "SOCIEDADES COMPLEXAS",
+        "Código": "ADM0002",
+        "Nome": "ESTUDOS E PESQUISAS EM ADMINISTRAÇÃO",
+        "Tipo": "DISCIPLINA",
+        "Carga_Horária": "30h"
+    },
+    {
+        "Código": "ADM0052",
+        "Nome": "FINANÇAS 1",
         "Tipo": "DISCIPLINA",
         "Carga_Horária": "60h"
     },
     {
-        "Código": "DAN0063",
-        "Nome": "SOCIEDADES INDÍGENAS",
+        "Código": "ADM0301",
+        "Nome": "FINANÇAS 2",
         "Tipo": "DISCIPLINA",
         "Carga_Horária": "60h"
     },
     {
-        "Código": "DAN0041",
-        "Nome": "TEORIA ANTROPOLÓGICA 1",
+        "Código": "ADM0051",
+        "Nome": "FINANCAS DE EMPRESAS",
+        "Tipo": "DISCIPLINA",
+        "Carga_Horária": "90h"
+    },
+    {
+        "Código": "ADM0162",
+        "Nome": "GESTÃO DA INOVAÇÃO",
         "Tipo": "DISCIPLINA",
         "Carga_Horária": "60h"
     },
     {
-        "Código": "DAN0042",
-        "Nome": "TEORIA ANTROPOLÓGICA 2",
+        "Código": "ADM0352",
+        "Nome": "GESTÃO DA QUALIDADE NO SETOR PÚBLICO",
+        "Tipo": "DISCIPLINA",
+        "Carga_Horária": "30h"
+    },
+    {
+        "Código": "ADM0017",
+        "Nome": "GESTÃO DE COMPRAS PÚBLICAS",
         "Tipo": "DISCIPLINA",
         "Carga_Horária": "60h"
     },
     {
-        "Código": "DAN0065",
-        "Nome": "TÓPICOS ESPECIAIS EM ANTROPOLOGIA 1",
+        "Código": "ADM0258",
+        "Nome": "GESTÃO DE DESEMPENHO",
         "Tipo": "DISCIPLINA",
         "Carga_Horária": "60h"
     },
     {
-        "Código": "DAN0084",
-        "Nome": "TÓPICOS ESPECIAIS EM ANTROPOLOGIA 10",
+        "Código": "ADM0087",
+        "Nome": "GESTÃO DE FINANÇAS PESSOAIS",
         "Tipo": "DISCIPLINA",
         "Carga_Horária": "60h"
     },
     {
-        "Código": "DAN0086",
-        "Nome": "TÓPICOS ESPECIAIS EM ANTROPOLOGIA 11",
+        "Código": "ADM0006",
+        "Nome": "GESTÃO DE MARCAS",
         "Tipo": "DISCIPLINA",
         "Carga_Horária": "60h"
     },
     {
-        "Código": "DAN0088",
-        "Nome": "TÓPICOS ESPECIAIS EM ANTROPOLOGIA 12",
+        "Código": "ADM0302",
+        "Nome": "GESTÃO DE MUDANÇA ORGANIZACIONAL",
         "Tipo": "DISCIPLINA",
         "Carga_Horária": "60h"
     },
     {
-        "Código": "DAN0066",
-        "Nome": "TÓPICOS ESPECIAIS EM  ANTROPOLOGIA 2",
+        "Código": "ADM0342",
+        "Nome": "GESTÃO DE OPERAÇÕES E LOGÍSTICA 1",
         "Tipo": "DISCIPLINA",
         "Carga_Horária": "60h"
     },
     {
-        "Código": "DAN0068",
-        "Nome": "TÓPICOS ESPECIAIS EM ANTROPOLOGIA 3",
+        "Código": "ADM0363",
+        "Nome": "GESTÃO DE ORGANIZAÇÃO SEM FINS LUCRATIVOS",
         "Tipo": "DISCIPLINA",
         "Carga_Horária": "60h"
     },
     {
-        "Código": "DAN0070",
-        "Nome": "TÓPICOS ESPECIAIS EM ANTROPOLOGIA 4",
+        "Código": "ADM0041",
+        "Nome": "GESTÃO DE PESSOAS EM ORGANIZAÇÕES",
         "Tipo": "DISCIPLINA",
         "Carga_Horária": "60h"
     },
     {
-        "Código": "DAN0072",
-        "Nome": "TÓPICOS ESPECIAIS EM ANTROPOLOGIA 5",
+        "Código": "ADM0303",
+        "Nome": "GESTÃO DE PROCESSOS",
         "Tipo": "DISCIPLINA",
         "Carga_Horária": "60h"
     },
     {
-        "Código": "DAN0074",
-        "Nome": "TÓPICOS ESPECIAIS EM ANTROPOLOGIA 6",
+        "Código": "ADM0226",
+        "Nome": "GESTÃO DE PROJETOS",
         "Tipo": "DISCIPLINA",
         "Carga_Horária": "60h"
     },
     {
-        "Código": "DAN0076",
-        "Nome": "TÓPICOS ESPECIAIS EM ANTROPOLOGIA 7",
+        "Código": "ADM0304",
+        "Nome": "GESTÃO DE RESPONSABILIDADE SOCIOAMBIENTAL",
         "Tipo": "DISCIPLINA",
         "Carga_Horária": "60h"
     },
     {
-        "Código": "DAN0080",
-        "Nome": "TÓPICOS ESPECIAIS EM ANTROPOLOGIA 8",
-        "Tipo": "DISCIPLINA",
-        "Carga_Horária": "60h"
-    },
-    {
-        "Código": "DAN0082",
-        "Nome": "TÓPICOS ESPECIAIS EM ANTROPOLOGIA 9",
-        "Tipo": "DISCIPLINA",
-        "Carga_Horária": "60h"
-    },
-    {
-        "Código": "DAN0060",
-        "Nome": "TRADIÇÕES CULTURAIS BRASILEIRAS",
+        "Código": "ADM0366",
+        "Nome": "GESTÃO DE TELETRABALHO",
         "Tipo": "DISCIPLINA",
         "Carga_Horária": "60h"
     }

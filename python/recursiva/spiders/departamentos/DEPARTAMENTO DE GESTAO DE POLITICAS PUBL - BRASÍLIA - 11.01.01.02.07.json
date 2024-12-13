@@ -192,147 +192,147 @@
         "Carga_Horária": "60h"
     },
     {
-        "Código": "DIN0050",
-        "Nome": "MATERIAIS E PROCESSOS GRAFICOS",
-        "Tipo": "DISCIPLINA",
-        "Carga_Horária": "90h"
-    },
-    {
-        "Código": "DIN0023",
-        "Nome": "METODOLOGIA DO PROJETO",
+        "Código": "GPP0049",
+        "Nome": "ORGANIZAÇÃO, PROCESSOS E TOMADA DE DECISÃO",
         "Tipo": "DISCIPLINA",
         "Carga_Horária": "60h"
     },
     {
-        "Código": "DIN0066",
-        "Nome": "MODELAGEM DIGITAL",
-        "Tipo": "DISCIPLINA",
-        "Carga_Horária": "90h"
-    },
-    {
-        "Código": "DIN0046",
-        "Nome": "OFICINA DE MODELOS E MAQUETE",
+        "Código": "GPP0023",
+        "Nome": "PARTICIPAÇÃO SOCIAL E POLÍTICAS PÚBLICAS",
         "Tipo": "DISCIPLINA",
         "Carga_Horária": "60h"
     },
     {
-        "Código": "DIN0008",
-        "Nome": "PROCESSOS ARTESANAIS DE REPRODUÇÃO GRÁFICA",
+        "Código": "GPP0033",
+        "Nome": "PLANEJAMENTO GOVERNAMENTAL",
         "Tipo": "DISCIPLINA",
         "Carga_Horária": "60h"
     },
     {
-        "Código": "MAT0172",
-        "Nome": "ESTÁGIO SUPERVISIONADO 3",
-        "Tipo": "DISCIPLINA",
-        "Carga_Horária": "135h"
-    },
-    {
-        "Código": "MAT0097",
-        "Nome": "ESTAGIO SUPERVISIONADO DE REGENCIA EM MATEMATICA",
+        "Código": "GPP0042",
+        "Nome": "POLÍTICA FISCAL E SOCIEDADE",
         "Tipo": "DISCIPLINA",
         "Carga_Horária": "60h"
     },
     {
-        "Código": "MAT0063",
-        "Nome": "ESTAGIO SUPERVISIONADO MATEMATICA - DP",
+        "Código": "GPP0024",
+        "Nome": "POLÍTICAS PÚBLICAS DE CIÊNCIA, TECNOLOGIA E INOVAÇÃO",
+        "Tipo": "DISCIPLINA",
+        "Carga_Horária": "60h"
+    },
+    {
+        "Código": "GPP0025",
+        "Nome": "POLÍTICAS PÚBLICAS DE EMPREGO TRABALHO E RENDA",
+        "Tipo": "DISCIPLINA",
+        "Carga_Horária": "60h"
+    },
+    {
+        "Código": "GPP0026",
+        "Nome": "POLÍTICAS PÚBLICAS E (DES)ENVOLVIMENTO TERRITORIAL",
+        "Tipo": "DISCIPLINA",
+        "Carga_Horária": "60h"
+    },
+    {
+        "Código": "GPP0027",
+        "Nome": "POLÍTICAS URBANAS",
+        "Tipo": "DISCIPLINA",
+        "Carga_Horária": "60h"
+    },
+    {
+        "Código": "GPP0028",
+        "Nome": "PROCESSO DECISÓRIO E POLÍTICAS PÚBLICAS",
+        "Tipo": "DISCIPLINA",
+        "Carga_Horária": "60h"
+    },
+    {
+        "Código": "GPP0011",
+        "Nome": "PROJETO DE PESQUISA EM GPP",
+        "Tipo": "DISCIPLINA",
+        "Carga_Horária": "60h"
+    },
+    {
+        "Código": "GPP0002",
+        "Nome": "RESIDÊNCIA EM POLÍTICAS PÚBLICAS",
         "Tipo": "DISCIPLINA",
         "Carga_Horária": "120h"
     },
     {
-        "Código": "MAT0165",
-        "Nome": "ESTRATÉGIAS PARA O ENSINO DE ÁLGEBRA",
+        "Código": "GPP0003",
+        "Nome": "RESIDÊNCIA EM POLÍTICAS PÚBLICAS 2",
         "Tipo": "DISCIPLINA",
-        "Carga_Horária": "90h"
+        "Carga_Horária": "60h"
     },
     {
-        "Código": "MAT0166",
-        "Nome": "ESTRATÉGIAS PARA O ENSINO DE GEOMETRIA",
-        "Tipo": "DISCIPLINA",
-        "Carga_Horária": "90h"
-    },
-    {
-        "Código": "MAT0015",
-        "Nome": "FUNDAMENTOS DE ÁLGEBRA 1",
+        "Código": "GPP0047",
+        "Nome": "SEMINÁRIO TEMÁTICO 2",
         "Tipo": "DISCIPLINA",
         "Carga_Horária": "30h"
     },
     {
-        "Código": "MAT0008",
-        "Nome": "FUNDAMENTOS DE ÁLGEBRA 2",
+        "Código": "GPP0050",
+        "Nome": "SEMINÁRIO TEMÁTICO 3",
         "Tipo": "DISCIPLINA",
-        "Carga_Horária": "45h"
+        "Carga_Horária": "30h"
     },
     {
-        "Código": "MAT0103",
-        "Nome": "FUNDAMENTOS GEOMETRICOS DA RELATIVIDADE",
+        "Código": "GPP0044",
+        "Nome": "SOCIOLOGIA ORGANIZACIONAL",
         "Tipo": "DISCIPLINA",
         "Carga_Horária": "60h"
     },
     {
-        "Código": "MAT0072",
-        "Nome": "FUNDAMENTOS MATEMATICA 1",
+        "Código": "GPP0048",
+        "Nome": "TEORIA DAS FINANÇAS PÚBLICAS",
         "Tipo": "DISCIPLINA",
         "Carga_Horária": "60h"
     },
     {
-        "Código": "MAT0085",
-        "Nome": "GEOMETRIA",
-        "Tipo": "DISCIPLINA",
-        "Carga_Horária": "90h"
-    },
-    {
-        "Código": "MAT0111",
-        "Nome": "GEOMETRIA 1",
+        "Código": "GPP0029",
+        "Nome": "TEORIAS MARXISTAS DO ESTADO",
         "Tipo": "DISCIPLINA",
         "Carga_Horária": "60h"
     },
     {
-        "Código": "MAT0114",
-        "Nome": "GEOMETRIA 2",
+        "Código": "GPP0004",
+        "Nome": "TÓPICOS CONTEMPORÂNEOS EM GESTÃO DE POLÍTICAS PÚBLICAS 1",
         "Tipo": "DISCIPLINA",
         "Carga_Horária": "60h"
     },
     {
-        "Código": "MAT0003",
-        "Nome": "GEOMETRIA ANALÍTICA E VETORES",
-        "Tipo": "DISCIPLINA",
-        "Carga_Horária": "45h"
-    },
-    {
-        "Código": "MAT0010",
-        "Nome": "GEOMETRIA ANALÍTICA PARA MATEMÁTICA",
+        "Código": "GPP0005",
+        "Nome": "TÓPICOS CONTEMPORÂNEOS EM GESTÃO DE POLÍTICAS PÚBLICAS 2",
         "Tipo": "DISCIPLINA",
         "Carga_Horária": "60h"
     },
     {
-        "Código": "MAT0050",
-        "Nome": "GEOMETRIA DIFERENCIAL 1",
+        "Código": "GPP0006",
+        "Nome": "TÓPICOS CONTEMPORÂNEOS EM GESTÃO DE POLÍTICAS PÚBLICAS 3",
         "Tipo": "DISCIPLINA",
         "Carga_Horária": "60h"
     },
     {
-        "Código": "MAT0014",
-        "Nome": "GEOMETRIA ESPACIAL",
+        "Código": "GPP0007",
+        "Nome": "TÓPICOS CONTEMPORÂNEOS EM GESTÃO DE POLÍTICAS PÚBLICAS 4",
         "Tipo": "DISCIPLINA",
-        "Carga_Horária": "45h"
+        "Carga_Horária": "60h"
     },
     {
-        "Código": "MAT0062",
-        "Nome": "GEOMETRIA PARA ENSINO DO 1 E 2 GRAUS",
+        "Código": "GPP0013",
+        "Nome": "TÓPICOS CONTEMPORÂNEOS EM GESTÃO DE POLÍTICAS PÚBLICAS 5",
         "Tipo": "DISCIPLINA",
-        "Carga_Horária": "90h"
+        "Carga_Horária": "60h"
     },
     {
-        "Código": "MAT0129",
-        "Nome": "GEOMETRIA PARA O ENSINO 1",
+        "Código": "GPP0014",
+        "Nome": "TÓPICOS CONTEMPORÂNEOS EM GESTÃO DE POLÍTICAS PÚBLICAS 6",
         "Tipo": "DISCIPLINA",
-        "Carga_Horária": "90h"
+        "Carga_Horária": "60h"
     },
     {
-        "Código": "MAT0131",
-        "Nome": "GEOMETRIA PARA O ENSINO 2",
+        "Código": "GPP0030",
+        "Nome": "TRABALHO DE CONCLUSÃO DE CURSO",
         "Tipo": "DISCIPLINA",
-        "Carga_Horária": "90h"
+        "Carga_Horária": "120h"
     }
 ]

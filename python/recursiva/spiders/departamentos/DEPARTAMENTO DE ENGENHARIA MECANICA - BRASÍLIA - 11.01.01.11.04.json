@@ -715,668 +715,668 @@
     },
     {
         "Código": "ENM0177",
-        "Nome": "MICROCONTROLADORE APLICADOS À AUTOMAÇÃO",
-        "Tipo": "DISCIPLINA",
-        "Carga_Horária": "60h"
+        "Nome": null,
+        "Tipo": null,
+        "Carga_Horária": "h"
     },
     {
-        "Código": "DPG0623",
-        "Nome": "MICROHIDRODINÂMICA",
-        "Tipo": "DISCIPLINA",
-        "Carga_Horária": "60h"
+        "Código": null,
+        "Nome": null,
+        "Tipo": null,
+        "Carga_Horária": "h"
     },
     {
-        "Código": "ENM0282",
-        "Nome": "MICROUSINAGEM",
-        "Tipo": "DISCIPLINA",
-        "Carga_Horária": "30h"
+        "Código": null,
+        "Nome": null,
+        "Tipo": null,
+        "Carga_Horária": "h"
     },
     {
-        "Código": "ENM0195",
-        "Nome": "MODELAGEM E IMPLEMENTAÇÃO DE SISTEMAS A EVENTOS DISCRETOS",
-        "Tipo": "DISCIPLINA",
-        "Carga_Horária": "90h"
+        "Código": null,
+        "Nome": null,
+        "Tipo": null,
+        "Carga_Horária": "h"
     },
     {
-        "Código": "ENM0074",
-        "Nome": "MOTORES DE COMBUSTAO INTERNA",
-        "Tipo": "DISCIPLINA",
-        "Carga_Horária": "60h"
+        "Código": null,
+        "Nome": null,
+        "Tipo": null,
+        "Carga_Horária": "h"
     },
     {
-        "Código": "ENM0276",
-        "Nome": "OFICINA DE ELEMENTOS FINITOS NA ANÁLISE DE TENSÕES",
-        "Tipo": "DISCIPLINA",
-        "Carga_Horária": "60h"
+        "Código": null,
+        "Nome": null,
+        "Tipo": null,
+        "Carga_Horária": "h"
     },
     {
-        "Código": "ENM0182",
-        "Nome": "PLANEJAMENTO DE PROCESSOS DE FABRICAÇÃO",
-        "Tipo": "DISCIPLINA",
-        "Carga_Horária": "60h"
+        "Código": null,
+        "Nome": null,
+        "Tipo": null,
+        "Carga_Horária": "h"
     },
     {
-        "Código": "DPG0426",
-        "Nome": "PLASTICIDADE",
-        "Tipo": "DISCIPLINA",
-        "Carga_Horária": "60h"
+        "Código": null,
+        "Nome": null,
+        "Tipo": null,
+        "Carga_Horária": "h"
     },
     {
-        "Código": "DPG1129",
-        "Nome": "POLÍMEROS E COMPÓSITOS POLIMÉRICOS",
-        "Tipo": "DISCIPLINA",
-        "Carga_Horária": "60h"
+        "Código": null,
+        "Nome": null,
+        "Tipo": null,
+        "Carga_Horária": "h"
     },
     {
-        "Código": "ENM0323",
-        "Nome": "PRINCÍPIOS DE INTERNET DAS COISAS",
-        "Tipo": "DISCIPLINA",
-        "Carga_Horária": "60h"
+        "Código": null,
+        "Nome": null,
+        "Tipo": null,
+        "Carga_Horária": "h"
     },
     {
-        "Código": "DPG0268",
-        "Nome": "PROCESSAMENTO DE IMAGENS",
-        "Tipo": "DISCIPLINA",
-        "Carga_Horária": "60h"
+        "Código": null,
+        "Nome": null,
+        "Tipo": null,
+        "Carga_Horária": "h"
     },
     {
-        "Código": "DPG0820",
-        "Nome": "PROCESSAMENTO DE SINAIS",
-        "Tipo": "DISCIPLINA",
-        "Carga_Horária": "60h"
+        "Código": null,
+        "Nome": null,
+        "Tipo": null,
+        "Carga_Horária": "h"
     },
     {
-        "Código": "DPG0219",
-        "Nome": "PROCESSAMENTO DE SINAIS E SISTEMAS MECÂNICOS LINEARES",
-        "Tipo": "DISCIPLINA",
-        "Carga_Horária": "60h"
+        "Código": null,
+        "Nome": null,
+        "Tipo": null,
+        "Carga_Horária": "h"
     },
     {
-        "Código": "ENM0187",
-        "Nome": "PROCESSO DE DESENVOLVIMENTO DE PRODUTO",
-        "Tipo": "DISCIPLINA",
-        "Carga_Horária": "60h"
+        "Código": null,
+        "Nome": null,
+        "Tipo": null,
+        "Carga_Horária": "h"
     },
     {
-        "Código": "ENM0149",
-        "Nome": "PROCESSO DE FABRICACAO 1",
-        "Tipo": "DISCIPLINA",
-        "Carga_Horária": "60h"
+        "Código": null,
+        "Nome": null,
+        "Tipo": null,
+        "Carga_Horária": "h"
     },
     {
-        "Código": "ENM0150",
-        "Nome": "PROCESSO DE FABRICACAO 2",
-        "Tipo": "DISCIPLINA",
-        "Carga_Horária": "60h"
+        "Código": null,
+        "Nome": null,
+        "Tipo": null,
+        "Carga_Horária": "h"
     },
     {
-        "Código": "ENM0285",
-        "Nome": "PROCESSOS ABRASIVOS E NÃO CONVENCIONAIS",
-        "Tipo": "DISCIPLINA",
-        "Carga_Horária": "30h"
+        "Código": null,
+        "Nome": null,
+        "Tipo": null,
+        "Carga_Horária": "h"
     },
     {
-        "Código": "ENM0171",
-        "Nome": "PROCESSOS DE FABRICACAO",
-        "Tipo": "DISCIPLINA",
-        "Carga_Horária": "60h"
+        "Código": null,
+        "Nome": null,
+        "Tipo": null,
+        "Carga_Horária": "h"
     },
     {
-        "Código": "ENM0284",
-        "Nome": "PROCESSOS ESPECIAIS DE SOLDAGEM",
-        "Tipo": "DISCIPLINA",
-        "Carga_Horária": "60h"
+        "Código": null,
+        "Nome": null,
+        "Tipo": null,
+        "Carga_Horária": "h"
     },
     {
-        "Código": "ENM0236",
-        "Nome": "PROJETO DE ELEMENTOS DE MÁQUINAS",
-        "Tipo": "DISCIPLINA",
-        "Carga_Horária": "60h"
+        "Código": null,
+        "Nome": null,
+        "Tipo": null,
+        "Carga_Horária": "h"
     },
     {
-        "Código": "ENM0129",
-        "Nome": "PROJETO DE GRADUACAO 1",
-        "Tipo": "DISCIPLINA",
-        "Carga_Horária": "30h"
+        "Código": null,
+        "Nome": null,
+        "Tipo": null,
+        "Carga_Horária": "h"
     },
     {
-        "Código": "ENM0130",
-        "Nome": "PROJETO DE GRADUACAO 2",
-        "Tipo": "DISCIPLINA",
-        "Carga_Horária": "90h"
+        "Código": null,
+        "Nome": null,
+        "Tipo": null,
+        "Carga_Horária": "h"
     },
     {
-        "Código": "ENM0107",
-        "Nome": "PROJETO DE MAQUINAS",
-        "Tipo": "DISCIPLINA",
-        "Carga_Horária": "60h"
+        "Código": null,
+        "Nome": null,
+        "Tipo": null,
+        "Carga_Horária": "h"
     },
     {
-        "Código": "ENM0237",
-        "Nome": "PROJETO DE MÁQUINAS",
-        "Tipo": "DISCIPLINA",
-        "Carga_Horária": "60h"
+        "Código": null,
+        "Nome": null,
+        "Tipo": null,
+        "Carga_Horária": "h"
     },
     {
-        "Código": "ENM0122",
-        "Nome": "PROJETO DE MAQUINAS 1",
-        "Tipo": "DISCIPLINA",
-        "Carga_Horária": "60h"
+        "Código": null,
+        "Nome": null,
+        "Tipo": null,
+        "Carga_Horária": "h"
     },
     {
-        "Código": "ENM0123",
-        "Nome": "PROJETO DE MAQUINAS 2",
-        "Tipo": "DISCIPLINA",
-        "Carga_Horária": "60h"
+        "Código": null,
+        "Nome": null,
+        "Tipo": null,
+        "Carga_Horária": "h"
     },
     {
-        "Código": "ENM0289",
-        "Nome": "PROJETO DE MÁQUINAS CONTROLADAS POR COMPUTADOR",
-        "Tipo": "DISCIPLINA",
-        "Carga_Horária": "60h"
+        "Código": null,
+        "Nome": null,
+        "Tipo": null,
+        "Carga_Horária": "h"
     },
     {
-        "Código": "ENM0054",
-        "Nome": "PROJETO DE MAQUINAS-FERRAMENTA",
-        "Tipo": "DISCIPLINA",
-        "Carga_Horária": "60h"
+        "Código": null,
+        "Nome": null,
+        "Tipo": null,
+        "Carga_Horária": "h"
     },
     {
-        "Código": "ENM0125",
-        "Nome": "PROJETO DE MECANISMOS",
-        "Tipo": "DISCIPLINA",
-        "Carga_Horária": "60h"
+        "Código": null,
+        "Nome": null,
+        "Tipo": null,
+        "Carga_Horária": "h"
     },
     {
-        "Código": "DPG0458",
-        "Nome": "PROJETO DE PRODUTOS MECATRÔNICOS",
-        "Tipo": "DISCIPLINA",
-        "Carga_Horária": "60h"
+        "Código": null,
+        "Nome": null,
+        "Tipo": null,
+        "Carga_Horária": "h"
     },
     {
-        "Código": "ENM0077",
-        "Nome": "PROJETO DE SISTEMAS",
-        "Tipo": "DISCIPLINA",
-        "Carga_Horária": "60h"
+        "Código": null,
+        "Nome": null,
+        "Tipo": null,
+        "Carga_Horária": "h"
     },
     {
-        "Código": "ENM0124",
-        "Nome": "PROJETO DE SISTEMAS MECANICOS",
-        "Tipo": "DISCIPLINA",
-        "Carga_Horária": "60h"
+        "Código": null,
+        "Nome": null,
+        "Tipo": null,
+        "Carga_Horária": "h"
     },
     {
-        "Código": "ENM0287",
-        "Nome": "PROJETO INTEGRADOR",
-        "Tipo": "DISCIPLINA",
-        "Carga_Horária": "90h"
+        "Código": null,
+        "Nome": null,
+        "Tipo": null,
+        "Carga_Horária": "h"
     },
     {
-        "Código": "ENM0197",
-        "Nome": "PROJETO INTEGRADOR",
-        "Tipo": "DISCIPLINA",
-        "Carga_Horária": "90h"
+        "Código": null,
+        "Nome": null,
+        "Tipo": null,
+        "Carga_Horária": "h"
     },
     {
-        "Código": "ENM0181",
-        "Nome": "PROJETO INTEGRADOR 1",
-        "Tipo": "DISCIPLINA",
-        "Carga_Horária": "30h"
+        "Código": null,
+        "Nome": null,
+        "Tipo": null,
+        "Carga_Horária": "h"
     },
     {
-        "Código": "ENM0186",
-        "Nome": "PROJETO INTEGRADOR 2",
-        "Tipo": "DISCIPLINA",
-        "Carga_Horária": "45h"
+        "Código": null,
+        "Nome": null,
+        "Tipo": null,
+        "Carga_Horária": "h"
     },
     {
-        "Código": "ENM0168",
-        "Nome": "ROBOTICA INDUSTRIAL 1",
-        "Tipo": "DISCIPLINA",
-        "Carga_Horária": "60h"
+        "Código": null,
+        "Nome": null,
+        "Tipo": null,
+        "Carga_Horária": "h"
     },
     {
-        "Código": "ENM0119",
-        "Nome": "SEGURANCA EM SISTEMAS DE CONTROLE E AUTOMACAO",
-        "Tipo": "DISCIPLINA",
-        "Carga_Horária": "30h"
+        "Código": null,
+        "Nome": null,
+        "Tipo": null,
+        "Carga_Horária": "h"
     },
     {
-        "Código": "ENM0191",
-        "Nome": "SELEÇÃO DE MATERIAIS EM ENGENHARIA E DESIGN",
-        "Tipo": "DISCIPLINA",
-        "Carga_Horária": "60h"
+        "Código": null,
+        "Nome": null,
+        "Tipo": null,
+        "Carga_Horária": "h"
     },
     {
-        "Código": "DPG0162",
-        "Nome": "SISTEMAS DE APROVEITAMENTO DE ENERGIA SOLAR",
-        "Tipo": "DISCIPLINA",
-        "Carga_Horária": "60h"
+        "Código": null,
+        "Nome": null,
+        "Tipo": null,
+        "Carga_Horária": "h"
     },
     {
-        "Código": "ENM0175",
-        "Nome": "SISTEMAS DE CLIMATIZACAO",
-        "Tipo": "DISCIPLINA",
-        "Carga_Horária": "60h"
+        "Código": null,
+        "Nome": null,
+        "Tipo": null,
+        "Carga_Horária": "h"
     },
     {
-        "Código": "ENM0088",
-        "Nome": "SISTEMAS DE CONTROLE",
-        "Tipo": "DISCIPLINA",
-        "Carga_Horária": "60h"
+        "Código": null,
+        "Nome": null,
+        "Tipo": null,
+        "Carga_Horária": "h"
     },
     {
-        "Código": "ENM0118",
-        "Nome": "SISTEMAS DE MEDIÇÃO",
-        "Tipo": "DISCIPLINA",
-        "Carga_Horária": "45h"
+        "Código": null,
+        "Nome": null,
+        "Tipo": null,
+        "Carga_Horária": "h"
     },
     {
-        "Código": "DPG0687",
-        "Nome": "SISTEMAS DIGITAIS PARA AUTOMAÇÃO",
-        "Tipo": "DISCIPLINA",
-        "Carga_Horária": "60h"
+        "Código": null,
+        "Nome": null,
+        "Tipo": null,
+        "Carga_Horária": "h"
     },
     {
-        "Código": "DPG0586",
-        "Nome": "SISTEMAS DINÂMICOS",
-        "Tipo": "DISCIPLINA",
-        "Carga_Horária": "60h"
+        "Código": null,
+        "Nome": null,
+        "Tipo": null,
+        "Carga_Horária": "h"
     },
     {
-        "Código": "DPG1108",
-        "Nome": "SISTEMAS DINÂMICOS LINEARES",
-        "Tipo": "DISCIPLINA",
-        "Carga_Horária": "60h"
+        "Código": null,
+        "Nome": null,
+        "Tipo": null,
+        "Carga_Horária": "h"
     },
     {
-        "Código": "ENM0174",
-        "Nome": "SISTEMAS ENERGETICOS",
-        "Tipo": "DISCIPLINA",
-        "Carga_Horária": "60h"
+        "Código": null,
+        "Nome": null,
+        "Tipo": null,
+        "Carga_Horária": "h"
     },
     {
-        "Código": "ENM0083",
-        "Nome": "SISTEMAS FLUIDO-MECANICOS 1",
-        "Tipo": "DISCIPLINA",
-        "Carga_Horária": "60h"
+        "Código": null,
+        "Nome": null,
+        "Tipo": null,
+        "Carga_Horária": "h"
     },
     {
-        "Código": "ENM0084",
-        "Nome": "SISTEMAS HIDRAULICOS E PNEUMATICOS",
-        "Tipo": "DISCIPLINA",
-        "Carga_Horária": "60h"
+        "Código": null,
+        "Nome": null,
+        "Tipo": null,
+        "Carga_Horária": "h"
     },
     {
-        "Código": "ENM0134",
-        "Nome": "SISTEMAS INTEGRADOS DE MANUFATURA",
-        "Tipo": "DISCIPLINA",
-        "Carga_Horária": "60h"
+        "Código": null,
+        "Nome": null,
+        "Tipo": null,
+        "Carga_Horária": "h"
     },
     {
-        "Código": "ENM0173",
-        "Nome": "SISTEMAS MECANICOS",
-        "Tipo": "DISCIPLINA",
-        "Carga_Horária": "60h"
+        "Código": null,
+        "Nome": null,
+        "Tipo": null,
+        "Carga_Horária": "h"
     },
     {
-        "Código": "ENM0151",
-        "Nome": "SISTEMAS MECANICOS 1",
-        "Tipo": "DISCIPLINA",
-        "Carga_Horária": "60h"
+        "Código": null,
+        "Nome": null,
+        "Tipo": null,
+        "Carga_Horária": "h"
     },
     {
-        "Código": "ENM0152",
-        "Nome": "SISTEMAS MECANICOS 2",
-        "Tipo": "DISCIPLINA",
-        "Carga_Horária": "60h"
+        "Código": null,
+        "Nome": null,
+        "Tipo": null,
+        "Carga_Horária": "h"
     },
     {
-        "Código": "ENM0153",
-        "Nome": "SISTEMAS MECANICOS 3",
-        "Tipo": "DISCIPLINA",
-        "Carga_Horária": "60h"
+        "Código": null,
+        "Nome": null,
+        "Tipo": null,
+        "Carga_Horária": "h"
     },
     {
-        "Código": "ENM0154",
-        "Nome": "SISTEMAS MECANICOS 4",
-        "Tipo": "DISCIPLINA",
-        "Carga_Horária": "60h"
+        "Código": null,
+        "Nome": null,
+        "Tipo": null,
+        "Carga_Horária": "h"
     },
     {
-        "Código": "ENM0178",
-        "Nome": "SISTEMAS RECONFIGURÁVEIS PARA AUTOMAÇÃO",
-        "Tipo": "DISCIPLINA",
-        "Carga_Horária": "60h"
+        "Código": null,
+        "Nome": null,
+        "Tipo": null,
+        "Carga_Horária": "h"
     },
     {
-        "Código": "ENM0235",
-        "Nome": "SOLDAGEM",
-        "Tipo": "DISCIPLINA",
-        "Carga_Horária": "60h"
+        "Código": null,
+        "Nome": null,
+        "Tipo": null,
+        "Carga_Horária": "h"
     },
     {
-        "Código": "ENM0142",
-        "Nome": "SOLDAGEM",
-        "Tipo": "DISCIPLINA",
-        "Carga_Horária": "60h"
+        "Código": null,
+        "Nome": null,
+        "Tipo": null,
+        "Carga_Horária": "h"
     },
     {
-        "Código": "DPG1058",
-        "Nome": "TÉCNICAS DE CARACTERIZAÇÃO MICRO-ESTRUTURAL E MECÂNICA",
-        "Tipo": "DISCIPLINA",
-        "Carga_Horária": "60h"
+        "Código": null,
+        "Nome": null,
+        "Tipo": null,
+        "Carga_Horária": "h"
     },
     {
-        "Código": "ENM0278",
-        "Nome": "TECNOLOGIA DE CONVERSÃO DE ENERGIA SOLAR",
-        "Tipo": "DISCIPLINA",
-        "Carga_Horária": "60h"
+        "Código": null,
+        "Nome": null,
+        "Tipo": null,
+        "Carga_Horária": "h"
     },
     {
-        "Código": "ENM0127",
-        "Nome": "TECNOLOGIA DE FABRICACAO 1",
-        "Tipo": "DISCIPLINA",
-        "Carga_Horária": "45h"
+        "Código": null,
+        "Nome": null,
+        "Tipo": null,
+        "Carga_Horária": "h"
     },
     {
-        "Código": "ENM0116",
-        "Nome": "TECNOLOGIA DE FABRICACAO 2",
-        "Tipo": "DISCIPLINA",
-        "Carga_Horária": "60h"
+        "Código": null,
+        "Nome": null,
+        "Tipo": null,
+        "Carga_Horária": "h"
     },
     {
-        "Código": "ENM0030",
-        "Nome": "TECNOLOGIA MECANICA 1",
-        "Tipo": "DISCIPLINA",
-        "Carga_Horária": "105h"
+        "Código": null,
+        "Nome": null,
+        "Tipo": null,
+        "Carga_Horária": "h"
     },
     {
-        "Código": "ENM0146",
-        "Nome": "TECNOLOGIA MECANICA 1",
-        "Tipo": "DISCIPLINA",
-        "Carga_Horária": "60h"
+        "Código": null,
+        "Nome": null,
+        "Tipo": null,
+        "Carga_Horária": "h"
     },
     {
-        "Código": "ENM0031",
-        "Nome": "TECNOLOGIA MECANICA 2",
-        "Tipo": "DISCIPLINA",
-        "Carga_Horária": "90h"
+        "Código": null,
+        "Nome": null,
+        "Tipo": null,
+        "Carga_Horária": "h"
     },
     {
-        "Código": "ENM0093",
-        "Nome": "TECNOLOGIA MECANICA 2",
-        "Tipo": "DISCIPLINA",
-        "Carga_Horária": "60h"
+        "Código": null,
+        "Nome": null,
+        "Tipo": null,
+        "Carga_Horária": "h"
     },
     {
-        "Código": "ENM0027",
-        "Nome": "TECNOLOGIAS DE COMANDO NUMERICO",
-        "Tipo": "DISCIPLINA",
-        "Carga_Horária": "60h"
+        "Código": null,
+        "Nome": null,
+        "Tipo": null,
+        "Carga_Horária": "h"
     },
     {
-        "Código": "ENM0279",
-        "Nome": "TECNOLOGIAS DE CONVERSÃO DE BIOMASSA",
-        "Tipo": "DISCIPLINA",
-        "Carga_Horária": "60h"
+        "Código": null,
+        "Nome": null,
+        "Tipo": null,
+        "Carga_Horária": "h"
     },
     {
-        "Código": "ENM0192",
-        "Nome": "TECNOLOGIAS HABILITADORAS DA INDÚSTRIA 4.0",
-        "Tipo": "DISCIPLINA",
-        "Carga_Horária": "60h"
+        "Código": null,
+        "Nome": null,
+        "Tipo": null,
+        "Carga_Horária": "h"
     },
     {
-        "Código": "ENM0005",
-        "Nome": "TERMODINAMICA 1",
-        "Tipo": "DISCIPLINA",
-        "Carga_Horária": "75h"
+        "Código": null,
+        "Nome": null,
+        "Tipo": null,
+        "Carga_Horária": "h"
     },
     {
-        "Código": "ENM0068",
-        "Nome": "TERMODINAMICA 1",
-        "Tipo": "DISCIPLINA",
-        "Carga_Horária": "60h"
+        "Código": null,
+        "Nome": null,
+        "Tipo": null,
+        "Carga_Horária": "h"
     },
     {
-        "Código": "ENM0069",
-        "Nome": "TERMODINAMICA 2",
-        "Tipo": "DISCIPLINA",
-        "Carga_Horária": "60h"
+        "Código": null,
+        "Nome": null,
+        "Tipo": null,
+        "Carga_Horária": "h"
     },
     {
-        "Código": "ENM0232",
-        "Nome": "TERMODINÂMICA APLICADA",
-        "Tipo": "DISCIPLINA",
-        "Carga_Horária": "60h"
+        "Código": null,
+        "Nome": null,
+        "Tipo": null,
+        "Carga_Horária": "h"
     },
     {
-        "Código": "DPG0424",
-        "Nome": "TERMODINÂMICA CLÁSSICA",
-        "Tipo": "DISCIPLINA",
-        "Carga_Horária": "60h"
+        "Código": null,
+        "Nome": null,
+        "Tipo": null,
+        "Carga_Horária": "h"
     },
     {
-        "Código": "DPG0384",
-        "Nome": "TÓPICOS AVANÇADOS EM SISTEMAS MECATRÔNICOS 1",
-        "Tipo": "DISCIPLINA",
-        "Carga_Horária": "60h"
+        "Código": null,
+        "Nome": null,
+        "Tipo": null,
+        "Carga_Horária": "h"
     },
     {
-        "Código": "DPG0011",
-        "Nome": "TÓPICOS AVANÇADOS EM SISTEMAS MECATRÔNICOS 2",
-        "Tipo": "DISCIPLINA",
-        "Carga_Horária": "60h"
+        "Código": null,
+        "Nome": null,
+        "Tipo": null,
+        "Carga_Horária": "h"
     },
     {
-        "Código": "DPG0809",
-        "Nome": "TÓPICOS AVANÇADOS EM SISTEMAS MECATRÔNICOS 3",
-        "Tipo": "DISCIPLINA",
-        "Carga_Horária": "60h"
+        "Código": null,
+        "Nome": null,
+        "Tipo": null,
+        "Carga_Horária": "h"
     },
     {
-        "Código": "DPG0324",
-        "Nome": "TÓPICOS ESPECIAIS 1 EM CIÊNCIAS MECÂNICAS",
-        "Tipo": "DISCIPLINA",
-        "Carga_Horária": "60h"
+        "Código": null,
+        "Nome": null,
+        "Tipo": null,
+        "Carga_Horária": "h"
     },
     {
-        "Código": "DPG0053",
-        "Nome": "TÓPICOS ESPECIAIS  2 EM CIÊNCIAS MECÂNICAS",
-        "Tipo": "DISCIPLINA",
-        "Carga_Horária": "60h"
+        "Código": null,
+        "Nome": null,
+        "Tipo": null,
+        "Carga_Horária": "h"
     },
     {
-        "Código": "ENM0066",
-        "Nome": "TÓPICOS ESPECIAIS EM ENGENHARIA MECATRÔNICA",
-        "Tipo": "DISCIPLINA",
-        "Carga_Horária": "60h"
+        "Código": null,
+        "Nome": null,
+        "Tipo": null,
+        "Carga_Horária": "h"
     },
     {
-        "Código": "ENM0041",
-        "Nome": "TÓPICOS ESPECIAIS EM MATERIAIS",
-        "Tipo": "DISCIPLINA",
-        "Carga_Horária": "60h"
+        "Código": null,
+        "Nome": null,
+        "Tipo": null,
+        "Carga_Horária": "h"
     },
     {
-        "Código": "ENM0099",
-        "Nome": "TOPICOS ESPECIAIS EM MATERIAIS DE CONSTRUCAO MECANICA",
-        "Tipo": "DISCIPLINA",
-        "Carga_Horária": "60h"
+        "Código": null,
+        "Nome": null,
+        "Tipo": null,
+        "Carga_Horária": "h"
     },
     {
-        "Código": "ENM0097",
-        "Nome": "TOPICOS ESPECIAIS EM MECANICA APLICADA",
-        "Tipo": "DISCIPLINA",
-        "Carga_Horária": "60h"
+        "Código": null,
+        "Nome": null,
+        "Tipo": null,
+        "Carga_Horária": "h"
     },
     {
-        "Código": "ENM0024",
-        "Nome": "TOPICOS ESPECIAIS EM MECANICA APLICADA",
-        "Tipo": "DISCIPLINA",
-        "Carga_Horária": "30h"
+        "Código": null,
+        "Nome": null,
+        "Tipo": null,
+        "Carga_Horária": "h"
     },
     {
-        "Código": "ENM0065",
-        "Nome": "TÓPICOS ESPECIAIS EM MECÂNICA DOS FLUIDOS",
-        "Tipo": "DISCIPLINA",
-        "Carga_Horária": "60h"
+        "Código": null,
+        "Nome": null,
+        "Tipo": null,
+        "Carga_Horária": "h"
     },
     {
-        "Código": "ENM0098",
-        "Nome": "TOPICOS ESPECIAIS EM PROCESSOS DE FABRICACAO",
-        "Tipo": "DISCIPLINA",
-        "Carga_Horária": "60h"
+        "Código": null,
+        "Nome": null,
+        "Tipo": null,
+        "Carga_Horária": "h"
     },
     {
-        "Código": "ENM0188",
-        "Nome": "TÓPICOS ESPECIAIS EM SISTEMAS DINÂMICOS",
-        "Tipo": "DISCIPLINA",
-        "Carga_Horária": "60h"
+        "Código": null,
+        "Nome": null,
+        "Tipo": null,
+        "Carga_Horária": "h"
     },
     {
-        "Código": "ENM0085",
-        "Nome": "TOPICOS ESPECIAIS EM SISTEMAS FLUIDO-MECANICOS",
-        "Tipo": "DISCIPLINA",
-        "Carga_Horária": "60h"
+        "Código": null,
+        "Nome": null,
+        "Tipo": null,
+        "Carga_Horária": "h"
     },
     {
-        "Código": "ENM0056",
-        "Nome": "TOPICOS ESPECIAIS EM SISTEMAS MECANICOS",
-        "Tipo": "DISCIPLINA",
-        "Carga_Horária": "60h"
+        "Código": null,
+        "Nome": null,
+        "Tipo": null,
+        "Carga_Horária": "h"
     },
     {
-        "Código": "ENM0114",
-        "Nome": "TOPICOS ESPECIAIS EM SISTEMAS MECANICOS",
-        "Tipo": "DISCIPLINA",
-        "Carga_Horária": "60h"
+        "Código": null,
+        "Nome": null,
+        "Tipo": null,
+        "Carga_Horária": "h"
     },
     {
-        "Código": "ENM0076",
-        "Nome": "TOPICOS ESPECIAIS EM SISTEMAS TERMICOS",
-        "Tipo": "DISCIPLINA",
-        "Carga_Horária": "60h"
+        "Código": null,
+        "Nome": null,
+        "Tipo": null,
+        "Carga_Horária": "h"
     },
     {
-        "Código": "ENM0078",
-        "Nome": "TOPICOS ESPECIAIS EM TERMODINAMICA APLICADA",
-        "Tipo": "DISCIPLINA",
-        "Carga_Horária": "60h"
+        "Código": null,
+        "Nome": null,
+        "Tipo": null,
+        "Carga_Horária": "h"
     },
     {
-        "Código": "ENM0016",
-        "Nome": "TOPICOS ESPECIAIS EM TERMODINAMICA APLICADA",
-        "Tipo": "DISCIPLINA",
-        "Carga_Horária": "60h"
+        "Código": null,
+        "Nome": null,
+        "Tipo": null,
+        "Carga_Horária": "h"
     },
     {
-        "Código": "ENM0008",
-        "Nome": "TRANSFERENCIA DE CALOR",
-        "Tipo": "DISCIPLINA",
-        "Carga_Horária": "75h"
+        "Código": null,
+        "Nome": null,
+        "Tipo": null,
+        "Carga_Horária": "h"
     },
     {
-        "Código": "ENM0071",
-        "Nome": "TRANSFERENCIA DE CALOR",
-        "Tipo": "DISCIPLINA",
-        "Carga_Horária": "90h"
+        "Código": null,
+        "Nome": null,
+        "Tipo": null,
+        "Carga_Horária": "h"
     },
     {
-        "Código": "DPG0841",
-        "Nome": "TRANSFERÊNCIA DE CALOR AVANÇADA",
-        "Tipo": "DISCIPLINA",
-        "Carga_Horária": "60h"
+        "Código": null,
+        "Nome": null,
+        "Tipo": null,
+        "Carga_Horária": "h"
     },
     {
-        "Código": "ENM0161",
-        "Nome": "TRANSFERENCIA DE CALOR E TRANSFERENCIA DE MASSA APLICADAS",
-        "Tipo": "DISCIPLINA",
-        "Carga_Horária": "60h"
+        "Código": null,
+        "Nome": null,
+        "Tipo": null,
+        "Carga_Horária": "h"
     },
     {
-        "Código": "ENM0128",
-        "Nome": "TRANSPORTE DE CALOR E MASSA",
-        "Tipo": "DISCIPLINA",
-        "Carga_Horária": "60h"
+        "Código": null,
+        "Nome": null,
+        "Tipo": null,
+        "Carga_Horária": "h"
     },
     {
-        "Código": "ENM0050",
-        "Nome": "TRANSPORTE DE MATERIAIS",
-        "Tipo": "DISCIPLINA",
-        "Carga_Horária": "60h"
+        "Código": null,
+        "Nome": null,
+        "Tipo": null,
+        "Carga_Horária": "h"
     },
     {
-        "Código": "ENM0087",
-        "Nome": "TUBULAÇÕES INDUSTRIAIS",
-        "Tipo": "DISCIPLINA",
-        "Carga_Horária": "60h"
+        "Código": null,
+        "Nome": null,
+        "Tipo": null,
+        "Carga_Horária": "h"
     },
     {
-        "Código": "DPG0834",
-        "Nome": "TURBULÊNCIA",
-        "Tipo": "DISCIPLINA",
-        "Carga_Horária": "60h"
+        "Código": null,
+        "Nome": null,
+        "Tipo": null,
+        "Carga_Horária": "h"
     },
     {
-        "Código": "ENM0234",
-        "Nome": "USINAGEM",
-        "Tipo": "DISCIPLINA",
-        "Carga_Horária": "60h"
+        "Código": null,
+        "Nome": null,
+        "Tipo": null,
+        "Carga_Horária": "h"
     },
     {
-        "Código": "ENM0055",
-        "Nome": "USINAGEM DOS METAIS",
-        "Tipo": "DISCIPLINA",
-        "Carga_Horária": "60h"
+        "Código": null,
+        "Nome": null,
+        "Tipo": null,
+        "Carga_Horária": "h"
     },
     {
-        "Código": "ENM0100",
-        "Nome": "USINAGEM DOS METAIS",
-        "Tipo": "DISCIPLINA",
-        "Carga_Horária": "60h"
+        "Código": null,
+        "Nome": null,
+        "Tipo": null,
+        "Carga_Horária": "h"
     },
     {
-        "Código": "ENM0229",
-        "Nome": "VIBRAÇÕES",
-        "Tipo": "DISCIPLINA",
-        "Carga_Horária": "60h"
+        "Código": null,
+        "Nome": null,
+        "Tipo": null,
+        "Carga_Horária": "h"
     },
     {
-        "Código": "ENM0109",
-        "Nome": "VIBRACOES 1",
-        "Tipo": "DISCIPLINA",
-        "Carga_Horária": "90h"
+        "Código": null,
+        "Nome": null,
+        "Tipo": null,
+        "Carga_Horária": "h"
     },
     {
-        "Código": "ENM0110",
-        "Nome": "VIBRACOES 2",
-        "Tipo": "DISCIPLINA",
-        "Carga_Horária": "60h"
+        "Código": null,
+        "Nome": null,
+        "Tipo": null,
+        "Carga_Horária": "h"
     },
     {
-        "Código": "ENM0183",
-        "Nome": "VIBRAÇÕES : APLICAÇÕES INDUSTRIAIS E TECNOLÓGICAS",
-        "Tipo": "DISCIPLINA",
-        "Carga_Horária": "60h"
+        "Código": null,
+        "Nome": null,
+        "Tipo": null,
+        "Carga_Horária": "h"
     },
     {
-        "Código": "ENM0038",
-        "Nome": "VIBRACOES EM MAQUINAS OPERATRIZES",
-        "Tipo": "DISCIPLINA",
-        "Carga_Horária": "60h"
+        "Código": null,
+        "Nome": null,
+        "Tipo": null,
+        "Carga_Horária": "h"
     },
     {
-        "Código": "DPG0433",
-        "Nome": "VIBRAÇÕES MECÂNICAS",
-        "Tipo": "DISCIPLINA",
-        "Carga_Horária": "60h"
+        "Código": null,
+        "Nome": null,
+        "Tipo": null,
+        "Carga_Horária": "h"
     },
     {
-        "Código": "DPG0408",
-        "Nome": "VISÃO COMPUTACIONAL",
-        "Tipo": "DISCIPLINA",
-        "Carga_Horária": "60h"
+        "Código": null,
+        "Nome": null,
+        "Tipo": null,
+        "Carga_Horária": "h"
     }
 ]

@@ -1,0 +1,770 @@
+[
+    {
+        "Código": "TEL0274",
+        "Nome": "ATUALIDADE LITERATURA",
+        "Tipo": "DISCIPLINA",
+        "Carga_Horária": "60h"
+    },
+    {
+        "Código": "TEL0099",
+        "Nome": "CERVANTES E O QUIXOTE",
+        "Tipo": "DISCIPLINA",
+        "Carga_Horária": "60h"
+    },
+    {
+        "Código": "TEL0080",
+        "Nome": "CONTEXTOS CULTURAIS DA LITERATURA FRANCESA",
+        "Tipo": "DISCIPLINA",
+        "Carga_Horária": "60h"
+    },
+    {
+        "Código": "TEL0136",
+        "Nome": "CONTEXTOS DE LITERATURAS DE EXPRESSÃO INGLESA",
+        "Tipo": "DISCIPLINA",
+        "Carga_Horária": "60h"
+    },
+    {
+        "Código": "TEL0016",
+        "Nome": "CRITICA LITERARIA",
+        "Tipo": "DISCIPLINA",
+        "Carga_Horária": "60h"
+    },
+    {
+        "Código": "TEL0110",
+        "Nome": "CULTURA CLASSICA 1 - GRECIA",
+        "Tipo": "DISCIPLINA",
+        "Carga_Horária": "60h"
+    },
+    {
+        "Código": "TEL0111",
+        "Nome": "CULTURA CLASSICA 2 - ROMA",
+        "Tipo": "DISCIPLINA",
+        "Carga_Horária": "60h"
+    },
+    {
+        "Código": "TEL0113",
+        "Nome": "CULTURA MEDIEVAL 1 : GRECO - LATINA",
+        "Tipo": "DISCIPLINA",
+        "Carga_Horária": "60h"
+    },
+    {
+        "Código": "TEL0177",
+        "Nome": "ENSINO DE LITERATURAS DE LÍNGUA INGLESA",
+        "Tipo": "DISCIPLINA",
+        "Carga_Horária": "60h"
+    },
+    {
+        "Código": "TEL0002",
+        "Nome": "ESTÁGIO DOCENTE EM LITERATURA DE EXPRESSÃO FRANCÓFONA",
+        "Tipo": "DISCIPLINA",
+        "Carga_Horária": "120h"
+    },
+    {
+        "Código": "TEL0031",
+        "Nome": "ESTETICA E LITERATURA",
+        "Tipo": "DISCIPLINA",
+        "Carga_Horária": "60h"
+    },
+    {
+        "Código": "TEL0018",
+        "Nome": "ESTILISTICA",
+        "Tipo": "DISCIPLINA",
+        "Carga_Horária": "60h"
+    },
+    {
+        "Código": "DPG0446",
+        "Nome": "FRONTEIRAS DA LITERATURA",
+        "Tipo": "DISCIPLINA",
+        "Carga_Horária": "60h"
+    },
+    {
+        "Código": "TEL0109",
+        "Nome": "FUNDAMENTOS DA LITERATURA BRASILEIRA CONTEMPORANEA",
+        "Tipo": "DISCIPLINA",
+        "Carga_Horária": "60h"
+    },
+    {
+        "Código": "TEL0029",
+        "Nome": "FUNDAMENTOS DE HISTORIA LITERARIA",
+        "Tipo": "DISCIPLINA",
+        "Carga_Horária": "60h"
+    },
+    {
+        "Código": "TEL0103",
+        "Nome": "GENEROS LITERARIOS NA LINGUA ESPANHOLA",
+        "Tipo": "DISCIPLINA",
+        "Carga_Horária": "60h"
+    },
+    {
+        "Código": "TEL0104",
+        "Nome": "GERACAO DO 27",
+        "Tipo": "DISCIPLINA",
+        "Carga_Horária": "60h"
+    },
+    {
+        "Código": "TEL0028",
+        "Nome": "HISTORIOGRAFIA DA LITERATURA BRASILEIRA",
+        "Tipo": "DISCIPLINA",
+        "Carga_Horária": "60h"
+    },
+    {
+        "Código": "TEL0207",
+        "Nome": "INTRODUÇÃO À CRITICA LITERÁRIA HISPÂNICA",
+        "Tipo": "DISCIPLINA",
+        "Carga_Horária": "60h"
+    },
+    {
+        "Código": "TEL0014",
+        "Nome": "INTRODUCAO A TEORIA DA LITERATURA",
+        "Tipo": "DISCIPLINA",
+        "Carga_Horária": "60h"
+    },
+    {
+        "Código": "TEL0273",
+        "Nome": "LABORATÓRIO 3 ENSINO DE LITERATURA",
+        "Tipo": "DISCIPLINA",
+        "Carga_Horária": "60h"
+    },
+    {
+        "Código": "TEL0001",
+        "Nome": "LABORATÓRIO DE ESTUDOS DE LITERATURA ARTES E HUMANIDADES",
+        "Tipo": "DISCIPLINA",
+        "Carga_Horária": "60h"
+    },
+    {
+        "Código": "TEL0098",
+        "Nome": "LABORATORIO DE LITERATURA PARA O ENSINO FUNDAMENTAL E MEDIO",
+        "Tipo": "DISCIPLINA",
+        "Carga_Horária": "90h"
+    },
+    {
+        "Código": "TEL0056",
+        "Nome": "LITERATURA AFRICANA EM LINGUA PORTUGUESA",
+        "Tipo": "DISCIPLINA",
+        "Carga_Horária": "60h"
+    },
+    {
+        "Código": "TEL0074",
+        "Nome": "LITERATURA ALEMA 1",
+        "Tipo": "DISCIPLINA",
+        "Carga_Horária": "60h"
+    },
+    {
+        "Código": "TEL0024",
+        "Nome": "LITERATURA BRASILEIRA - BARROCO E ARCADISMO",
+        "Tipo": "DISCIPLINA",
+        "Carga_Horária": "60h"
+    },
+    {
+        "Código": "TEL0026",
+        "Nome": "LITERATURA BRASILEIRA CONTEMPORÂNEA",
+        "Tipo": "DISCIPLINA",
+        "Carga_Horária": "60h"
+    },
+    {
+        "Código": "TEL0023",
+        "Nome": "LITERATURA BRASILEIRA - MODERNISMO",
+        "Tipo": "DISCIPLINA",
+        "Carga_Horária": "60h"
+    },
+    {
+        "Código": "TEL0186",
+        "Nome": "LITERATURA BRASILEIRA NO SÉCULO XX",
+        "Tipo": "DISCIPLINA",
+        "Carga_Horária": "60h"
+    },
+    {
+        "Código": "TEL0025",
+        "Nome": "LITERATURA BRASILEIRA - PARNASIANISMO E SIMBOLISMO",
+        "Tipo": "DISCIPLINA",
+        "Carga_Horária": "60h"
+    },
+    {
+        "Código": "TEL0091",
+        "Nome": "LITERATURA BRASILEIRA - PRE-MODERNISMO",
+        "Tipo": "DISCIPLINA",
+        "Carga_Horária": "60h"
+    },
+    {
+        "Código": "TEL0022",
+        "Nome": "LITERATURA BRASILEIRA - REALISMO",
+        "Tipo": "DISCIPLINA",
+        "Carga_Horária": "60h"
+    },
+    {
+        "Código": "TEL0021",
+        "Nome": "LITERATURA BRASILEIRA - ROMANTISMO",
+        "Tipo": "DISCIPLINA",
+        "Carga_Horária": "60h"
+    },
+    {
+        "Código": "TEL0027",
+        "Nome": "LITERATURA BRASILEIRA - TEATRO",
+        "Tipo": "DISCIPLINA",
+        "Carga_Horária": "60h"
+    },
+    {
+        "Código": "TEL0020",
+        "Nome": "LITERATURA COMPARADA 1",
+        "Tipo": "DISCIPLINA",
+        "Carga_Horária": "60h"
+    },
+    {
+        "Código": "TEL0058",
+        "Nome": "LITERATURA COMPARADA 2",
+        "Tipo": "DISCIPLINA",
+        "Carga_Horária": "60h"
+    },
+    {
+        "Código": "TEL0037",
+        "Nome": "LITERATURA DE LINGUA FRANCESA 1",
+        "Tipo": "DISCIPLINA",
+        "Carga_Horária": "60h"
+    },
+    {
+        "Código": "TEL0038",
+        "Nome": "LITERATURA DE LINGUA FRANCESA 2",
+        "Tipo": "DISCIPLINA",
+        "Carga_Horária": "60h"
+    },
+    {
+        "Código": "TEL0039",
+        "Nome": "LITERATURA DE LINGUA FRANCESA 3",
+        "Tipo": "DISCIPLINA",
+        "Carga_Horária": "60h"
+    },
+    {
+        "Código": "DPG0581",
+        "Nome": "LITERATURA E PENSAMENTO CRÍTICO NO BRASIL",
+        "Tipo": "DISCIPLINA",
+        "Carga_Horária": "60h"
+    },
+    {
+        "Código": "TEL0061",
+        "Nome": "LITERATURA ESPANHOLA 1",
+        "Tipo": "DISCIPLINA",
+        "Carga_Horária": "60h"
+    },
+    {
+        "Código": "TEL0108",
+        "Nome": "LITERATURA ESPANHOLA 1 - IDADE MEDIA E SIGLO DE ORO",
+        "Tipo": "DISCIPLINA",
+        "Carga_Horária": "60h"
+    },
+    {
+        "Código": "TEL0062",
+        "Nome": "LITERATURA ESPANHOLA 2",
+        "Tipo": "DISCIPLINA",
+        "Carga_Horária": "60h"
+    },
+    {
+        "Código": "TEL0106",
+        "Nome": "LITERATURA ESPANHOLA 2 - SÉCULOS 18 E 19",
+        "Tipo": "DISCIPLINA",
+        "Carga_Horária": "60h"
+    },
+    {
+        "Código": "TEL0063",
+        "Nome": "LITERATURA ESPANHOLA 3",
+        "Tipo": "DISCIPLINA",
+        "Carga_Horária": "60h"
+    },
+    {
+        "Código": "TEL0102",
+        "Nome": "LITERATURA ESPANHOLA 3 - SÉCULO 20",
+        "Tipo": "DISCIPLINA",
+        "Carga_Horária": "60h"
+    },
+    {
+        "Código": "TEL0064",
+        "Nome": "LITERATURA ESPANHOLA 4",
+        "Tipo": "DISCIPLINA",
+        "Carga_Horária": "60h"
+    },
+    {
+        "Código": "TEL0065",
+        "Nome": "LITERATURA ESPANHOLA 5",
+        "Tipo": "DISCIPLINA",
+        "Carga_Horária": "60h"
+    },
+    {
+        "Código": "TEL0066",
+        "Nome": "LITERATURA ESPANHOLA 6",
+        "Tipo": "DISCIPLINA",
+        "Carga_Horária": "60h"
+    },
+    {
+        "Código": "TEL0077",
+        "Nome": "LITERATURA ESTRANGEIRA EM LINGUA VERNACULA",
+        "Tipo": "DISCIPLINA",
+        "Carga_Horária": "60h"
+    },
+    {
+        "Código": "TEL0036",
+        "Nome": "LITERATURA FRANCESA - CRITICA",
+        "Tipo": "DISCIPLINA",
+        "Carga_Horária": "60h"
+    },
+    {
+        "Código": "TEL0032",
+        "Nome": "LITERATURA FRANCESA - PANORAMA",
+        "Tipo": "DISCIPLINA",
+        "Carga_Horária": "60h"
+    },
+    {
+        "Código": "TEL0035",
+        "Nome": "LITERATURA FRANCESA - POESIA",
+        "Tipo": "DISCIPLINA",
+        "Carga_Horária": "60h"
+    },
+    {
+        "Código": "TEL0033",
+        "Nome": "LITERATURA FRANCESA - ROMANCE",
+        "Tipo": "DISCIPLINA",
+        "Carga_Horária": "60h"
+    },
+    {
+        "Código": "TEL0034",
+        "Nome": "LITERATURA FRANCESA - TEATRO",
+        "Tipo": "DISCIPLINA",
+        "Carga_Horária": "60h"
+    },
+    {
+        "Código": "TEL0051",
+        "Nome": "LITERATURA GREGA 1",
+        "Tipo": "DISCIPLINA",
+        "Carga_Horária": "60h"
+    },
+    {
+        "Código": "TEL0052",
+        "Nome": "LITERATURA GREGA 2",
+        "Tipo": "DISCIPLINA",
+        "Carga_Horária": "60h"
+    },
+    {
+        "Código": "TEL0053",
+        "Nome": "LITERATURA GREGA 3",
+        "Tipo": "DISCIPLINA",
+        "Carga_Horária": "60h"
+    },
+    {
+        "Código": "TEL0067",
+        "Nome": "LITERATURA HISPANO-AMERICANA 1",
+        "Tipo": "DISCIPLINA",
+        "Carga_Horária": "60h"
+    },
+    {
+        "Código": "TEL0107",
+        "Nome": "LITERATURA HISPANO - AMERICANA 1 - SÉCULOS 16,17 E 18",
+        "Tipo": "DISCIPLINA",
+        "Carga_Horária": "60h"
+    },
+    {
+        "Código": "TEL0068",
+        "Nome": "LITERATURA HISPANO-AMERICANA 2",
+        "Tipo": "DISCIPLINA",
+        "Carga_Horária": "60h"
+    },
+    {
+        "Código": "TEL0100",
+        "Nome": "LITERATURA HISPANO - AMERICANA 2-SÉCULO 19 E MODERNÍSMO",
+        "Tipo": "DISCIPLINA",
+        "Carga_Horária": "60h"
+    },
+    {
+        "Código": "TEL0069",
+        "Nome": "LITERATURA HISPANO-AMERICANA 3",
+        "Tipo": "DISCIPLINA",
+        "Carga_Horária": "60h"
+    },
+    {
+        "Código": "TEL0105",
+        "Nome": "LITERATURA HISPANO-AMERICANA 3 - PÓS MODERNÍSMO ATÉ A ATUALIDADE",
+        "Tipo": "DISCIPLINA",
+        "Carga_Horária": "60h"
+    },
+    {
+        "Código": "TEL0070",
+        "Nome": "LITERATURA HISPANO - AMERICANA 4",
+        "Tipo": "DISCIPLINA",
+        "Carga_Horária": "60h"
+    },
+    {
+        "Código": "TEL0124",
+        "Nome": "LITERATURA INGLESA 10 - POESIA",
+        "Tipo": "DISCIPLINA",
+        "Carga_Horária": "60h"
+    },
+    {
+        "Código": "TEL0120",
+        "Nome": "LITERATURA INGLESA 6 - SÉCULO XVII",
+        "Tipo": "DISCIPLINA",
+        "Carga_Horária": "60h"
+    },
+    {
+        "Código": "TEL0121",
+        "Nome": "LITERATURA INGLESA 7 - SÉCULO XVIII",
+        "Tipo": "DISCIPLINA",
+        "Carga_Horária": "60h"
+    },
+    {
+        "Código": "TEL0122",
+        "Nome": "LITERATURA INGLESA 8 - NARRATIVA",
+        "Tipo": "DISCIPLINA",
+        "Carga_Horária": "60h"
+    },
+    {
+        "Código": "TEL0123",
+        "Nome": "LITERATURA INGLESA 9 - DRAMATURGIA",
+        "Tipo": "DISCIPLINA",
+        "Carga_Horária": "60h"
+    },
+    {
+        "Código": "TEL0041",
+        "Nome": "LITERATURA INGLESA II - IDADE MÉDIA",
+        "Tipo": "DISCIPLINA",
+        "Carga_Horária": "60h"
+    },
+    {
+        "Código": "TEL0042",
+        "Nome": "LITERATURA INGLESA III - SÉCULO XIX",
+        "Tipo": "DISCIPLINA",
+        "Carga_Horária": "60h"
+    },
+    {
+        "Código": "TEL0040",
+        "Nome": "LITERATURA INGLESA I - SÉCULO XX",
+        "Tipo": "DISCIPLINA",
+        "Carga_Horária": "60h"
+    },
+    {
+        "Código": "TEL0043",
+        "Nome": "LITERATURA INGLESA IV - DRAMA ISABELINO",
+        "Tipo": "DISCIPLINA",
+        "Carga_Horária": "60h"
+    },
+    {
+        "Código": "TEL0084",
+        "Nome": "LITERATURA INGLESA IX - JOHN MILTON",
+        "Tipo": "DISCIPLINA",
+        "Carga_Horária": "60h"
+    },
+    {
+        "Código": "TEL0073",
+        "Nome": "LITERATURA INGLESA VIII - TEATRO INGLÊS",
+        "Tipo": "DISCIPLINA",
+        "Carga_Horária": "60h"
+    },
+    {
+        "Código": "TEL0072",
+        "Nome": "LITERATURA INGLESA VII - POESIA SÉCULO XVI - XVII",
+        "Tipo": "DISCIPLINA",
+        "Carga_Horária": "60h"
+    },
+    {
+        "Código": "TEL0071",
+        "Nome": "LITERATURA INGLESA VI - ROMANCE SÉCULO XVIII - XX",
+        "Tipo": "DISCIPLINA",
+        "Carga_Horária": "60h"
+    },
+    {
+        "Código": "TEL0044",
+        "Nome": "LITERATURA INGLESA V - TRAGÉDIA SHAKESPEARIANA",
+        "Tipo": "DISCIPLINA",
+        "Carga_Horária": "60h"
+    },
+    {
+        "Código": "TEL0079",
+        "Nome": "LITERATURA INGLESA XIII - CONTEXTOS CULTURAIS ATÉ SÉCULO XV",
+        "Tipo": "DISCIPLINA",
+        "Carga_Horária": "60h"
+    },
+    {
+        "Código": "TEL0087",
+        "Nome": "LITERATURA INGLESA XII - TÓPICOS ESPECIAIS",
+        "Tipo": "DISCIPLINA",
+        "Carga_Horária": "60h"
+    },
+    {
+        "Código": "TEL0086",
+        "Nome": "LITERATURA INGLESA XI - LITERATURA IRLANDESA",
+        "Tipo": "DISCIPLINA",
+        "Carga_Horária": "60h"
+    },
+    {
+        "Código": "TEL0078",
+        "Nome": "LITERATURA INGLESA XIV - CONTEXTOS CULTURAIS SÉCULOS XVI - XVIII",
+        "Tipo": "DISCIPLINA",
+        "Carga_Horária": "60h"
+    },
+    {
+        "Código": "TEL0085",
+        "Nome": "LITERATURA INGLESA X - PROSA E POESIA  SÉC. XVIII",
+        "Tipo": "DISCIPLINA",
+        "Carga_Horária": "60h"
+    },
+    {
+        "Código": "TEL0088",
+        "Nome": "LITERATURA INGLESA XV - CONTEXTOS CULTURAIS SÉCULOS XIX - XX",
+        "Tipo": "DISCIPLINA",
+        "Carga_Horária": "60h"
+    },
+    {
+        "Código": "TEL0114",
+        "Nome": "LITERATURA JAPONESA 1",
+        "Tipo": "DISCIPLINA",
+        "Carga_Horária": "60h"
+    },
+    {
+        "Código": "TEL0115",
+        "Nome": "LITERATURA JAPONESA 2",
+        "Tipo": "DISCIPLINA",
+        "Carga_Horária": "60h"
+    },
+    {
+        "Código": "TEL0116",
+        "Nome": "LITERATURA JAPONESA 3",
+        "Tipo": "DISCIPLINA",
+        "Carga_Horária": "60h"
+    },
+    {
+        "Código": "TEL0117",
+        "Nome": "LITERATURA JAPONESA 4",
+        "Tipo": "DISCIPLINA",
+        "Carga_Horária": "60h"
+    },
+    {
+        "Código": "TEL0048",
+        "Nome": "LITERATURA LATINA 1",
+        "Tipo": "DISCIPLINA",
+        "Carga_Horária": "60h"
+    },
+    {
+        "Código": "TEL0049",
+        "Nome": "LITERATURA LATINA 2",
+        "Tipo": "DISCIPLINA",
+        "Carga_Horária": "60h"
+    },
+    {
+        "Código": "TEL0050",
+        "Nome": "LITERATURA LATINA 3",
+        "Tipo": "DISCIPLINA",
+        "Carga_Horária": "60h"
+    },
+    {
+        "Código": "TEL0054",
+        "Nome": "LITERATURA LATINA 4",
+        "Tipo": "DISCIPLINA",
+        "Carga_Horária": "60h"
+    },
+    {
+        "Código": "TEL0125",
+        "Nome": "LITERATURA NORTE-AMERICANA 4 - DRAMATURGIA",
+        "Tipo": "DISCIPLINA",
+        "Carga_Horária": "60h"
+    },
+    {
+        "Código": "TEL0126",
+        "Nome": "LITERATURA NORTE-AMERICANA 5 - POESIA",
+        "Tipo": "DISCIPLINA",
+        "Carga_Horária": "60h"
+    },
+    {
+        "Código": "TEL0047",
+        "Nome": "LITERATURA NORTE-AMERICANA III - NARRATIVA SÉCULO XX",
+        "Tipo": "DISCIPLINA",
+        "Carga_Horária": "60h"
+    },
+    {
+        "Código": "TEL0046",
+        "Nome": "LITERATURA NORTE-AMERICANA II - SÉCULO XIX",
+        "Tipo": "DISCIPLINA",
+        "Carga_Horária": "60h"
+    },
+    {
+        "Código": "TEL0045",
+        "Nome": "LITERATURA NORTE-AMERICANA I - SÉCULO XX",
+        "Tipo": "DISCIPLINA",
+        "Carga_Horária": "60h"
+    },
+    {
+        "Código": "TEL0081",
+        "Nome": "LITERATURA NORTE AMERICANA IV - TÓPICOS ESPECIAIS",
+        "Tipo": "DISCIPLINA",
+        "Carga_Horária": "60h"
+    },
+    {
+        "Código": "TEL0082",
+        "Nome": "LITERATURA NORTE-AMERICANA V - CONTEXTOS CULTURAIS DE 1850 AO SÉC XX",
+        "Tipo": "DISCIPLINA",
+        "Carga_Horária": "60h"
+    },
+    {
+        "Código": "TEL0083",
+        "Nome": "LITERATURA NORTE-AMERICANA VI - CONTEXTOS CULTURAIS ATÉ 1850",
+        "Tipo": "DISCIPLINA",
+        "Carga_Horária": "60h"
+    },
+    {
+        "Código": "TEL0010",
+        "Nome": "LITERATURA PORTUGUESA - BARROCO E ARCADISMO",
+        "Tipo": "DISCIPLINA",
+        "Carga_Horária": "60h"
+    },
+    {
+        "Código": "TEL0009",
+        "Nome": "LITERATURA PORTUGUESA - MEDIEVALISMO",
+        "Tipo": "DISCIPLINA",
+        "Carga_Horária": "60h"
+    },
+    {
+        "Código": "TEL0006",
+        "Nome": "LITERATURA PORTUGUESA - MODERNISMO",
+        "Tipo": "DISCIPLINA",
+        "Carga_Horária": "60h"
+    },
+    {
+        "Código": "TEL0012",
+        "Nome": "LITERATURA PORTUGUESA - PARNASIANISMO E SIMBOLISMO",
+        "Tipo": "DISCIPLINA",
+        "Carga_Horária": "60h"
+    },
+    {
+        "Código": "TEL0007",
+        "Nome": "LITERATURA PORTUGUESA - REALISMO",
+        "Tipo": "DISCIPLINA",
+        "Carga_Horária": "60h"
+    },
+    {
+        "Código": "TEL0008",
+        "Nome": "LITERATURA PORTUGUESA - RENASCIMENTO",
+        "Tipo": "DISCIPLINA",
+        "Carga_Horária": "60h"
+    },
+    {
+        "Código": "TEL0011",
+        "Nome": "LITERATURA PORTUGUESA - ROMANTISMO",
+        "Tipo": "DISCIPLINA",
+        "Carga_Horária": "60h"
+    },
+    {
+        "Código": "TEL0178",
+        "Nome": "LITERATURAS ANGLÓFONAS - ESTUDOS CULTURAIS",
+        "Tipo": "DISCIPLINA",
+        "Carga_Horária": "60h"
+    },
+    {
+        "Código": "TEL0179",
+        "Nome": "LITERATURAS DE EXPRESSÃO EM LÍNGUA INGLESA",
+        "Tipo": "DISCIPLINA",
+        "Carga_Horária": "60h"
+    },
+    {
+        "Código": "TEL0208",
+        "Nome": "LITERATURAS HISPÂNICAS 1",
+        "Tipo": "DISCIPLINA",
+        "Carga_Horária": "60h"
+    },
+    {
+        "Código": "TEL0211",
+        "Nome": "LITERATURAS HISPÂNICAS 2",
+        "Tipo": "DISCIPLINA",
+        "Carga_Horária": "60h"
+    },
+    {
+        "Código": "TEL0272",
+        "Nome": "LITERATURAS HISPÂNICAS 3",
+        "Tipo": "DISCIPLINA",
+        "Carga_Horária": "60h"
+    },
+    {
+        "Código": "TEL0118",
+        "Nome": "MONOGRAFIA EM LITERATURA",
+        "Tipo": "DISCIPLINA",
+        "Carga_Horária": "60h"
+    },
+    {
+        "Código": "TEL0005",
+        "Nome": "OFICINA LITERÁRIA",
+        "Tipo": "DISCIPLINA",
+        "Carga_Horária": "60h"
+    },
+    {
+        "Código": "TEL0112",
+        "Nome": "PANORAMA DA LITERATURA BRASILEIRA",
+        "Tipo": "DISCIPLINA",
+        "Carga_Horária": "60h"
+    },
+    {
+        "Código": "TEL0278",
+        "Nome": "PREPARAÇÃO TCC/LITERATURA",
+        "Tipo": "DISCIPLINA",
+        "Carga_Horária": "60h"
+    },
+    {
+        "Código": "TEL0097",
+        "Nome": "TEORIA DA LINGUAGEM POETICA",
+        "Tipo": "DISCIPLINA",
+        "Carga_Horária": "60h"
+    },
+    {
+        "Código": "TEL0060",
+        "Nome": "TEORIA DA NARRATIVA",
+        "Tipo": "DISCIPLINA",
+        "Carga_Horária": "60h"
+    },
+    {
+        "Código": "TEL0095",
+        "Nome": "TEORIA DO TEATRO",
+        "Tipo": "DISCIPLINA",
+        "Carga_Horária": "60h"
+    },
+    {
+        "Código": "TEL0093",
+        "Nome": "TEORIA E PRÁTICA DA ANÁLISE DO TEXTO",
+        "Tipo": "DISCIPLINA",
+        "Carga_Horária": "60h"
+    },
+    {
+        "Código": "TEL0075",
+        "Nome": "TOPICOS ATUAIS EM LITERATURA",
+        "Tipo": "DISCIPLINA",
+        "Carga_Horária": "30h"
+    },
+    {
+        "Código": "TEL0076",
+        "Nome": "TOPICOS ATUAIS EM LITERATURA",
+        "Tipo": "DISCIPLINA",
+        "Carga_Horária": "30h"
+    },
+    {
+        "Código": "TEL0090",
+        "Nome": "TÓPICOS ESPECIAIS EM LITERATURA BRASILEIRA",
+        "Tipo": "DISCIPLINA",
+        "Carga_Horária": "60h"
+    },
+    {
+        "Código": "TEL0089",
+        "Nome": "TÓPICOS ESPECIAIS EM LITERATURA BRASILEIRA",
+        "Tipo": "DISCIPLINA",
+        "Carga_Horária": "60h"
+    },
+    {
+        "Código": "TEL0003",
+        "Nome": "TÓPICOS ESPECIAIS EM LITERATURA INFANTIL E JUVENIL",
+        "Tipo": "DISCIPLINA",
+        "Carga_Horária": "60h"
+    },
+    {
+        "Código": "TEL0119",
+        "Nome": "TOPICOS ESPECIAIS EM LITERATURA JAPONESA",
+        "Tipo": "DISCIPLINA",
+        "Carga_Horária": "60h"
+    },
+    {
+        "Código": "TEL0004",
+        "Nome": "TRAGÉDIA GREGA",
+        "Tipo": "DISCIPLINA",
+        "Carga_Horária": "60h"
+    }
+]

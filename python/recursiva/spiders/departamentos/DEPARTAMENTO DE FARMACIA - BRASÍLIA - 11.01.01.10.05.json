@@ -1,0 +1,338 @@
+[
+    {
+        "Código": "GPP0034",
+        "Nome": "ADMINISTRAÇÃO DE SERVIÇOS NO SETOR PÚBLICO",
+        "Tipo": "DISCIPLINA",
+        "Carga_Horária": "60h"
+    },
+    {
+        "Código": "GPP0054",
+        "Nome": "ADMINISTRAÇÃO ESTRATÉGICA",
+        "Tipo": "DISCIPLINA",
+        "Carga_Horária": "60h"
+    },
+    {
+        "Código": "GPP0035",
+        "Nome": "ADMINISTRACAO PUBLICA COMPARADA",
+        "Tipo": "DISCIPLINA",
+        "Carga_Horária": "60h"
+    },
+    {
+        "Código": "GPP0057",
+        "Nome": "AUDITORIA E CONTROLADORIA",
+        "Tipo": "DISCIPLINA",
+        "Carga_Horária": "60h"
+    },
+    {
+        "Código": "GPP0015",
+        "Nome": "AVALIAÇÃO DE PROGRAMAS GOVERNAMENTAIS",
+        "Tipo": "DISCIPLINA",
+        "Carga_Horária": "60h"
+    },
+    {
+        "Código": "GPP0043",
+        "Nome": "CARGOS NO SERVIÇO PÚBLICO",
+        "Tipo": "DISCIPLINA",
+        "Carga_Horária": "60h"
+    },
+    {
+        "Código": "GPP0045",
+        "Nome": "CONTABILIDADE PÚBLICA",
+        "Tipo": "DISCIPLINA",
+        "Carga_Horária": "45h"
+    },
+    {
+        "Código": "ENM0167",
+        "Nome": "AUTOMACAO DA MANUFATURA E COMANDO MUNERICO",
+        "Tipo": "DISCIPLINA",
+        "Carga_Horária": "60h"
+    },
+    {
+        "Código": "ENM0184",
+        "Nome": "AUTOMAÇÃO DE PROCESSOS",
+        "Tipo": "DISCIPLINA",
+        "Carga_Horária": "60h"
+    },
+    {
+        "Código": "ENM0227",
+        "Nome": "CÁLCULO NUMÉRICO APLICADO",
+        "Tipo": "DISCIPLINA",
+        "Carga_Horária": "60h"
+    },
+    {
+        "Código": "ENM0079",
+        "Nome": "CAPTACAO E UTILIZACAO DE ENERGIA SOLAR",
+        "Tipo": "DISCIPLINA",
+        "Carga_Horária": "45h"
+    },
+    {
+        "Código": "DPG0738",
+        "Nome": "COMANDO NUMÉRICO",
+        "Tipo": "DISCIPLINA",
+        "Carga_Horária": "60h"
+    },
+    {
+        "Código": "DPG0200",
+        "Nome": "COMBUSTÃO",
+        "Tipo": "DISCIPLINA",
+        "Carga_Horária": "60h"
+    },
+    {
+        "Código": "DPG0248",
+        "Nome": "COMPORTAMENTO MECÂNICO DOS SÓLIDOS",
+        "Tipo": "DISCIPLINA",
+        "Carga_Horária": "60h"
+    },
+    {
+        "Código": "ENM0095",
+        "Nome": "CONFORMACAO DOS METAIS",
+        "Tipo": "DISCIPLINA",
+        "Carga_Horária": "60h"
+    },
+    {
+        "Código": "ENM0046",
+        "Nome": "CONSTRUCAO DE MAQUINAS",
+        "Tipo": "DISCIPLINA",
+        "Carga_Horária": "60h"
+    },
+    {
+        "Código": "ENM0001",
+        "Nome": "CONTROLE DE SISTEMAS MARÍTIMOS",
+        "Tipo": "DISCIPLINA",
+        "Carga_Horária": "60h"
+    },
+    {
+        "Código": "DPG1098",
+        "Nome": "CONVECÇÃO",
+        "Tipo": "DISCIPLINA",
+        "Carga_Horária": "60h"
+    },
+    {
+        "Código": "ENM0105",
+        "Nome": "DESENHO DE MAQUINAS",
+        "Tipo": "DISCIPLINA",
+        "Carga_Horária": "60h"
+    },
+    {
+        "Código": "ENM0131",
+        "Nome": "DESENHO MECANICO ASSISTIDO POR COMPUTADOR 1",
+        "Tipo": "DISCIPLINA",
+        "Carga_Horária": "90h"
+    },
+    {
+        "Código": "ENM0230",
+        "Nome": "DESENHO MECÂNICO ASSISTIDO POR COMPUTADOR 1",
+        "Tipo": "DISCIPLINA",
+        "Carga_Horária": "60h"
+    },
+    {
+        "Código": "ENM0132",
+        "Nome": "DESENHO MECANICO ASSISTIDO POR COMPUTADOR 2",
+        "Tipo": "DISCIPLINA",
+        "Carga_Horária": "60h"
+    },
+    {
+        "Código": "ENM0190",
+        "Nome": "DESENHO MECÂNICO PARA ENGENHARIA",
+        "Tipo": "DISCIPLINA",
+        "Carga_Horária": "60h"
+    },
+    {
+        "Código": "ENM0217",
+        "Nome": "DINÂMICA APLICADA",
+        "Tipo": "DISCIPLINA",
+        "Carga_Horária": "60h"
+    },
+    {
+        "Código": "DPG0216",
+        "Nome": "DINÂMICA DE ESTRUTURAS",
+        "Tipo": "DISCIPLINA",
+        "Carga_Horária": "60h"
+    },
+    {
+        "Código": "DPG0670",
+        "Nome": "DINÂMICA DOS FLUÍDOS",
+        "Tipo": "DISCIPLINA",
+        "Carga_Horária": "60h"
+    },
+    {
+        "Código": "DPG0302",
+        "Nome": "DINÂMICA DOS FLUIDOS COMPUTACIONAL",
+        "Tipo": "DISCIPLINA",
+        "Carga_Horária": "60h"
+    },
+    {
+        "Código": "ENM0280",
+        "Nome": "DINÂMICA DOS FLUIDOS COMPUTACIONAL",
+        "Tipo": "DISCIPLINA",
+        "Carga_Horária": "60h"
+    },
+    {
+        "Código": "DPG0805",
+        "Nome": "DINAMICA DOS FLUÍDOS NÃO-NEWTONIANOS",
+        "Tipo": "DISCIPLINA",
+        "Carga_Horária": "60h"
+    },
+    {
+        "Código": "DPG0471",
+        "Nome": "DINÂMICA DOS GASES",
+        "Tipo": "DISCIPLINA",
+        "Carga_Horária": "60h"
+    },
+    {
+        "Código": "DPG0416",
+        "Nome": "DINAMICA NÃO LINEAR E CAOS",
+        "Tipo": "DISCIPLINA",
+        "Carga_Horária": "60h"
+    },
+    {
+        "Código": "DPG0138",
+        "Nome": "ELASTICIDADE",
+        "Tipo": "DISCIPLINA",
+        "Carga_Horária": "60h"
+    },
+    {
+        "Código": "ENM0180",
+        "Nome": "ELEMENTOS DE AUTOMAÇÃO",
+        "Tipo": "DISCIPLINA",
+        "Carga_Horária": "60h"
+    },
+    {
+        "Código": "ENM0042",
+        "Nome": "ELEMENTOS DE MAQUINAS 1",
+        "Tipo": "DISCIPLINA",
+        "Carga_Horária": "90h"
+    },
+    {
+        "Código": "ENM0103",
+        "Nome": "ELEMENTOS DE MAQUINAS 1",
+        "Tipo": "DISCIPLINA",
+        "Carga_Horária": "60h"
+    },
+    {
+        "Código": "ENM0104",
+        "Nome": "ELEMENTOS DE MAQUINAS 2",
+        "Tipo": "DISCIPLINA",
+        "Carga_Horária": "60h"
+    },
+    {
+        "Código": "ENM0043",
+        "Nome": "ELEMENTOS DE MAQUINAS 2",
+        "Tipo": "DISCIPLINA",
+        "Carga_Horária": "60h"
+    },
+    {
+        "Código": "DPG1023",
+        "Nome": "ELEMENTOS FINITOS EM FLUIDOS",
+        "Tipo": "DISCIPLINA",
+        "Carga_Horária": "60h"
+    },
+    {
+        "Código": "DPG0662",
+        "Nome": "ELEMENTOS FINITOS EM SÓLIDOS",
+        "Tipo": "DISCIPLINA",
+        "Carga_Horária": "60h"
+    },
+    {
+        "Código": "DPG1234",
+        "Nome": "ELEMENTOS FINITOS PARA ANÁLISE DE VIBRAÇÕES",
+        "Tipo": "DISCIPLINA",
+        "Carga_Horária": "60h"
+    },
+    {
+        "Código": "ENM0169",
+        "Nome": "ELEMENTOS FINITOS PARA ENGENHARIA MECANICA",
+        "Tipo": "DISCIPLINA",
+        "Carga_Horária": "60h"
+    },
+    {
+        "Código": "DPG0782",
+        "Nome": "ENERGIA E AMBIENTE",
+        "Tipo": "DISCIPLINA",
+        "Carga_Horária": "60h"
+    },
+    {
+        "Código": "DPG0871",
+        "Nome": "ENGENHARIA DE CONFIABILIDADE",
+        "Tipo": "DISCIPLINA",
+        "Carga_Horária": "60h"
+    },
+    {
+        "Código": "ENM0157",
+        "Nome": "ESCOAMENTO COMPRESSIVEL",
+        "Tipo": "DISCIPLINA",
+        "Carga_Horária": "60h"
+    },
+    {
+        "Código": "DPG0335",
+        "Nome": "ESCOAMENTO MULTIFASICOS",
+        "Tipo": "DISCIPLINA",
+        "Carga_Horária": "60h"
+    },
+    {
+        "Código": "ENM0059",
+        "Nome": "ESTAGIO SUPERVISIONADO",
+        "Tipo": "DISCIPLINA",
+        "Carga_Horária": "150h"
+    },
+    {
+        "Código": "ENM0137",
+        "Nome": "ESTAGIO SUPERVISIONADO",
+        "Tipo": "DISCIPLINA",
+        "Carga_Horária": "120h"
+    },
+    {
+        "Código": "ENM0203",
+        "Nome": "ESTÁTICA APLICADA",
+        "Tipo": "DISCIPLINA",
+        "Carga_Horária": "60h"
+    },
+    {
+        "Código": "DPG0921",
+        "Nome": "FADIGA DOS MATERIAIS",
+        "Tipo": "DISCIPLINA",
+        "Carga_Horária": "60h"
+    },
+    {
+        "Código": "ENM0080",
+        "Nome": "FENOMENOS DE TRANSPORTE",
+        "Tipo": "DISCIPLINA",
+        "Carga_Horária": "75h"
+    },
+    {
+        "Código": "ENM0185",
+        "Nome": "FUNDAMENTOS DE CONVECÇÃO",
+        "Tipo": "DISCIPLINA",
+        "Carga_Horária": "60h"
+    },
+    {
+        "Código": "ENM0003",
+        "Nome": "FUNDAMENTOS DE ENGENHARIA DE RESERVATÓRIO",
+        "Tipo": "DISCIPLINA",
+        "Carga_Horária": "30h"
+    },
+    {
+        "Código": "ENM0194",
+        "Nome": "FUNDAMENTOS DE MAGNETOHIDRODINÂMICA",
+        "Tipo": "DISCIPLINA",
+        "Carga_Horária": "60h"
+    },
+    {
+        "Código": "ENM0155",
+        "Nome": "FUNDICAO",
+        "Tipo": "DISCIPLINA",
+        "Carga_Horária": "60h"
+    },
+    {
+        "Código": "ENM0075",
+        "Nome": "GERACAO E UTILIZACAO DE VAPOR D'AGUA",
+        "Tipo": "DISCIPLINA",
+        "Carga_Horária": "60h"
+    },
+    {
+        "Código": "ENM0166",
+        "Nome": "GESTAO DE QUALIDADE",
+        "Tipo": "DISCIPLINA",
+        "Carga_Horária": "60h"
+    }
+]

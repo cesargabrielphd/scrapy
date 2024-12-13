@@ -1,163 +1,163 @@
 [
     {
-        "Código": "MAT0034",
-        "Nome": "ALGEBRA 1",
+        "Código": "DIN0012",
+        "Nome": "ANALISE GRAFICA 1",
         "Tipo": "DISCIPLINA",
         "Carga_Horária": "60h"
     },
     {
-        "Código": "MAT0040",
-        "Nome": "ALGEBRA 2",
+        "Código": "DIN0013",
+        "Nome": "ANALISE GRAFICA 2",
         "Tipo": "DISCIPLINA",
         "Carga_Horária": "60h"
     },
     {
-        "Código": "MAT0107",
-        "Nome": "ALGEBRA 3",
+        "Código": "DIN0014",
+        "Nome": "ANALISE GRAFICA 3",
         "Tipo": "DISCIPLINA",
         "Carga_Horária": "60h"
     },
     {
-        "Código": "MAT0039",
-        "Nome": "ALGEBRA LINEAR",
+        "Código": "DIN0015",
+        "Nome": "ANALISE GRAFICA 4",
+        "Tipo": "DISCIPLINA",
+        "Carga_Horária": "60h"
+    },
+    {
+        "Código": "DIN0035",
+        "Nome": "COMPUTACAO GRAFICA APLICADA",
         "Tipo": "DISCIPLINA",
         "Carga_Horária": "90h"
     },
     {
-        "Código": "MAT0061",
-        "Nome": "ALGEBRA PARA ENSINO  1 E 2",
-        "Tipo": "DISCIPLINA",
-        "Carga_Horária": "90h"
-    },
-    {
-        "Código": "MAT0122",
-        "Nome": "ÁLGEBRA PARA O ENSINO 1",
-        "Tipo": "DISCIPLINA",
-        "Carga_Horária": "90h"
-    },
-    {
-        "Código": "MAT0134",
-        "Nome": "ÁLGEBRA PARA O ENSINO 2",
-        "Tipo": "DISCIPLINA",
-        "Carga_Horária": "90h"
-    },
-    {
-        "Código": "MAT0045",
-        "Nome": "ANALISE 1",
+        "Código": "DIN0031",
+        "Nome": "CRIATIVIDADE EM DESIGN",
         "Tipo": "DISCIPLINA",
         "Carga_Horária": "60h"
     },
     {
-        "Código": "MAT0046",
-        "Nome": "ANALISE 2",
-        "Tipo": "DISCIPLINA",
-        "Carga_Horária": "60h"
-    },
-    {
-        "Código": "MAT0106",
-        "Nome": "ANALISE 3",
-        "Tipo": "DISCIPLINA",
-        "Carga_Horária": "60h"
-    },
-    {
-        "Código": "MAT0082",
-        "Nome": "ANALISE COMBINATORIA",
-        "Tipo": "DISCIPLINA",
-        "Carga_Horária": "60h"
-    },
-    {
-        "Código": "MAT0006",
-        "Nome": "ANÁLISE COMBINATÓRIA PARA CÁLCULO DE PROBABILIDADES",
-        "Tipo": "DISCIPLINA",
-        "Carga_Horária": "60h"
-    },
-    {
-        "Código": "MAT0078",
-        "Nome": "ANALISE DE ALGORITMOS",
-        "Tipo": "DISCIPLINA",
-        "Carga_Horária": "60h"
-    },
-    {
-        "Código": "MAT0057",
-        "Nome": "ANALISE NUMERICA 1",
-        "Tipo": "DISCIPLINA",
-        "Carga_Horária": "60h"
-    },
-    {
-        "Código": "MAT0025",
-        "Nome": "CÁLCULO 1",
+        "Código": "DIN0037",
+        "Nome": "DESENHO APLICADO 1",
         "Tipo": "DISCIPLINA",
         "Carga_Horária": "90h"
     },
     {
-        "Código": "MAT0137",
-        "Nome": "CÁLCULO 1 - SEMIPRESENCIAL",
+        "Código": "DIN0045",
+        "Nome": "DESENHO APLICADO 2",
         "Tipo": "DISCIPLINA",
         "Carga_Horária": "90h"
     },
     {
-        "Código": "MAT0026",
-        "Nome": "CÁLCULO 2",
-        "Tipo": "DISCIPLINA",
-        "Carga_Horária": "90h"
-    },
-    {
-        "Código": "MAT0138",
-        "Nome": "CÁLCULO 2 - SEMIPRESENCIAL",
-        "Tipo": "DISCIPLINA",
-        "Carga_Horária": "90h"
-    },
-    {
-        "Código": "MAT0027",
-        "Nome": "CÁLCULO 3",
-        "Tipo": "DISCIPLINA",
-        "Carga_Horária": "90h"
-    },
-    {
-        "Código": "MAT0075",
-        "Nome": "CALCULO DE PROBABILIDADE 1",
-        "Tipo": "DISCIPLINA",
-        "Carga_Horária": "90h"
-    },
-    {
-        "Código": "MAT0076",
-        "Nome": "CALCULO DE PROBABILIDADE 2",
+        "Código": "DIN0001",
+        "Nome": "DESIGN DE INTERAÇÃO",
         "Tipo": "DISCIPLINA",
         "Carga_Horária": "60h"
     },
     {
-        "Código": "MAT0012",
-        "Nome": "CÁLCULO DE VARIAS VARIÁVEIS",
-        "Tipo": "DISCIPLINA",
-        "Carga_Horária": "45h"
-    },
-    {
-        "Código": "MAT0001",
-        "Nome": "CALCULO DIFERENCIAL DE UMA VARIÁVEL",
+        "Código": "DIN0002",
+        "Nome": "DESIGN DE JOGOS",
         "Tipo": "DISCIPLINA",
         "Carga_Horária": "60h"
     },
     {
-        "Código": "MAT0007",
-        "Nome": "CÁLCULO INTEGRAL DE UMA VARIÁVEL",
+        "Código": "DIN0032",
+        "Nome": "DESIGN REGIONAL",
+        "Tipo": "DISCIPLINA",
+        "Carga_Horária": "60h"
+    },
+    {
+        "Código": "DIN0054",
+        "Nome": "DIPLOMAÇÃO EM PROGRAMAÇÃO VISUAL",
+        "Tipo": "DISCIPLINA",
+        "Carga_Horária": "60h"
+    },
+    {
+        "Código": "DIN0056",
+        "Nome": "DIPLOMAÇÃO EM PROJETO DO PRODUTO",
+        "Tipo": "DISCIPLINA",
+        "Carga_Horária": "60h"
+    },
+    {
+        "Código": "DIN0007",
+        "Nome": "ENCADERNAÇÃO ARTESANAL",
+        "Tipo": "DISCIPLINA",
+        "Carga_Horária": "60h"
+    },
+    {
+        "Código": "DIN0009",
+        "Nome": "ESTÁGIO OBRIGATÓRIO",
         "Tipo": "DISCIPLINA",
         "Carga_Horária": "30h"
     },
     {
-        "Código": "MAT0053",
-        "Nome": "CALCULO NUMERICO",
+        "Código": "DIN0036",
+        "Nome": "ESTAGIO SUPERVISIONADO EM PROGRAMACAO VISUAL",
+        "Tipo": "DISCIPLINA",
+        "Carga_Horária": "30h"
+    },
+    {
+        "Código": "DIN0038",
+        "Nome": "ESTAGIO SUPERVISIONADO EM PROJETO DO PRODUTO",
+        "Tipo": "DISCIPLINA",
+        "Carga_Horária": "30h"
+    },
+    {
+        "Código": "DIN0034",
+        "Nome": "ESTUDO DA FORMA",
         "Tipo": "DISCIPLINA",
         "Carga_Horária": "60h"
     },
     {
-        "Código": "COM0129",
-        "Nome": "LINGUAGENS DA COMUNICAÇÃO 1",
+        "Código": "DIN0059",
+        "Nome": "ESTUDOS DIRIGIDOS EM DESIGN 1",
+        "Tipo": "DISCIPLINA",
+        "Carga_Horária": "30h"
+    },
+    {
+        "Código": "DIN0061",
+        "Nome": "ESTUDOS DIRIGIDOS EM DESIGN 2",
+        "Tipo": "DISCIPLINA",
+        "Carga_Horária": "30h"
+    },
+    {
+        "Código": "DIN0063",
+        "Nome": "ESTUDOS DIRIGIDOS EM DESIGN 3",
+        "Tipo": "DISCIPLINA",
+        "Carga_Horária": "30h"
+    },
+    {
+        "Código": "DIN0065",
+        "Nome": "ESTUDOS DIRIGIDOS EM DESIGN 4",
+        "Tipo": "DISCIPLINA",
+        "Carga_Horária": "30h"
+    },
+    {
+        "Código": "DIN0011",
+        "Nome": "EXPRESSAO",
         "Tipo": "DISCIPLINA",
         "Carga_Horária": "60h"
     },
     {
-        "Código": "COM0132",
-        "Nome": "LINGUAGENS DA COMUNICAÇÃO 2",
+        "Código": "DIN0004",
+        "Nome": "FOTOGRAFIA",
+        "Tipo": "DISCIPLINA",
+        "Carga_Horária": "60h"
+    },
+    {
+        "Código": "DIN0047",
+        "Nome": "FOTOGRAFIA E VIDEO",
+        "Tipo": "DISCIPLINA",
+        "Carga_Horária": "60h"
+    },
+    {
+        "Código": "DIN0003",
+        "Nome": "FUNDAMENTOS DA LÍNGUAGEM APLICADOS AO DESIGN",
+        "Tipo": "DISCIPLINA",
+        "Carga_Horária": "60h"
+    },
+    {
+        "Código": "DIN0020",
+        "Nome": "HISTORIA DA ARTE E DA TECNOLOGIA",
         "Tipo": "DISCIPLINA",
         "Carga_Horária": "60h"
     },
@@ -358,276 +358,6 @@
         "Nome": "TRABALHO DE CONCLUSÃO DE CURSO",
         "Tipo": "DISCIPLINA",
         "Carga_Horária": "150h"
-    },
-    {
-        "Código": null,
-        "Nome": null,
-        "Tipo": null,
-        "Carga_Horária": "h"
-    },
-    {
-        "Código": null,
-        "Nome": null,
-        "Tipo": null,
-        "Carga_Horária": "h"
-    },
-    {
-        "Código": null,
-        "Nome": null,
-        "Tipo": null,
-        "Carga_Horária": "h"
-    },
-    {
-        "Código": null,
-        "Nome": null,
-        "Tipo": null,
-        "Carga_Horária": "h"
-    },
-    {
-        "Código": null,
-        "Nome": null,
-        "Tipo": null,
-        "Carga_Horária": "h"
-    },
-    {
-        "Código": null,
-        "Nome": null,
-        "Tipo": null,
-        "Carga_Horária": "h"
-    },
-    {
-        "Código": null,
-        "Nome": null,
-        "Tipo": null,
-        "Carga_Horária": "h"
-    },
-    {
-        "Código": null,
-        "Nome": null,
-        "Tipo": null,
-        "Carga_Horária": "h"
-    },
-    {
-        "Código": null,
-        "Nome": null,
-        "Tipo": null,
-        "Carga_Horária": "h"
-    },
-    {
-        "Código": null,
-        "Nome": null,
-        "Tipo": null,
-        "Carga_Horária": "h"
-    },
-    {
-        "Código": null,
-        "Nome": null,
-        "Tipo": null,
-        "Carga_Horária": "h"
-    },
-    {
-        "Código": null,
-        "Nome": null,
-        "Tipo": null,
-        "Carga_Horária": "h"
-    },
-    {
-        "Código": null,
-        "Nome": null,
-        "Tipo": null,
-        "Carga_Horária": "h"
-    },
-    {
-        "Código": null,
-        "Nome": null,
-        "Tipo": null,
-        "Carga_Horária": "h"
-    },
-    {
-        "Código": null,
-        "Nome": null,
-        "Tipo": null,
-        "Carga_Horária": "h"
-    },
-    {
-        "Código": null,
-        "Nome": null,
-        "Tipo": null,
-        "Carga_Horária": "h"
-    },
-    {
-        "Código": null,
-        "Nome": null,
-        "Tipo": null,
-        "Carga_Horária": "h"
-    },
-    {
-        "Código": null,
-        "Nome": null,
-        "Tipo": null,
-        "Carga_Horária": "h"
-    },
-    {
-        "Código": null,
-        "Nome": null,
-        "Tipo": null,
-        "Carga_Horária": "h"
-    },
-    {
-        "Código": null,
-        "Nome": null,
-        "Tipo": null,
-        "Carga_Horária": "h"
-    },
-    {
-        "Código": null,
-        "Nome": null,
-        "Tipo": null,
-        "Carga_Horária": "h"
-    },
-    {
-        "Código": null,
-        "Nome": null,
-        "Tipo": null,
-        "Carga_Horária": "h"
-    },
-    {
-        "Código": null,
-        "Nome": null,
-        "Tipo": null,
-        "Carga_Horária": "h"
-    },
-    {
-        "Código": null,
-        "Nome": null,
-        "Tipo": null,
-        "Carga_Horária": "h"
-    },
-    {
-        "Código": null,
-        "Nome": null,
-        "Tipo": null,
-        "Carga_Horária": "h"
-    },
-    {
-        "Código": null,
-        "Nome": null,
-        "Tipo": null,
-        "Carga_Horária": "h"
-    },
-    {
-        "Código": null,
-        "Nome": null,
-        "Tipo": null,
-        "Carga_Horária": "h"
-    },
-    {
-        "Código": null,
-        "Nome": null,
-        "Tipo": null,
-        "Carga_Horária": "h"
-    },
-    {
-        "Código": null,
-        "Nome": null,
-        "Tipo": null,
-        "Carga_Horária": "h"
-    },
-    {
-        "Código": null,
-        "Nome": null,
-        "Tipo": null,
-        "Carga_Horária": "h"
-    },
-    {
-        "Código": null,
-        "Nome": null,
-        "Tipo": null,
-        "Carga_Horária": "h"
-    },
-    {
-        "Código": null,
-        "Nome": null,
-        "Tipo": null,
-        "Carga_Horária": "h"
-    },
-    {
-        "Código": null,
-        "Nome": null,
-        "Tipo": null,
-        "Carga_Horária": "h"
-    },
-    {
-        "Código": null,
-        "Nome": null,
-        "Tipo": null,
-        "Carga_Horária": "h"
-    },
-    {
-        "Código": null,
-        "Nome": null,
-        "Tipo": null,
-        "Carga_Horária": "h"
-    },
-    {
-        "Código": null,
-        "Nome": null,
-        "Tipo": null,
-        "Carga_Horária": "h"
-    },
-    {
-        "Código": null,
-        "Nome": null,
-        "Tipo": null,
-        "Carga_Horária": "h"
-    },
-    {
-        "Código": null,
-        "Nome": null,
-        "Tipo": null,
-        "Carga_Horária": "h"
-    },
-    {
-        "Código": null,
-        "Nome": null,
-        "Tipo": null,
-        "Carga_Horária": "h"
-    },
-    {
-        "Código": null,
-        "Nome": null,
-        "Tipo": null,
-        "Carga_Horária": "h"
-    },
-    {
-        "Código": null,
-        "Nome": null,
-        "Tipo": null,
-        "Carga_Horária": "h"
-    },
-    {
-        "Código": null,
-        "Nome": null,
-        "Tipo": null,
-        "Carga_Horária": "h"
-    },
-    {
-        "Código": null,
-        "Nome": null,
-        "Tipo": null,
-        "Carga_Horária": "h"
-    },
-    {
-        "Código": null,
-        "Nome": null,
-        "Tipo": null,
-        "Carga_Horária": "h"
-    },
-    {
-        "Código": null,
-        "Nome": null,
-        "Tipo": null,
-        "Carga_Horária": "h"
     },
     {
         "Código": null,

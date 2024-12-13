@@ -1,0 +1,362 @@
+[
+    {
+        "Código": "PRO0005",
+        "Nome": "ATELIÊ DE HISTÓRIAS EM QUADRINHOS EM ARQUITETURA E URBANISMO",
+        "Tipo": "DISCIPLINA",
+        "Carga_Horária": "60h"
+    },
+    {
+        "Código": "PRO0050",
+        "Nome": "ATELIÊ DE PROJETO DE ARQUITETURA E URBANISMO SUSTENTÁVEL",
+        "Tipo": "DISCIPLINA",
+        "Carga_Horária": "90h"
+    },
+    {
+        "Código": "PRO0052",
+        "Nome": "AVALIAÇÃO DE PÓS-OCUPAÇÃO DE ESPAÇOS URBANOS",
+        "Tipo": "DISCIPLINA",
+        "Carga_Horária": "60h"
+    },
+    {
+        "Código": "PRO0004",
+        "Nome": "CIÊNCIAS DO COMPORTAMENTO APLICADAS À ARQUITETURA",
+        "Tipo": "DISCIPLINA",
+        "Carga_Horária": "60h"
+    },
+    {
+        "Código": "PRO0045",
+        "Nome": "COMPUTACAO GRAFICA APLICADA A ARQUITETURA E URBANISMO 1",
+        "Tipo": "DISCIPLINA",
+        "Carga_Horária": "60h"
+    },
+    {
+        "Código": "PRO0037",
+        "Nome": "COMPUTACAO GRAFICA APLICADA A ARQUITETURA E URBANISMO 2",
+        "Tipo": "DISCIPLINA",
+        "Carga_Horária": "60h"
+    },
+    {
+        "Código": "PRO0064",
+        "Nome": "CONFORTO TÉRMICO AMBIENTAL 2",
+        "Tipo": "DISCIPLINA",
+        "Carga_Horária": "30h"
+    },
+    {
+        "Código": "PRO0023",
+        "Nome": "DESENHO ARQUITETONICO",
+        "Tipo": "DISCIPLINA",
+        "Carga_Horária": "60h"
+    },
+    {
+        "Código": "PRO0061",
+        "Nome": "DESENHO DE ARQUITETURA",
+        "Tipo": "DISCIPLINA",
+        "Carga_Horária": "30h"
+    },
+    {
+        "Código": "PRO0025",
+        "Nome": "DESENHO E PLASTICA 1",
+        "Tipo": "DISCIPLINA",
+        "Carga_Horária": "60h"
+    },
+    {
+        "Código": "PRO0026",
+        "Nome": "DESENHO E PLASTICA 2",
+        "Tipo": "DISCIPLINA",
+        "Carga_Horária": "60h"
+    },
+    {
+        "Código": "PRO0046",
+        "Nome": "DESENHO E PLASTICA 3",
+        "Tipo": "DISCIPLINA",
+        "Carga_Horária": "60h"
+    },
+    {
+        "Código": "PRO0003",
+        "Nome": "ERGONOMIA APLICADA À ARQUITETURA DE INTERIORES",
+        "Tipo": "DISCIPLINA",
+        "Carga_Horária": "60h"
+    },
+    {
+        "Código": "PRO0066",
+        "Nome": "ESBOÇOS URBANOS",
+        "Tipo": "DISCIPLINA",
+        "Carga_Horária": "60h"
+    },
+    {
+        "Código": "PRO0027",
+        "Nome": "ESPACO,EXPRESSAO E SIGNIFICADO",
+        "Tipo": "DISCIPLINA",
+        "Carga_Horária": "60h"
+    },
+    {
+        "Código": "PRO0007",
+        "Nome": "ESTAGIOS SUPERVISIONADOS DE PROJETOS",
+        "Tipo": "DISCIPLINA",
+        "Carga_Horária": "30h"
+    },
+    {
+        "Código": "PRO0028",
+        "Nome": "GEOMETRIA CONSTRUTIVA",
+        "Tipo": "DISCIPLINA",
+        "Carga_Horária": "60h"
+    },
+    {
+        "Código": "PRO0029",
+        "Nome": "GEOMETRIA DA FORMA",
+        "Tipo": "DISCIPLINA",
+        "Carga_Horária": "60h"
+    },
+    {
+        "Código": "PRO0044",
+        "Nome": "INICIACAO AO PROJETO PAISAGISTICO",
+        "Tipo": "DISCIPLINA",
+        "Carga_Horária": "120h"
+    },
+    {
+        "Código": "PRO0042",
+        "Nome": "INTRODUÇÃO AO PROJETO DE ARQUITETURA 1",
+        "Tipo": "DISCIPLINA",
+        "Carga_Horária": "180h"
+    },
+    {
+        "Código": "PRO0039",
+        "Nome": "INTRODUÇÃO AO TRABALHO FINAL DE GRADUAÇÃO",
+        "Tipo": "DISCIPLINA",
+        "Carga_Horária": "60h"
+    },
+    {
+        "Código": "PRO0062",
+        "Nome": "INVENÇÕES E PATENTES EM ARQUITETURA E URBANISMO",
+        "Tipo": "DISCIPLINA",
+        "Carga_Horária": "60h"
+    },
+    {
+        "Código": "PRO0053",
+        "Nome": "MÉTODOS E TÉCNICAS DE PESQUISA EM ARQUITETURA E URBANISMO",
+        "Tipo": "DISCIPLINA",
+        "Carga_Horária": "60h"
+    },
+    {
+        "Código": "PRO0065",
+        "Nome": "MODELAGEM DA INFORMAÇÃO DA CONSTRUÇÃO - BIM",
+        "Tipo": "DISCIPLINA",
+        "Carga_Horária": "30h"
+    },
+    {
+        "Código": "PRO0063",
+        "Nome": "MODELAGEM TRIDIMENSIONAL DIGITAL EM ARQUITETURA",
+        "Tipo": "DISCIPLINA",
+        "Carga_Horária": "30h"
+    },
+    {
+        "Código": "PRO0036",
+        "Nome": "OFICINA DE MAQUETE",
+        "Tipo": "DISCIPLINA",
+        "Carga_Horária": "60h"
+    },
+    {
+        "Código": "PRO0034",
+        "Nome": "PLANEJAMENTO DA PAISAGEM",
+        "Tipo": "DISCIPLINA",
+        "Carga_Horária": "60h"
+    },
+    {
+        "Código": "PRO0055",
+        "Nome": "PRÁTICA DE ESCRITÓRIO MODELO DE ARQUITETURA E URBANISMO 1",
+        "Tipo": "DISCIPLINA",
+        "Carga_Horária": "60h"
+    },
+    {
+        "Código": "PRO0056",
+        "Nome": "PRÁTICA DE ESCRITÓRIO MODELO DE ARQUITETURA E URBANISMO 2",
+        "Tipo": "DISCIPLINA",
+        "Carga_Horária": "60h"
+    },
+    {
+        "Código": "PRO0057",
+        "Nome": "PRÁTICA DE ESCRITÓRIO MODELO DE ARQUITETURA E URBANISMO 3",
+        "Tipo": "DISCIPLINA",
+        "Carga_Horária": "60h"
+    },
+    {
+        "Código": "PRO0058",
+        "Nome": "PRÁTICA DE ESCRITÓRIO MODELO DE ARQUITETURA E URBANISMO 4",
+        "Tipo": "DISCIPLINA",
+        "Carga_Horária": "60h"
+    },
+    {
+        "Código": "PRO0009",
+        "Nome": "PRATICA PROFISSIONAL",
+        "Tipo": "DISCIPLINA",
+        "Carga_Horária": "30h"
+    },
+    {
+        "Código": "PRO0031",
+        "Nome": "PROGRAMACAO VISUAL APLICADA A ARQUITETURA E URBANISMO",
+        "Tipo": "DISCIPLINA",
+        "Carga_Horária": "90h"
+    },
+    {
+        "Código": "PRO0011",
+        "Nome": "PROJETO ARQUITETONICO 1",
+        "Tipo": "DISCIPLINA",
+        "Carga_Horária": "120h"
+    },
+    {
+        "Código": "PRO0017",
+        "Nome": "PROJETO ARQUITETONICO DE EDIFICACOES EM ALTURA",
+        "Tipo": "DISCIPLINA",
+        "Carga_Horária": "120h"
+    },
+    {
+        "Código": "PRO0030",
+        "Nome": "PROJETO DE ARQUITETURA ASSISTIDO POR COMPUTADOR",
+        "Tipo": "DISCIPLINA",
+        "Carga_Horária": "60h"
+    },
+    {
+        "Código": "PRO0018",
+        "Nome": "PROJETO DE ARQUITETURA DE FUNÇÕES COMPLEXAS",
+        "Tipo": "DISCIPLINA",
+        "Carga_Horária": "120h"
+    },
+    {
+        "Código": "PRO0016",
+        "Nome": "PROJETO DE ARQUITETURA DE GRANDES VAOS",
+        "Tipo": "DISCIPLINA",
+        "Carga_Horária": "120h"
+    },
+    {
+        "Código": "PRO0054",
+        "Nome": "PROJETO DE ARQUITETURA DE INTERESSE COMUNITÁRIO",
+        "Tipo": "DISCIPLINA",
+        "Carga_Horária": "60h"
+    },
+    {
+        "Código": "PRO0059",
+        "Nome": "PROJETO DE ARQUITETURA E URBANISMO 1",
+        "Tipo": "DISCIPLINA",
+        "Carga_Horária": "180h"
+    },
+    {
+        "Código": "PRO0047",
+        "Nome": "PROJETO DE ARQUITETURA E URBANISMO 8 - TÉCNICAS RETROSPECTIVAS",
+        "Tipo": "DISCIPLINA",
+        "Carga_Horária": "120h"
+    },
+    {
+        "Código": "PRO0015",
+        "Nome": "PROJETO DE ARQUITETURA - HABITAÇÃO",
+        "Tipo": "DISCIPLINA",
+        "Carga_Horária": "120h"
+    },
+    {
+        "Código": "PRO0019",
+        "Nome": "PROJETO DE ARQUITETURA INDUSTRIALIZADA",
+        "Tipo": "DISCIPLINA",
+        "Carga_Horária": "120h"
+    },
+    {
+        "Código": "PRO0013",
+        "Nome": "PROJETO DE ARQUITETURA - LINGUAGEM E EXPRESSÃO",
+        "Tipo": "DISCIPLINA",
+        "Carga_Horária": "120h"
+    },
+    {
+        "Código": "PRO0008",
+        "Nome": "PROJETO DE ARQUITETURA - PROBLEMAS ESPECIAIS",
+        "Tipo": "DISCIPLINA",
+        "Carga_Horária": "90h"
+    },
+    {
+        "Código": "PRO0006",
+        "Nome": "PROJETO DE DIPLOMACAO",
+        "Tipo": "DISCIPLINA",
+        "Carga_Horária": "180h"
+    },
+    {
+        "Código": "PRO0040",
+        "Nome": "PROJETO DE DIPLOMACAO 2",
+        "Tipo": "DISCIPLINA",
+        "Carga_Horária": "120h"
+    },
+    {
+        "Código": "PRO0041",
+        "Nome": "PROJETO DE EDIFICAÇÃO E URBANÍSMO 6",
+        "Tipo": "DISCIPLINA",
+        "Carga_Horária": "120h"
+    },
+    {
+        "Código": "PRO0060",
+        "Nome": "PROJETO DE PAISAGISMO 1",
+        "Tipo": "DISCIPLINA",
+        "Carga_Horária": "60h"
+    },
+    {
+        "Código": "PRO0002",
+        "Nome": "PROJETO DE PAISAGISMO 2",
+        "Tipo": "DISCIPLINA",
+        "Carga_Horária": "60h"
+    },
+    {
+        "Código": "PRO0020",
+        "Nome": "PROJETO DE URBANISMO 1",
+        "Tipo": "DISCIPLINA",
+        "Carga_Horária": "120h"
+    },
+    {
+        "Código": "PRO0021",
+        "Nome": "PROJETO DE URBANISMO 2",
+        "Tipo": "DISCIPLINA",
+        "Carga_Horária": "120h"
+    },
+    {
+        "Código": "PRO0043",
+        "Nome": "PROJETO DE URBANISMO - PROBLEMAS ESPECIAIS",
+        "Tipo": "DISCIPLINA",
+        "Carga_Horária": "90h"
+    },
+    {
+        "Código": "PRO0051",
+        "Nome": "PROJETO E PLANEJAMENTO  DE HABITAÇÃO POPULAR",
+        "Tipo": "DISCIPLINA",
+        "Carga_Horária": "60h"
+    },
+    {
+        "Código": "PRO0022",
+        "Nome": "PROJETO PAISAGÍSTICO 1",
+        "Tipo": "DISCIPLINA",
+        "Carga_Horária": "120h"
+    },
+    {
+        "Código": "PRO0032",
+        "Nome": "PROJETO PAISAGISTICO 2",
+        "Tipo": "DISCIPLINA",
+        "Carga_Horária": "90h"
+    },
+    {
+        "Código": "PRO0049",
+        "Nome": "SABER LOCAL - COMUNIDADE E ARQUITETURA",
+        "Tipo": "DISCIPLINA",
+        "Carga_Horária": "60h"
+    },
+    {
+        "Código": "PRO0048",
+        "Nome": "TRABALHO FINAL DE GRADUAÇÃO",
+        "Tipo": "DISCIPLINA",
+        "Carga_Horária": "240h"
+    },
+    {
+        "Código": "PRO0001",
+        "Nome": "TRABALHO FINAL DE GRADUAÇÃO EM ARQUITETURA E URBANISMO",
+        "Tipo": "DISCIPLINA",
+        "Carga_Horária": "60h"
+    },
+    {
+        "Código": "PRO0035",
+        "Nome": "VEGETACAO APLICADA AO PAISAGISMO",
+        "Tipo": "DISCIPLINA",
+        "Carga_Horária": "60h"
+    }
+]

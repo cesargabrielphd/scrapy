@@ -8,6 +8,6 @@
 from itemadapter import ItemAdapter
 
 
-class RecusivaDisciplinaPipeline:
+class RecursivaPipeline:
     def process_item(self, item, spider):
         return item

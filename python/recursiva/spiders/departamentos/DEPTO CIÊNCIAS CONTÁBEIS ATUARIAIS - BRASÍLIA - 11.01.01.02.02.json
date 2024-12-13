@@ -1,0 +1,632 @@
+[
+    {
+        "Código": "CCA0031",
+        "Nome": "ADMINISTRACAO FINANCEIRA E CONTABILIDADE PUBLICA",
+        "Tipo": "DISCIPLINA",
+        "Carga_Horária": "60h"
+    },
+    {
+        "Código": "CCA0089",
+        "Nome": "ANALISE DA LIQUIDEZ",
+        "Tipo": "DISCIPLINA",
+        "Carga_Horária": "60h"
+    },
+    {
+        "Código": "CCA0137",
+        "Nome": "ANÁLISE DAS DEMONSTRAÇÕES CONTÁBEIS GOVERNAMENTAIS",
+        "Tipo": "DISCIPLINA",
+        "Carga_Horária": "30h"
+    },
+    {
+        "Código": "CCA0021",
+        "Nome": "ANÁLISE ECONÔMICO-FINANCEIRA 1",
+        "Tipo": "DISCIPLINA",
+        "Carga_Horária": "60h"
+    },
+    {
+        "Código": "CCA0074",
+        "Nome": "ANÁLISE ECONÔMICO-FINANCEIRA 2",
+        "Tipo": "DISCIPLINA",
+        "Carga_Horária": "60h"
+    },
+    {
+        "Código": "CCA0149",
+        "Nome": "ATUÁRIA BÁSICA",
+        "Tipo": "DISCIPLINA",
+        "Carga_Horária": "30h"
+    },
+    {
+        "Código": "CCA0024",
+        "Nome": "AUDITORIA 1",
+        "Tipo": "DISCIPLINA",
+        "Carga_Horária": "60h"
+    },
+    {
+        "Código": "CCA0026",
+        "Nome": "AUDITORIA 2",
+        "Tipo": "DISCIPLINA",
+        "Carga_Horária": "60h"
+    },
+    {
+        "Código": "CCA0133",
+        "Nome": "AUDITORIA DE SISTEMAS",
+        "Tipo": "DISCIPLINA",
+        "Carga_Horária": "30h"
+    },
+    {
+        "Código": "CCA0071",
+        "Nome": "AUDITORIA EM SISTEMAS COMPUTADORIZADOS",
+        "Tipo": "DISCIPLINA",
+        "Carga_Horária": "60h"
+    },
+    {
+        "Código": "CCA0227",
+        "Nome": "AUDITORIA SETOR PÚBLICO",
+        "Tipo": "DISCIPLINA",
+        "Carga_Horária": "60h"
+    },
+    {
+        "Código": "CCA0004",
+        "Nome": "AVALIAÇÃO DE EMPRESAS",
+        "Tipo": "DISCIPLINA",
+        "Carga_Horária": "30h"
+    },
+    {
+        "Código": "CCA0056",
+        "Nome": "AVALIAÇÃO DE PROJETOS DE INVESTIMENTO",
+        "Tipo": "DISCIPLINA",
+        "Carga_Horária": "60h"
+    },
+    {
+        "Código": "CCA0124",
+        "Nome": "COMÉRCIO EXTERIOR",
+        "Tipo": "DISCIPLINA",
+        "Carga_Horária": "60h"
+    },
+    {
+        "Código": "CCA0063",
+        "Nome": "CONTABILIDADE AGRARIA",
+        "Tipo": "DISCIPLINA",
+        "Carga_Horária": "60h"
+    },
+    {
+        "Código": "CCA0178",
+        "Nome": "CONTABILIDADE AVANÇADA",
+        "Tipo": "DISCIPLINA",
+        "Carga_Horária": "60h"
+    },
+    {
+        "Código": "CCA0105",
+        "Nome": "CONTABILIDADE BÁSICA - SEMI PRESENCIAL",
+        "Tipo": "DISCIPLINA",
+        "Carga_Horária": "60h"
+    },
+    {
+        "Código": "CCA0029",
+        "Nome": "CONTABILIDADE COMERCIAL",
+        "Tipo": "DISCIPLINA",
+        "Carga_Horária": "60h"
+    },
+    {
+        "Código": "CCA0085",
+        "Nome": "CONTABILIDADE DE COMPANHIAS ABERTAS",
+        "Tipo": "DISCIPLINA",
+        "Carga_Horária": "60h"
+    },
+    {
+        "Código": "CCA0046",
+        "Nome": "CONTABILIDADE DE INSTITUICOES FINANCEIRAS",
+        "Tipo": "DISCIPLINA",
+        "Carga_Horária": "60h"
+    },
+    {
+        "Código": "CCA0185",
+        "Nome": "CONTABILIDADE DE INSTRUMENTOS FINANCEIROS",
+        "Tipo": "DISCIPLINA",
+        "Carga_Horária": "60h"
+    },
+    {
+        "Código": "CCA0157",
+        "Nome": "CONTABILIDADE DE MICRO E PEQUENOS EMPREENDIMENTOS",
+        "Tipo": "DISCIPLINA",
+        "Carga_Horária": "30h"
+    },
+    {
+        "Código": "CCA0147",
+        "Nome": "CONTABILIDADE DO AGRONEGÓCIO",
+        "Tipo": "DISCIPLINA",
+        "Carga_Horária": "30h"
+    },
+    {
+        "Código": "CCA0145",
+        "Nome": "CONTABILIDADE DO SETOR PREVIDENCIÁRIO",
+        "Tipo": "DISCIPLINA",
+        "Carga_Horária": "30h"
+    },
+    {
+        "Código": "CCA0171",
+        "Nome": "CONTABILIDADE DO SETOR PÚBLICO",
+        "Tipo": "DISCIPLINA",
+        "Carga_Horária": "60h"
+    },
+    {
+        "Código": "CCA0065",
+        "Nome": "CONTABILIDADE E ANALISE DE BALANCOS",
+        "Tipo": "DISCIPLINA",
+        "Carga_Horária": "60h"
+    },
+    {
+        "Código": "CCA0095",
+        "Nome": "CONTABILIDADE E COMPANHIAS TRANSNACIONAIS",
+        "Tipo": "DISCIPLINA",
+        "Carga_Horária": "60h"
+    },
+    {
+        "Código": "CCA0179",
+        "Nome": "CONTABILIDADE EMPRESARIAL",
+        "Tipo": "DISCIPLINA",
+        "Carga_Horária": "60h"
+    },
+    {
+        "Código": "CCA0061",
+        "Nome": "CONTABILIDADE FISCAL",
+        "Tipo": "DISCIPLINA",
+        "Carga_Horária": "60h"
+    },
+    {
+        "Código": "CCA0015",
+        "Nome": "CONTABILIDADE GERAL 1",
+        "Tipo": "DISCIPLINA",
+        "Carga_Horária": "60h"
+    },
+    {
+        "Código": "CCA0077",
+        "Nome": "CONTABILIDADE GERAL 2",
+        "Tipo": "DISCIPLINA",
+        "Carga_Horária": "60h"
+    },
+    {
+        "Código": "CCA0079",
+        "Nome": "CONTABILIDADE GERAL 2",
+        "Tipo": "DISCIPLINA",
+        "Carga_Horária": "60h"
+    },
+    {
+        "Código": "CCA0040",
+        "Nome": "CONTABILIDADE GERAL 3",
+        "Tipo": "DISCIPLINA",
+        "Carga_Horária": "60h"
+    },
+    {
+        "Código": "CCA0048",
+        "Nome": "CONTABILIDADE INDUSTRIAL",
+        "Tipo": "DISCIPLINA",
+        "Carga_Horária": "60h"
+    },
+    {
+        "Código": "CCA0123",
+        "Nome": "CONTABILIDADE INTERNACIONAL",
+        "Tipo": "DISCIPLINA",
+        "Carga_Horária": "30h"
+    },
+    {
+        "Código": "CCA0058",
+        "Nome": "CONTABILIDADE SECURITARIA",
+        "Tipo": "DISCIPLINA",
+        "Carga_Horária": "60h"
+    },
+    {
+        "Código": "CCA0115",
+        "Nome": "CONTABILIDADE SOCIAL CORPORATIVA",
+        "Tipo": "DISCIPLINA",
+        "Carga_Horária": "30h"
+    },
+    {
+        "Código": "CCA0160",
+        "Nome": "CONTABILIDADE SOCIOAMBIENTAL",
+        "Tipo": "DISCIPLINA",
+        "Carga_Horária": "30h"
+    },
+    {
+        "Código": "CCA0181",
+        "Nome": "CONTABILIDADE TRIBUTÁRIA",
+        "Tipo": "DISCIPLINA",
+        "Carga_Horária": "60h"
+    },
+    {
+        "Código": "CCA0044",
+        "Nome": "CONTROLADORIA",
+        "Tipo": "DISCIPLINA",
+        "Carga_Horária": "60h"
+    },
+    {
+        "Código": "CCA0099",
+        "Nome": "CONTROLE E AVALIACAO DA GESTAO PUBLICA",
+        "Tipo": "DISCIPLINA",
+        "Carga_Horária": "60h"
+    },
+    {
+        "Código": "CCA0018",
+        "Nome": "CUSTOS",
+        "Tipo": "DISCIPLINA",
+        "Carga_Horária": "60h"
+    },
+    {
+        "Código": "CCA0002",
+        "Nome": "CUSTOS APLICADOS AO SETOR PÚBLICO",
+        "Tipo": "DISCIPLINA",
+        "Carga_Horária": "30h"
+    },
+    {
+        "Código": "CCA0162",
+        "Nome": "EPISTEMOLOGIA DA PESQUISA EM CIÊNCIAS CONTÁBEIS",
+        "Tipo": "DISCIPLINA",
+        "Carga_Horária": "30h"
+    },
+    {
+        "Código": "CCA0051",
+        "Nome": "ESTÁGIO EM CIÊNCIAS CONTÁBEIS",
+        "Tipo": "DISCIPLINA",
+        "Carga_Horária": "90h"
+    },
+    {
+        "Código": "CCA0093",
+        "Nome": "ETICA PROFISSIONAL EM CIENCIAS CONTABEIS",
+        "Tipo": "DISCIPLINA",
+        "Carga_Horária": "30h"
+    },
+    {
+        "Código": "CCA0091",
+        "Nome": "EXECUCAO DA GESTAO PUBLICA",
+        "Tipo": "DISCIPLINA",
+        "Carga_Horária": "60h"
+    },
+    {
+        "Código": "CCA0182",
+        "Nome": "FILOSOFIA E ÉTICA PROFISSIONAL EM CONTABILIDADE",
+        "Tipo": "DISCIPLINA",
+        "Carga_Horária": "30h"
+    },
+    {
+        "Código": "CCA0005",
+        "Nome": "FINANÇAS COMPORTAMENTAIS",
+        "Tipo": "DISCIPLINA",
+        "Carga_Horária": "30h"
+    },
+    {
+        "Código": "CCA0175",
+        "Nome": "FINANÇAS CORPORATIVAS 1",
+        "Tipo": "DISCIPLINA",
+        "Carga_Horária": "60h"
+    },
+    {
+        "Código": "CCA0176",
+        "Nome": "FINANÇAS CORPORATIVAS 2",
+        "Tipo": "DISCIPLINA",
+        "Carga_Horária": "60h"
+    },
+    {
+        "Código": "CCA0177",
+        "Nome": "FINANÇAS CORPORATIVAS 3",
+        "Tipo": "DISCIPLINA",
+        "Carga_Horária": "60h"
+    },
+    {
+        "Código": "CCA0169",
+        "Nome": "FINANÇAS DO SETOR PÚBLICO",
+        "Tipo": "DISCIPLINA",
+        "Carga_Horária": "60h"
+    },
+    {
+        "Código": "CCA0126",
+        "Nome": "FINANÇAS PESSOAIS",
+        "Tipo": "DISCIPLINA",
+        "Carga_Horária": "30h"
+    },
+    {
+        "Código": "CCA0011",
+        "Nome": "GESTÃO E PRESTAÇÃO DE CONTAS NO TERCEIRO SETOR",
+        "Tipo": "DISCIPLINA",
+        "Carga_Horária": "60h"
+    },
+    {
+        "Código": "CCA0009",
+        "Nome": "GOVERNANÇA APLICADA AO SETOR PÚBLICO",
+        "Tipo": "DISCIPLINA",
+        "Carga_Horária": "30h"
+    },
+    {
+        "Código": "CCA0121",
+        "Nome": "GOVERNANÇA CORPORATIVA",
+        "Tipo": "DISCIPLINA",
+        "Carga_Horária": "30h"
+    },
+    {
+        "Código": "CCA0161",
+        "Nome": "HISTÓRIA DO PENSAMENTO CONTÁBIL",
+        "Tipo": "DISCIPLINA",
+        "Carga_Horária": "30h"
+    },
+    {
+        "Código": "CCA0113",
+        "Nome": "INFORMAÇÕES CONTABEIS COMPLEMENTARES",
+        "Tipo": "DISCIPLINA",
+        "Carga_Horária": "30h"
+    },
+    {
+        "Código": "CCA0010",
+        "Nome": "INSTRUMENTOS FINANCEIROS",
+        "Tipo": "DISCIPLINA",
+        "Carga_Horária": "30h"
+    },
+    {
+        "Código": "CCA0001",
+        "Nome": "INSTRUMENTOS FINANCEIROS DERIVATIVOS",
+        "Tipo": "DISCIPLINA",
+        "Carga_Horária": "60h"
+    },
+    {
+        "Código": "CCA0097",
+        "Nome": "INTRODUCAO A ATUARIA",
+        "Tipo": "DISCIPLINA",
+        "Carga_Horária": "60h"
+    },
+    {
+        "Código": "CCA0103",
+        "Nome": "INTRODUÇÃO À CONTABILIDADE",
+        "Tipo": "DISCIPLINA",
+        "Carga_Horária": "60h"
+    },
+    {
+        "Código": "CCA0135",
+        "Nome": "JOGOS CONTÁBEIS DE EMPRESAS",
+        "Tipo": "DISCIPLINA",
+        "Carga_Horária": "30h"
+    },
+    {
+        "Código": "CCA0174",
+        "Nome": "LABORATÓRIO CONTÁBIL",
+        "Tipo": "DISCIPLINA",
+        "Carga_Horária": "60h"
+    },
+    {
+        "Código": "CCA0107",
+        "Nome": "LABORATORIO CONTABIL - EMPRESARIAL",
+        "Tipo": "DISCIPLINA",
+        "Carga_Horária": "90h"
+    },
+    {
+        "Código": "CCA0036",
+        "Nome": "LABORATÓRIO EM CIÊNCIAS CONTÁBEIS",
+        "Tipo": "DISCIPLINA",
+        "Carga_Horária": "120h"
+    },
+    {
+        "Código": "CCA0076",
+        "Nome": "LEGISLACAO COMERCIAL",
+        "Tipo": "DISCIPLINA",
+        "Carga_Horária": "60h"
+    },
+    {
+        "Código": "CCA0003",
+        "Nome": "MANAGEMENT ACCOUNTING AND CONTROL SYSTEMS",
+        "Tipo": "DISCIPLINA",
+        "Carga_Horária": "60h"
+    },
+    {
+        "Código": "CCA0153",
+        "Nome": "MATEMÁTICA FINANCEIRA APLICADA ÀS CIÊNCIAS CONTÁBEIS",
+        "Tipo": "DISCIPLINA",
+        "Carga_Horária": "60h"
+    },
+    {
+        "Código": "CCA0111",
+        "Nome": "METODOLOGIA DA PESQUISA EM CIÊNCIAS CONTÁBEIS",
+        "Tipo": "DISCIPLINA",
+        "Carga_Horária": "30h"
+    },
+    {
+        "Código": "CCA0163",
+        "Nome": "MÉTODOS QUALITATIVO EM CIÊNCIAS CONTÁBEIS",
+        "Tipo": "DISCIPLINA",
+        "Carga_Horária": "30h"
+    },
+    {
+        "Código": "CCA0155",
+        "Nome": "MÉTODOS QUANTITATIVOS APLICADOS AS CIÊNCIAS CONTÁBEIS",
+        "Tipo": "DISCIPLINA",
+        "Carga_Horária": "30h"
+    },
+    {
+        "Código": "CCA0183",
+        "Nome": "MÉTODOS QUANTITATIVOS APLICADOS ÀS CIÊNCIAS CONTÁBEIS",
+        "Tipo": "DISCIPLINA",
+        "Carga_Horária": "60h"
+    },
+    {
+        "Código": "CCA0083",
+        "Nome": "MODELOS DE AJUSTAMENTOS CONTABEIS",
+        "Tipo": "DISCIPLINA",
+        "Carga_Horária": "60h"
+    },
+    {
+        "Código": "CCA0158",
+        "Nome": "NORMAS INTERNACIONAIS DE CONTABILIDADE PARA O SETOR PÚBLICO",
+        "Tipo": "DISCIPLINA",
+        "Carga_Horária": "30h"
+    },
+    {
+        "Código": "CCA0139",
+        "Nome": "NORMAS NORTE AMERICANAS DE CONTABILIDADE",
+        "Tipo": "DISCIPLINA",
+        "Carga_Horária": "30h"
+    },
+    {
+        "Código": "CCA0170",
+        "Nome": "ORÇAMENTO DO SETOR PÚBLICO",
+        "Tipo": "DISCIPLINA",
+        "Carga_Horária": "60h"
+    },
+    {
+        "Código": "CCA0129",
+        "Nome": "PERÍCIA CONTÁBIL",
+        "Tipo": "DISCIPLINA",
+        "Carga_Horária": "60h"
+    },
+    {
+        "Código": "CCA0127",
+        "Nome": "PERÍCIA CONTÁBIL",
+        "Tipo": "DISCIPLINA",
+        "Carga_Horária": "30h"
+    },
+    {
+        "Código": "CCA0109",
+        "Nome": "PESQUISA EM CIÊNCIAS CONTÁBEIS",
+        "Tipo": "DISCIPLINA",
+        "Carga_Horária": "30h"
+    },
+    {
+        "Código": "CCA0172",
+        "Nome": "PESQUISA EM CONTABILIDADE 1",
+        "Tipo": "DISCIPLINA",
+        "Carga_Horária": "30h"
+    },
+    {
+        "Código": "CCA0173",
+        "Nome": "PESQUISA EM CONTABILIDADE 2",
+        "Tipo": "DISCIPLINA",
+        "Carga_Horária": "30h"
+    },
+    {
+        "Código": "CCA0143",
+        "Nome": "PLANEJAMENTO TRIBUTÁRIO",
+        "Tipo": "DISCIPLINA",
+        "Carga_Horária": "30h"
+    },
+    {
+        "Código": "CCA0042",
+        "Nome": "PRATICA COMERCIAL",
+        "Tipo": "DISCIPLINA",
+        "Carga_Horária": "60h"
+    },
+    {
+        "Código": "CCA0159",
+        "Nome": "PRÁTICA CONTÁBIL DO SETOR PÚBLICO",
+        "Tipo": "DISCIPLINA",
+        "Carga_Horária": "60h"
+    },
+    {
+        "Código": "CCA0117",
+        "Nome": "PREVISÃO DE INSOLVÊNCIAS",
+        "Tipo": "DISCIPLINA",
+        "Carga_Horária": "30h"
+    },
+    {
+        "Código": "CCA0067",
+        "Nome": "PROGRAMACAO FISCAL E FINANCEIRA",
+        "Tipo": "DISCIPLINA",
+        "Carga_Horária": "60h"
+    },
+    {
+        "Código": "CCA0101",
+        "Nome": "SISTEMAS CONTABEIS APLICADOS A ARQUIVOLOGIA",
+        "Tipo": "DISCIPLINA",
+        "Carga_Horária": "30h"
+    },
+    {
+        "Código": "CCA0054",
+        "Nome": "SISTEMAS CONTABEIS COMPUTADORIZADOS",
+        "Tipo": "DISCIPLINA",
+        "Carga_Horária": "60h"
+    },
+    {
+        "Código": "CCA0180",
+        "Nome": "SISTEMAS DE CONTROLE GERENCIAL",
+        "Tipo": "DISCIPLINA",
+        "Carga_Horária": "60h"
+    },
+    {
+        "Código": "CCA0069",
+        "Nome": "SISTEMAS DE INFORMACOES CONTABEIS",
+        "Tipo": "DISCIPLINA",
+        "Carga_Horária": "60h"
+    },
+    {
+        "Código": "CCA0081",
+        "Nome": "TEORIA CONTABIL",
+        "Tipo": "DISCIPLINA",
+        "Carga_Horária": "60h"
+    },
+    {
+        "Código": "CCA0141",
+        "Nome": "TEORIA DA CONTABILIDADE GERENCIAL",
+        "Tipo": "DISCIPLINA",
+        "Carga_Horária": "30h"
+    },
+    {
+        "Código": "CCA0119",
+        "Nome": "TEORIA DA CONTABILIDADE POSITIVA",
+        "Tipo": "DISCIPLINA",
+        "Carga_Horária": "30h"
+    },
+    {
+        "Código": "CCA0184",
+        "Nome": "TEORIA DO LUCRO",
+        "Tipo": "DISCIPLINA",
+        "Carga_Horária": "60h"
+    },
+    {
+        "Código": "CCA0012",
+        "Nome": "TEORIA DOS JOGOS APLICADA À GESTÃO",
+        "Tipo": "DISCIPLINA",
+        "Carga_Horária": "60h"
+    },
+    {
+        "Código": "CCA0087",
+        "Nome": "TOPICOS CONTEMPORANEOS EM CONTABILIDADE",
+        "Tipo": "DISCIPLINA",
+        "Carga_Horária": "60h"
+    },
+    {
+        "Código": "CCA0007",
+        "Nome": "TÓPICOS CONTEMPORÂNEOS EM CONTABILIDADE PÚBLICA",
+        "Tipo": "DISCIPLINA",
+        "Carga_Horária": "30h"
+    },
+    {
+        "Código": "CCA0164",
+        "Nome": "TÓPICOS EM CONTABILIDADE 1",
+        "Tipo": "DISCIPLINA",
+        "Carga_Horária": "30h"
+    },
+    {
+        "Código": "CCA0165",
+        "Nome": "TÓPICOS EM CONTABILIDADE 2",
+        "Tipo": "DISCIPLINA",
+        "Carga_Horária": "30h"
+    },
+    {
+        "Código": "CCA0166",
+        "Nome": "TÓPICOS EM CONTABILIDADE 3",
+        "Tipo": "DISCIPLINA",
+        "Carga_Horária": "30h"
+    },
+    {
+        "Código": "CCA0167",
+        "Nome": "TÓPICOS EM CONTABILIDADE 4",
+        "Tipo": "DISCIPLINA",
+        "Carga_Horária": "30h"
+    },
+    {
+        "Código": "CCA0168",
+        "Nome": "TÓPICOS EM CONTABILIDADE 5",
+        "Tipo": "DISCIPLINA",
+        "Carga_Horária": "30h"
+    },
+    {
+        "Código": "CCA0186",
+        "Nome": "TÓPICOS EM CONTABILIDADE 6",
+        "Tipo": "DISCIPLINA",
+        "Carga_Horária": "30h"
+    }
+]
