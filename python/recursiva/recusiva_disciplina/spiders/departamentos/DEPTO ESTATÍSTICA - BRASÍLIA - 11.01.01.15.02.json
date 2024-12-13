@@ -1,0 +1,428 @@
+[
+    {
+        "Código": "EST0064",
+        "Nome": "ANALISE DE DADOS CATEGORIZADOS",
+        "Tipo": "DISCIPLINA",
+        "Carga_Horária": "60h"
+    },
+    {
+        "Código": "EST0038",
+        "Nome": "ANÁLISE DE REGRESSÃO LINEAR",
+        "Tipo": "DISCIPLINA",
+        "Carga_Horária": "90h"
+    },
+    {
+        "Código": "EST0051",
+        "Nome": "ANÁLISE DE SÉRIES TEMPORAIS",
+        "Tipo": "DISCIPLINA",
+        "Carga_Horária": "60h"
+    },
+    {
+        "Código": "EST0012",
+        "Nome": "ANÁLISE DE SÉRIES TEMPORAIS 2",
+        "Tipo": "DISCIPLINA",
+        "Carga_Horária": "60h"
+    },
+    {
+        "Código": "EST0086",
+        "Nome": "ANÁLISE DE SOBREVIVÊNCIA",
+        "Tipo": "DISCIPLINA",
+        "Carga_Horária": "60h"
+    },
+    {
+        "Código": "EST0034",
+        "Nome": "ANÁLISE ESTATÍSTICA",
+        "Tipo": "DISCIPLINA",
+        "Carga_Horária": "90h"
+    },
+    {
+        "Código": "EST0040",
+        "Nome": "ANÁLISE MULTIVARIADA 1",
+        "Tipo": "DISCIPLINA",
+        "Carga_Horária": "60h"
+    },
+    {
+        "Código": "EST0018",
+        "Nome": "ANÁLISE MULTIVARIADA 2",
+        "Tipo": "DISCIPLINA",
+        "Carga_Horária": "60h"
+    },
+    {
+        "Código": "EST0047",
+        "Nome": "APLICACOES DA ESTATISTICA 1",
+        "Tipo": "DISCIPLINA",
+        "Carga_Horária": "60h"
+    },
+    {
+        "Código": "EST0027",
+        "Nome": "BIOESTATÍSTICA",
+        "Tipo": "DISCIPLINA",
+        "Carga_Horária": "60h"
+    },
+    {
+        "Código": "EST0001",
+        "Nome": "COMPUTAÇÃO EM ESTATÍSTICA 1",
+        "Tipo": "DISCIPLINA",
+        "Carga_Horária": "30h"
+    },
+    {
+        "Código": "EST0003",
+        "Nome": "COMPUTAÇÃO EM ESTATÍSTICA 2",
+        "Tipo": "DISCIPLINA",
+        "Carga_Horária": "60h"
+    },
+    {
+        "Código": "EST0092",
+        "Nome": "COMPUTAÇÃO EM ESTATÍSTICA 2: PYTHON",
+        "Tipo": "DISCIPLINA",
+        "Carga_Horária": "60h"
+    },
+    {
+        "Código": "EST0091",
+        "Nome": "COMPUTAÇÃO EM ESTATÍSTICA 2: R",
+        "Tipo": "DISCIPLINA",
+        "Carga_Horária": "60h"
+    },
+    {
+        "Código": "EST0090",
+        "Nome": "COMPUTAÇÃO EM ESTATÍSTICA 2: SAS",
+        "Tipo": "DISCIPLINA",
+        "Carga_Horária": "60h"
+    },
+    {
+        "Código": "EST0010",
+        "Nome": "CONSULTORIA",
+        "Tipo": "DISCIPLINA",
+        "Carga_Horária": "60h"
+    },
+    {
+        "Código": "EST0059",
+        "Nome": "CONTROLE DE QUALIDADE NA PRODUCAO",
+        "Tipo": "DISCIPLINA",
+        "Carga_Horária": "60h"
+    },
+    {
+        "Código": "EST0045",
+        "Nome": "CONTROLE ESTATISTICO DE QUALIDADE",
+        "Tipo": "DISCIPLINA",
+        "Carga_Horária": "60h"
+    },
+    {
+        "Código": "EST0042",
+        "Nome": "DELINEAMENTO E ANÁLISE DE EXPERIMENTOS",
+        "Tipo": "DISCIPLINA",
+        "Carga_Horária": "90h"
+    },
+    {
+        "Código": "EST0044",
+        "Nome": "DELINEAMENTO E ANÁLISE DE EXPERIMENTOS 2",
+        "Tipo": "DISCIPLINA",
+        "Carga_Horária": "60h"
+    },
+    {
+        "Código": "EST0046",
+        "Nome": "DEMOGRAFIA",
+        "Tipo": "DISCIPLINA",
+        "Carga_Horária": "60h"
+    },
+    {
+        "Código": "EST0013",
+        "Nome": "DEMOGRAFIA 2",
+        "Tipo": "DISCIPLINA",
+        "Carga_Horária": "60h"
+    },
+    {
+        "Código": "EST0058",
+        "Nome": "ESTAGIO SUPERVISIONADO EM ESTATISTICA",
+        "Tipo": "DISCIPLINA",
+        "Carga_Horária": "150h"
+    },
+    {
+        "Código": "EST0024",
+        "Nome": "ESTATÍSTICA 1",
+        "Tipo": "DISCIPLINA",
+        "Carga_Horária": "90h"
+    },
+    {
+        "Código": "EST0025",
+        "Nome": "ESTATÍSTICA 2",
+        "Tipo": "DISCIPLINA",
+        "Carga_Horária": "90h"
+    },
+    {
+        "Código": "EST0019",
+        "Nome": "ESTATÍSTICA APLICADA",
+        "Tipo": "DISCIPLINA",
+        "Carga_Horária": "90h"
+    },
+    {
+        "Código": "EST0020",
+        "Nome": "ESTATÍSTICA APLICADA À EDUCAÇÃO 1",
+        "Tipo": "DISCIPLINA",
+        "Carga_Horária": "60h"
+    },
+    {
+        "Código": "EST0021",
+        "Nome": "ESTATÍSTICA APLICADA À EDUCAÇÃO 2",
+        "Tipo": "DISCIPLINA",
+        "Carga_Horária": "60h"
+    },
+    {
+        "Código": "EST0028",
+        "Nome": "ESTATÍSTICA APLICADA À PSICOLOGIA 1",
+        "Tipo": "DISCIPLINA",
+        "Carga_Horária": "90h"
+    },
+    {
+        "Código": "EST0029",
+        "Nome": "ESTATÍSTICA APLICADA À PSICOLOGIA 2",
+        "Tipo": "DISCIPLINA",
+        "Carga_Horária": "60h"
+    },
+    {
+        "Código": "EST0004",
+        "Nome": "ESTATÍSTICA COMPUTACIONAL",
+        "Tipo": "DISCIPLINA",
+        "Carga_Horária": "60h"
+    },
+    {
+        "Código": "EST0030",
+        "Nome": "ESTATÍSTICA ECONÔMICA",
+        "Tipo": "DISCIPLINA",
+        "Carga_Horária": "60h"
+    },
+    {
+        "Código": "EST0063",
+        "Nome": "ESTATISTICA ECONOMICA AVANCADA",
+        "Tipo": "DISCIPLINA",
+        "Carga_Horária": "60h"
+    },
+    {
+        "Código": "EST0062",
+        "Nome": "ESTATISTICA ECONOMICA INTERMEDIARIA",
+        "Tipo": "DISCIPLINA",
+        "Carga_Horária": "60h"
+    },
+    {
+        "Código": "EST0007",
+        "Nome": "ESTATÍSTICA ESPACIAL",
+        "Tipo": "DISCIPLINA",
+        "Carga_Horária": "60h"
+    },
+    {
+        "Código": "EST0033",
+        "Nome": "ESTATÍSTICA EXPLORATÓRIA",
+        "Tipo": "DISCIPLINA",
+        "Carga_Horária": "60h"
+    },
+    {
+        "Código": "EST0068",
+        "Nome": "ESTATISTICA EXPLORATORIA 2",
+        "Tipo": "DISCIPLINA",
+        "Carga_Horária": "60h"
+    },
+    {
+        "Código": "DPG0777",
+        "Nome": "ESTATÍSTICA MATEMÁTICA",
+        "Tipo": "DISCIPLINA",
+        "Carga_Horária": "60h"
+    },
+    {
+        "Código": "EST0057",
+        "Nome": "ESTATISTICA NAO PARAMETRICA",
+        "Tipo": "DISCIPLINA",
+        "Carga_Horária": "60h"
+    },
+    {
+        "Código": "EST0052",
+        "Nome": "HISTORIA DA ESTATISTICA",
+        "Tipo": "DISCIPLINA",
+        "Carga_Horária": "30h"
+    },
+    {
+        "Código": "DPG0688",
+        "Nome": "INFERÊNCIA BAYESIANA",
+        "Tipo": "DISCIPLINA",
+        "Carga_Horária": "60h"
+    },
+    {
+        "Código": "EST0005",
+        "Nome": "INFERÊNCIA BAYESIANA",
+        "Tipo": "DISCIPLINA",
+        "Carga_Horária": "60h"
+    },
+    {
+        "Código": "EST0035",
+        "Nome": "INFERENCIA ESTATISTICA",
+        "Tipo": "DISCIPLINA",
+        "Carga_Horária": "90h"
+    },
+    {
+        "Código": "EST0061",
+        "Nome": "INTRODUCAO A ESTATISTICA ECONOMICA",
+        "Tipo": "DISCIPLINA",
+        "Carga_Horária": "60h"
+    },
+    {
+        "Código": "EST0084",
+        "Nome": "INTRODUÇÃO À INFERÊNCIA BAYESIANA",
+        "Tipo": "DISCIPLINA",
+        "Carga_Horária": "60h"
+    },
+    {
+        "Código": "EST0069",
+        "Nome": "INTRODUCAO A PROBABILIDADE",
+        "Tipo": "DISCIPLINA",
+        "Carga_Horária": "60h"
+    },
+    {
+        "Código": "EST0008",
+        "Nome": "LABORATÓRIO DE ESTATÍSTICA 1",
+        "Tipo": "DISCIPLINA",
+        "Carga_Horária": "60h"
+    },
+    {
+        "Código": "EST0124",
+        "Nome": "LABORATÓRIO DE ESTATÍSTICA 1",
+        "Tipo": "DISCIPLINA",
+        "Carga_Horária": "60h"
+    },
+    {
+        "Código": "EST0009",
+        "Nome": "LABORATÓRIO DE ESTATÍSTICA 2",
+        "Tipo": "DISCIPLINA",
+        "Carga_Horária": "60h"
+    },
+    {
+        "Código": "EST0074",
+        "Nome": "MEDIDAS DE INFORMAÇÃO E APLICAÇÕES",
+        "Tipo": "DISCIPLINA",
+        "Carga_Horária": "60h"
+    },
+    {
+        "Código": "EST0073",
+        "Nome": "MÉTODOS APLICADOS",
+        "Tipo": "DISCIPLINA",
+        "Carga_Horária": "60h"
+    },
+    {
+        "Código": "EST0070",
+        "Nome": "METODOS ESTATISTICOS 1",
+        "Tipo": "DISCIPLINA",
+        "Carga_Horária": "60h"
+    },
+    {
+        "Código": "EST0017",
+        "Nome": "MÉTODOS ESTATÍSTICOS 2",
+        "Tipo": "DISCIPLINA",
+        "Carga_Horária": "60h"
+    },
+    {
+        "Código": "EST0016",
+        "Nome": "MODELOS LÍNEARES",
+        "Tipo": "DISCIPLINA",
+        "Carga_Horária": "60h"
+    },
+    {
+        "Código": "EST0011",
+        "Nome": "MODELOS LINEARES GENERALIZADOS",
+        "Tipo": "DISCIPLINA",
+        "Carga_Horária": "60h"
+    },
+    {
+        "Código": "EST0054",
+        "Nome": "PESQUISA OPERACIONAL 1",
+        "Tipo": "DISCIPLINA",
+        "Carga_Horária": "60h"
+    },
+    {
+        "Código": "EST0056",
+        "Nome": "PESQUISA OPERACIONAL 2",
+        "Tipo": "DISCIPLINA",
+        "Carga_Horária": "60h"
+    },
+    {
+        "Código": "EST0087",
+        "Nome": "PRÁTICAS DE EXTENSÃO EM ESTATÍSTICA 1",
+        "Tipo": "DISCIPLINA",
+        "Carga_Horária": "30h"
+    },
+    {
+        "Código": "EST0088",
+        "Nome": "PRÁTICAS DE EXTENSÃO EM ESTATÍSTICA 2",
+        "Tipo": "DISCIPLINA",
+        "Carga_Horária": "60h"
+    },
+    {
+        "Código": "EST0023",
+        "Nome": "PROBABILIDADE E ESTATÍSTICA",
+        "Tipo": "DISCIPLINA",
+        "Carga_Horária": "60h"
+    },
+    {
+        "Código": "EST0083",
+        "Nome": "PROBABILIDADE E ESTATÍSTICA 2",
+        "Tipo": "DISCIPLINA",
+        "Carga_Horária": "60h"
+    },
+    {
+        "Código": "EST0048",
+        "Nome": "PROCESSOS ESTOCASTICOS",
+        "Tipo": "DISCIPLINA",
+        "Carga_Horária": "60h"
+    },
+    {
+        "Código": "EST0078",
+        "Nome": "PROGRAMAS - PRODUTO EM ESTATISTICA",
+        "Tipo": "DISCIPLINA",
+        "Carga_Horária": "60h"
+    },
+    {
+        "Código": "EST0036",
+        "Nome": "TECNICAS DE AMOSTRAGEM",
+        "Tipo": "DISCIPLINA",
+        "Carga_Horária": "90h"
+    },
+    {
+        "Código": "EST0006",
+        "Nome": "TÉCNICAS DE AMOSTRAGEM 2",
+        "Tipo": "DISCIPLINA",
+        "Carga_Horária": "60h"
+    },
+    {
+        "Código": "EST0014",
+        "Nome": "TEORIA DA RESPOSTA AO ÍTEM",
+        "Tipo": "DISCIPLINA",
+        "Carga_Horária": "60h"
+    },
+    {
+        "Código": "EST0082",
+        "Nome": "TÓPICOS EM CONSULTORIA",
+        "Tipo": "DISCIPLINA",
+        "Carga_Horária": "30h"
+    },
+    {
+        "Código": "EST0015",
+        "Nome": "TÓPICOS EM ESTATÍSTICA 1",
+        "Tipo": "DISCIPLINA",
+        "Carga_Horária": "60h"
+    },
+    {
+        "Código": "EST0077",
+        "Nome": "TÓPICOS EM ESTATÍSTICA 2",
+        "Tipo": "DISCIPLINA",
+        "Carga_Horária": "60h"
+    },
+    {
+        "Código": "EST0081",
+        "Nome": "TRABALHO DE CONCLUSÃO DE CURSO 1",
+        "Tipo": "DISCIPLINA",
+        "Carga_Horária": "60h"
+    },
+    {
+        "Código": "EST0067",
+        "Nome": "TRABALHO DE CONCLUSÃO DE CURSO 2",
+        "Tipo": "DISCIPLINA",
+        "Carga_Horária": "90h"
+    }
+]

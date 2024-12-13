@@ -1,0 +1,458 @@
+[
+    {
+        "Código": "SER0081",
+        "Nome": "ABORDAGENS DE TRABALHO SOCIAL EM NIVEL INDIVIDUAL/FAMILIAR",
+        "Tipo": "DISCIPLINA",
+        "Carga_Horária": "60h"
+    },
+    {
+        "Código": "SER0128",
+        "Nome": "ADMINISTRAÇÃO E SUPERVISÃO EM SERVIÇO SOCIAL",
+        "Tipo": "DISCIPLINA",
+        "Carga_Horária": "60h"
+    },
+    {
+        "Código": "SER0031",
+        "Nome": "ANALISE DE POLITICAS SOCIAIS",
+        "Tipo": "DISCIPLINA",
+        "Carga_Horária": "60h"
+    },
+    {
+        "Código": "SER0080",
+        "Nome": "ANÁLISE E INTERVENÇÃO NA REALIDADE SOCIAL",
+        "Tipo": "DISCIPLINA",
+        "Carga_Horária": "120h"
+    },
+    {
+        "Código": "SER0028",
+        "Nome": "CULTURA POPULAR",
+        "Tipo": "DISCIPLINA",
+        "Carga_Horária": "90h"
+    },
+    {
+        "Código": "SER0023",
+        "Nome": "DESENVOLVIMENTO DE COMUNIDADE",
+        "Tipo": "DISCIPLINA",
+        "Carga_Horária": "60h"
+    },
+    {
+        "Código": "SER0127",
+        "Nome": "ECONOMIA POLÍTICA E CAPITALISMO",
+        "Tipo": "DISCIPLINA",
+        "Carga_Horária": "60h"
+    },
+    {
+        "Código": "SER0003",
+        "Nome": "ENVELHECIMENTO E POLÍTICA SOCIAL",
+        "Tipo": "DISCIPLINA",
+        "Carga_Horária": "60h"
+    },
+    {
+        "Código": "SER0107",
+        "Nome": "ESTÁGIO EM SERVIÇO SOCIAL 1",
+        "Tipo": "DISCIPLINA",
+        "Carga_Horária": "240h"
+    },
+    {
+        "Código": "SER0109",
+        "Nome": "ESTÁGIO EM SERVIÇO SOCIAL 2",
+        "Tipo": "DISCIPLINA",
+        "Carga_Horária": "240h"
+    },
+    {
+        "Código": "SER0090",
+        "Nome": "ESTAGIO SUPERVISIONADO EM SERVICO SOCIAL 1",
+        "Tipo": "DISCIPLINA",
+        "Carga_Horária": "150h"
+    },
+    {
+        "Código": "SER0039",
+        "Nome": "ESTÁGIO SUPERVISIONADO EM SERVIÇO SOCIAL 1",
+        "Tipo": "DISCIPLINA",
+        "Carga_Horária": "90h"
+    },
+    {
+        "Código": "SER0040",
+        "Nome": "ESTÁGIO SUPERVISIONADO EM SERVIÇO SOCIAL 2",
+        "Tipo": "DISCIPLINA",
+        "Carga_Horária": "150h"
+    },
+    {
+        "Código": "SER0042",
+        "Nome": "ESTAGIO SUPERVISIONADO EM SERVICO SOCIAL 3",
+        "Tipo": "DISCIPLINA",
+        "Carga_Horária": "150h"
+    },
+    {
+        "Código": "SER0114",
+        "Nome": "FUNDAMENTOS DE METODOLOGIA DA PESQUISA SOCIAL",
+        "Tipo": "DISCIPLINA",
+        "Carga_Horária": "60h"
+    },
+    {
+        "Código": "SER0035",
+        "Nome": "FUNDAMENTOS ÉTICOS E ÉTICA PROFISSIONAL",
+        "Tipo": "DISCIPLINA",
+        "Carga_Horária": "60h"
+    },
+    {
+        "Código": "SER0101",
+        "Nome": "FUNDAMENTOS HISTÓRICOS E TEÓRICO-METODOLÓGICOS DO SERVIÇO SOCIAL 1",
+        "Tipo": "DISCIPLINA",
+        "Carga_Horária": "60h"
+    },
+    {
+        "Código": "SER0103",
+        "Nome": "FUNDAMENTOS HISTÓRICOS E TEÓRICO-METODOLÓGICOS DO SERVIÇO SOCIAL 2",
+        "Tipo": "DISCIPLINA",
+        "Carga_Horária": "60h"
+    },
+    {
+        "Código": "SER0105",
+        "Nome": "FUNDAMENTOS HISTÓRICOS E TEÓRICO-METODOLÓGICOS DO SERVIÇO SOCIAL 3",
+        "Tipo": "DISCIPLINA",
+        "Carga_Horária": "60h"
+    },
+    {
+        "Código": "SER0007",
+        "Nome": "GÊNERO, RAÇA/ETNIA E POLÍTICA SOCIAL",
+        "Tipo": "DISCIPLINA",
+        "Carga_Horária": "60h"
+    },
+    {
+        "Código": "SER0068",
+        "Nome": "INFÂNCIA, ADOLESCÊNCIA E CIDADANIA",
+        "Tipo": "DISCIPLINA",
+        "Carga_Horária": "60h"
+    },
+    {
+        "Código": "SER0087",
+        "Nome": "INSTITUIÇÕES E PRÁTICAS SOCIAIS",
+        "Tipo": "DISCIPLINA",
+        "Carga_Horária": "60h"
+    },
+    {
+        "Código": "SER0024",
+        "Nome": "INTRODUÇÃO AO SERVIÇO SOCIAL",
+        "Tipo": "DISCIPLINA",
+        "Carga_Horária": "60h"
+    },
+    {
+        "Código": "SER0045",
+        "Nome": "METODOLOGIA DO SERVICO SOCIAL 1",
+        "Tipo": "DISCIPLINA",
+        "Carga_Horária": "60h"
+    },
+    {
+        "Código": "SER0043",
+        "Nome": "METODOLOGIA DO SERVICO SOCIAL 2",
+        "Tipo": "DISCIPLINA",
+        "Carga_Horária": "60h"
+    },
+    {
+        "Código": "SER0084",
+        "Nome": "METODOLOGIA DO SERVICO SOCIAL 3",
+        "Tipo": "DISCIPLINA",
+        "Carga_Horária": "60h"
+    },
+    {
+        "Código": "SER0131",
+        "Nome": "MÉTODOS E TÉCNICAS QUANTITATIVOS E QUALITATIVOS EM PESQUISA SOCIAL",
+        "Tipo": "DISCIPLINA",
+        "Carga_Horária": "60h"
+    },
+    {
+        "Código": "SER0033",
+        "Nome": "MOVIMENTOS SOCIAIS",
+        "Tipo": "DISCIPLINA",
+        "Carga_Horária": "60h"
+    },
+    {
+        "Código": "SER0088",
+        "Nome": "O COTIDIANO POPULAR",
+        "Tipo": "DISCIPLINA",
+        "Carga_Horária": "60h"
+    },
+    {
+        "Código": "SER0030",
+        "Nome": "OFICINA DE INSTRUMENTAL TÉCNICO-OPERATIVO",
+        "Tipo": "DISCIPLINA",
+        "Carga_Horária": "60h"
+    },
+    {
+        "Código": "SER0132",
+        "Nome": "OFICINA DE SUPERVISÃO DE ESTÁGIO EM SERVIÇO SOCIAL 1",
+        "Tipo": "DISCIPLINA",
+        "Carga_Horária": "60h"
+    },
+    {
+        "Código": "SER0133",
+        "Nome": "OFICINA DE SUPERVISÃO DE ESTÁGIO EM SERVIÇO SOCIAL 2",
+        "Tipo": "DISCIPLINA",
+        "Carga_Horária": "60h"
+    },
+    {
+        "Código": "SER0116",
+        "Nome": "OFICINA DE TEORIA SOCIAL 1",
+        "Tipo": "DISCIPLINA",
+        "Carga_Horária": "30h"
+    },
+    {
+        "Código": "SER0117",
+        "Nome": "OFICINA DE TEORIA SOCIAL 2",
+        "Tipo": "DISCIPLINA",
+        "Carga_Horária": "30h"
+    },
+    {
+        "Código": "SER0111",
+        "Nome": "OFICINA DE TEORIA SOCIAL 3",
+        "Tipo": "DISCIPLINA",
+        "Carga_Horária": "30h"
+    },
+    {
+        "Código": "SER0026",
+        "Nome": "PARTICIPACAO SOCIAL",
+        "Tipo": "DISCIPLINA",
+        "Carga_Horária": "60h"
+    },
+    {
+        "Código": "SER0085",
+        "Nome": "PARTICIPACAO SOCIO-POLITICA",
+        "Tipo": "DISCIPLINA",
+        "Carga_Horária": "60h"
+    },
+    {
+        "Código": "SER0048",
+        "Nome": "PESQUISA SOCIAL 1",
+        "Tipo": "DISCIPLINA",
+        "Carga_Horária": "60h"
+    },
+    {
+        "Código": "SER0096",
+        "Nome": "PESQUISA SOCIAL 2",
+        "Tipo": "DISCIPLINA",
+        "Carga_Horária": "60h"
+    },
+    {
+        "Código": "SER0052",
+        "Nome": "PLANEJAMENTO, ADMINISTRAÇÃO E GESTÃO SOCIAL",
+        "Tipo": "DISCIPLINA",
+        "Carga_Horária": "60h"
+    },
+    {
+        "Código": "SER0129",
+        "Nome": "PLANEJAMENTO SOCIAL",
+        "Tipo": "DISCIPLINA",
+        "Carga_Horária": "60h"
+    },
+    {
+        "Código": "SER0015",
+        "Nome": "POLÍTICA SOCIAL",
+        "Tipo": "DISCIPLINA",
+        "Carga_Horária": "60h"
+    },
+    {
+        "Código": "SER0021",
+        "Nome": "POLITICA SOCIAL 2",
+        "Tipo": "DISCIPLINA",
+        "Carga_Horária": "60h"
+    },
+    {
+        "Código": "SER0071",
+        "Nome": "POLÍTICA SOCIAL - EDUCAÇÃO",
+        "Tipo": "DISCIPLINA",
+        "Carga_Horária": "60h"
+    },
+    {
+        "Código": "SER0066",
+        "Nome": "POLITICA SOCIAL ESPECIAL 2 - AGRARIA",
+        "Tipo": "DISCIPLINA",
+        "Carga_Horária": "60h"
+    },
+    {
+        "Código": "SER0077",
+        "Nome": "POLITICA SOCIAL ESPECIAL 7 - PREVIDENCIA SOCIAL",
+        "Tipo": "DISCIPLINA",
+        "Carga_Horária": "60h"
+    },
+    {
+        "Código": "SER0057",
+        "Nome": "POLITICA SOCIAL ESPECIAL 8 - POLITICA DISTRIBUTIVA",
+        "Tipo": "DISCIPLINA",
+        "Carga_Horária": "60h"
+    },
+    {
+        "Código": "SER0074",
+        "Nome": "POLÍTICA SOCIAL - TRABALHO",
+        "Tipo": "DISCIPLINA",
+        "Carga_Horária": "60h"
+    },
+    {
+        "Código": "SER0118",
+        "Nome": "PRÁTICA DE PESQUISA SOCIAL 1",
+        "Tipo": "DISCIPLINA",
+        "Carga_Horária": "60h"
+    },
+    {
+        "Código": "SER0119",
+        "Nome": "PRÁTICA DE PESQUISA SOCIAL 2",
+        "Tipo": "DISCIPLINA",
+        "Carga_Horária": "60h"
+    },
+    {
+        "Código": "SER0120",
+        "Nome": "PRÁTICA DE PESQUISA SOCIAL 3",
+        "Tipo": "DISCIPLINA",
+        "Carga_Horária": "60h"
+    },
+    {
+        "Código": "SER0121",
+        "Nome": "PRÁTICA DE PESQUISA SOCIAL 4",
+        "Tipo": "DISCIPLINA",
+        "Carga_Horária": "60h"
+    },
+    {
+        "Código": "SER0126",
+        "Nome": "PRÁTICAS DE INFORMÁTICA EM SERVIÇO SOCIAL",
+        "Tipo": "DISCIPLINA",
+        "Carga_Horária": "60h"
+    },
+    {
+        "Código": "SER0097",
+        "Nome": "PRATICAS JUNTO AOS SEGMENTOS POPULARES",
+        "Tipo": "DISCIPLINA",
+        "Carga_Horária": "60h"
+    },
+    {
+        "Código": "SER0112",
+        "Nome": "PROCESSOS DE TRABALHO E SERVIÇO SOCIAL 1",
+        "Tipo": "DISCIPLINA",
+        "Carga_Horária": "60h"
+    },
+    {
+        "Código": "SER0115",
+        "Nome": "PROCESSOS DE TRABALHO E SERVIÇO SOCIAL 2",
+        "Tipo": "DISCIPLINA",
+        "Carga_Horária": "60h"
+    },
+    {
+        "Código": "SER0079",
+        "Nome": "PROJETO DE TRABALHO DE CONCLUSÃO DE CURSO",
+        "Tipo": "DISCIPLINA",
+        "Carga_Horária": "60h"
+    },
+    {
+        "Código": "SER0110",
+        "Nome": "QUESTÃO SOCIAL E SERVIÇO SOCIAL",
+        "Tipo": "DISCIPLINA",
+        "Carga_Horária": "60h"
+    },
+    {
+        "Código": "SER0065",
+        "Nome": "QUESTÃO URBANA E POLÍTICA HABITACIONAL",
+        "Tipo": "DISCIPLINA",
+        "Carga_Horária": "60h"
+    },
+    {
+        "Código": "SER0125",
+        "Nome": "QUESTÃO URBANA E RURAL NO BRASIL",
+        "Tipo": "DISCIPLINA",
+        "Carga_Horária": "60h"
+    },
+    {
+        "Código": "SER0002",
+        "Nome": "RELAÇÕES SOCIAIS, FAMÍLIA E SERVIÇO SOCIAL",
+        "Tipo": "DISCIPLINA",
+        "Carga_Horária": "60h"
+    },
+    {
+        "Código": "SER0130",
+        "Nome": "SEGURIDADE SOCIAL 1 - PREVIDÊNCIA SOCIAL",
+        "Tipo": "DISCIPLINA",
+        "Carga_Horária": "60h"
+    },
+    {
+        "Código": "SER0124",
+        "Nome": "SEGURIDADE SOCIAL 1 - PREVIDÊNCIA SOCIAL 1",
+        "Tipo": "DISCIPLINA",
+        "Carga_Horária": "60h"
+    },
+    {
+        "Código": "SER0076",
+        "Nome": "SEGURIDADE SOCIAL 2 - SAÚDE",
+        "Tipo": "DISCIPLINA",
+        "Carga_Horária": "60h"
+    },
+    {
+        "Código": "SER0001",
+        "Nome": "SEGURIDADE SOCIAL 3 - ASSISTÊNCIA SOCIAL",
+        "Tipo": "DISCIPLINA",
+        "Carga_Horária": "60h"
+    },
+    {
+        "Código": "SER0010",
+        "Nome": "SERVICO SOCIAL DE CASO",
+        "Tipo": "DISCIPLINA",
+        "Carga_Horária": "120h"
+    },
+    {
+        "Código": "SER0018",
+        "Nome": "TEORIA DO SERVICO SOCIAL",
+        "Tipo": "DISCIPLINA",
+        "Carga_Horária": "60h"
+    },
+    {
+        "Código": "SER0053",
+        "Nome": "TEORIA GERAL DO SERVICO SOCIAL 1",
+        "Tipo": "DISCIPLINA",
+        "Carga_Horária": "60h"
+    },
+    {
+        "Código": "SER0055",
+        "Nome": "TEORIA GERAL DO SERVICO SOCIAL 2",
+        "Tipo": "DISCIPLINA",
+        "Carga_Horária": "60h"
+    },
+    {
+        "Código": "SER0056",
+        "Nome": "TEORIA GERAL DO SERVICO SOCIAL 3",
+        "Tipo": "DISCIPLINA",
+        "Carga_Horária": "60h"
+    },
+    {
+        "Código": "SER0060",
+        "Nome": "TÓPICOS ESPECIAIS EM PESQUISA SOCIAL",
+        "Tipo": "DISCIPLINA",
+        "Carga_Horária": "60h"
+    },
+    {
+        "Código": "SER0099",
+        "Nome": "TÓPICOS ESPECIAIS EM POLITICA SOCIAL",
+        "Tipo": "DISCIPLINA",
+        "Carga_Horária": "60h"
+    },
+    {
+        "Código": "SER0062",
+        "Nome": "TÓPICOS ESPECIAIS EM SERVIÇO SOCIAL",
+        "Tipo": "DISCIPLINA",
+        "Carga_Horária": "60h"
+    },
+    {
+        "Código": "SER0038",
+        "Nome": "TRABALHO DE CONCLUSÃO DE CURSO",
+        "Tipo": "DISCIPLINA",
+        "Carga_Horária": "90h"
+    },
+    {
+        "Código": "SER0083",
+        "Nome": "TRABALHO DE GRUPO E SERVICO SOCIAL",
+        "Tipo": "DISCIPLINA",
+        "Carga_Horária": "60h"
+    },
+    {
+        "Código": "SER0113",
+        "Nome": "TRABALHO E SOCIABILIDADE",
+        "Tipo": "DISCIPLINA",
+        "Carga_Horária": "60h"
+    }
+]

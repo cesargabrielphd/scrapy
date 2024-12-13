@@ -1,0 +1,356 @@
+[
+    {
+        "Código": "DAN0023",
+        "Nome": "ANTROPOLOGIA CULTURAL",
+        "Tipo": "DISCIPLINA",
+        "Carga_Horária": "60h"
+    },
+    {
+        "Código": "DAN0015",
+        "Nome": "ANTROPOLOGIA DA AMAZÔNIA",
+        "Tipo": "DISCIPLINA",
+        "Carga_Horária": "60h"
+    },
+    {
+        "Código": "DAN0043",
+        "Nome": "ANTROPOLOGIA DA ARTE",
+        "Tipo": "DISCIPLINA",
+        "Carga_Horária": "60h"
+    },
+    {
+        "Código": "DAN0013",
+        "Nome": "ANTROPOLOGIA DA CIÊNCIA E DA TECNOLOGIA",
+        "Tipo": "DISCIPLINA",
+        "Carga_Horária": "60h"
+    },
+    {
+        "Código": "DAN0006",
+        "Nome": "ANTROPOLOGIA DA MORTE E DO MORRER",
+        "Tipo": "DISCIPLINA",
+        "Carga_Horária": "60h"
+    },
+    {
+        "Código": "DAN0054",
+        "Nome": "ANTROPOLOGIA DA MÚSICA",
+        "Tipo": "DISCIPLINA",
+        "Carga_Horária": "60h"
+    },
+    {
+        "Código": "DAN0047",
+        "Nome": "ANTROPOLOGIA DA RELIGIÃO",
+        "Tipo": "DISCIPLINA",
+        "Carga_Horária": "60h"
+    },
+    {
+        "Código": "DAN0055",
+        "Nome": "ANTROPOLOGIA DA SAÚDE",
+        "Tipo": "DISCIPLINA",
+        "Carga_Horária": "60h"
+    },
+    {
+        "Código": "DAN0017",
+        "Nome": "ANTROPOLOGIA DAS MIGRAÇÕES",
+        "Tipo": "DISCIPLINA",
+        "Carga_Horária": "60h"
+    },
+    {
+        "Código": "DAN0016",
+        "Nome": "ANTROPOLOGIA DA TÉCNICA",
+        "Tipo": "DISCIPLINA",
+        "Carga_Horária": "60h"
+    },
+    {
+        "Código": "DAN0018",
+        "Nome": "ANTROPOLOGIA DO CONSUMO",
+        "Tipo": "DISCIPLINA",
+        "Carga_Horária": "60h"
+    },
+    {
+        "Código": "DAN0019",
+        "Nome": "ANTROPOLOGIA DO CORPO E DA PESSOA",
+        "Tipo": "DISCIPLINA",
+        "Carga_Horária": "60h"
+    },
+    {
+        "Código": "DAN0053",
+        "Nome": "ANTROPOLOGIA DO GÊNERO",
+        "Tipo": "DISCIPLINA",
+        "Carga_Horária": "60h"
+    },
+    {
+        "Código": "DAN0046",
+        "Nome": "ANTROPOLOGIA ECONÔMICA",
+        "Tipo": "DISCIPLINA",
+        "Carga_Horária": "60h"
+    },
+    {
+        "Código": "DAN0004",
+        "Nome": "ANTROPOLOGIA E DEFICIÊNCIA(S)",
+        "Tipo": "DISCIPLINA",
+        "Carga_Horária": "60h"
+    },
+    {
+        "Código": "DAN0003",
+        "Nome": "ANTROPOLOGIA E LITERATURA",
+        "Tipo": "DISCIPLINA",
+        "Carga_Horária": "60h"
+    },
+    {
+        "Código": "DAN0007",
+        "Nome": "ANTROPOLOGIA E MEDICAMENTOS",
+        "Tipo": "DISCIPLINA",
+        "Carga_Horária": "60h"
+    },
+    {
+        "Código": "DAN0005",
+        "Nome": "ANTROPOLOGIA E MERCADO DE TRABALHO",
+        "Tipo": "DISCIPLINA",
+        "Carga_Horária": "60h"
+    },
+    {
+        "Código": "DAN0009",
+        "Nome": "ANTROPOLOGIA LINGUÍSTICA",
+        "Tipo": "DISCIPLINA",
+        "Carga_Horária": "60h"
+    },
+    {
+        "Código": "DAN0056",
+        "Nome": "ANTROPOLOGIA POLÍTICA",
+        "Tipo": "DISCIPLINA",
+        "Carga_Horária": "60h"
+    },
+    {
+        "Código": "DAN0078",
+        "Nome": "ANTROPOLOGIA URBANA",
+        "Tipo": "DISCIPLINA",
+        "Carga_Horária": "60h"
+    },
+    {
+        "Código": "DAN0014",
+        "Nome": "ANTROPOLOGIA VISUAL",
+        "Tipo": "DISCIPLINA",
+        "Carga_Horária": "60h"
+    },
+    {
+        "Código": "DAN0008",
+        "Nome": "ARQUEOLOGIA E OS MUNDOS INDÍGENAS PRÉ-COLOMBIANOS",
+        "Tipo": "DISCIPLINA",
+        "Carga_Horária": "60h"
+    },
+    {
+        "Código": "DAN0089",
+        "Nome": "ARTES E OFÍCIOS DOS SABERES TRADICIONAIS",
+        "Tipo": "DISCIPLINA",
+        "Carga_Horária": "90h"
+    },
+    {
+        "Código": "DAN0001",
+        "Nome": "CHINA: QUESTÕES SÓCIO-CULTURAIS",
+        "Tipo": "DISCIPLINA",
+        "Carga_Horária": "60h"
+    },
+    {
+        "Código": "DAN0002",
+        "Nome": "COMUNIDADES QUILOMBOLAS",
+        "Tipo": "DISCIPLINA",
+        "Carga_Horária": "60h"
+    },
+    {
+        "Código": "DAN0052",
+        "Nome": "CULTURA E MEIO AMBIENTE",
+        "Tipo": "DISCIPLINA",
+        "Carga_Horária": "60h"
+    },
+    {
+        "Código": "DAN0031",
+        "Nome": "DISSERTAÇÃO",
+        "Tipo": "DISCIPLINA",
+        "Carga_Horária": "300h"
+    },
+    {
+        "Código": "DAN0011",
+        "Nome": "ESTILOS DE ANTROPOLOGIA",
+        "Tipo": "DISCIPLINA",
+        "Carga_Horária": "60h"
+    },
+    {
+        "Código": "DAN0061",
+        "Nome": "ESTUDOS AFRO-BRASILEIROS",
+        "Tipo": "DISCIPLINA",
+        "Carga_Horária": "60h"
+    },
+    {
+        "Código": "DAN0010",
+        "Nome": "ETNOGRAFIA DAS INSTITUIÇÕES",
+        "Tipo": "DISCIPLINA",
+        "Carga_Horária": "60h"
+    },
+    {
+        "Código": "DAN0039",
+        "Nome": "FUNDAMENTOS DE CIÊNCIAS SOCIAIS",
+        "Tipo": "DISCIPLINA",
+        "Carga_Horária": "60h"
+    },
+    {
+        "Código": "DAN0058",
+        "Nome": "IDENTIDADE E RELAÇÕES INTERÉTNICAS",
+        "Tipo": "DISCIPLINA",
+        "Carga_Horária": "60h"
+    },
+    {
+        "Código": "DAN0012",
+        "Nome": "INDIGENISMO",
+        "Tipo": "DISCIPLINA",
+        "Carga_Horária": "60h"
+    },
+    {
+        "Código": "DAN0049",
+        "Nome": "INDIVÍDUO, CULTURA E SOCIEDADE",
+        "Tipo": "DISCIPLINA",
+        "Carga_Horária": "60h"
+    },
+    {
+        "Código": "DAN0022",
+        "Nome": "INTRODUÇÃO À ANTROPOLOGIA",
+        "Tipo": "DISCIPLINA",
+        "Carga_Horária": "60h"
+    },
+    {
+        "Código": "DAN0040",
+        "Nome": "MÉTODOS E TÉCNICAS EM ANTROPOLOGIA SOCIAL",
+        "Tipo": "DISCIPLINA",
+        "Carga_Horária": "90h"
+    },
+    {
+        "Código": "DAN0024",
+        "Nome": "MULHER, CULTURA E SOCIEDADE",
+        "Tipo": "DISCIPLINA",
+        "Carga_Horária": "60h"
+    },
+    {
+        "Código": "DAN0050",
+        "Nome": "ORGANIZAÇÃO SOCIAL E PARENTESCO",
+        "Tipo": "DISCIPLINA",
+        "Carga_Horária": "60h"
+    },
+    {
+        "Código": "DAN0077",
+        "Nome": "PENSAMENTO ANTROPOLÓGICO BRASILEIRO",
+        "Tipo": "DISCIPLINA",
+        "Carga_Horária": "60h"
+    },
+    {
+        "Código": "DAN0021",
+        "Nome": "SEMINÁRIO DE PESQUISA ANTROPOLÓGICA",
+        "Tipo": "DISCIPLINA",
+        "Carga_Horária": "90h"
+    },
+    {
+        "Código": "DAN0062",
+        "Nome": "SOCIEDADES CAMPONESAS",
+        "Tipo": "DISCIPLINA",
+        "Carga_Horária": "60h"
+    },
+    {
+        "Código": "DAN0036",
+        "Nome": "SOCIEDADES COMPLEXAS",
+        "Tipo": "DISCIPLINA",
+        "Carga_Horária": "60h"
+    },
+    {
+        "Código": "DAN0063",
+        "Nome": "SOCIEDADES INDÍGENAS",
+        "Tipo": "DISCIPLINA",
+        "Carga_Horária": "60h"
+    },
+    {
+        "Código": "DAN0041",
+        "Nome": "TEORIA ANTROPOLÓGICA 1",
+        "Tipo": "DISCIPLINA",
+        "Carga_Horária": "60h"
+    },
+    {
+        "Código": "DAN0042",
+        "Nome": "TEORIA ANTROPOLÓGICA 2",
+        "Tipo": "DISCIPLINA",
+        "Carga_Horária": "60h"
+    },
+    {
+        "Código": "DAN0065",
+        "Nome": "TÓPICOS ESPECIAIS EM ANTROPOLOGIA 1",
+        "Tipo": "DISCIPLINA",
+        "Carga_Horária": "60h"
+    },
+    {
+        "Código": "DAN0084",
+        "Nome": "TÓPICOS ESPECIAIS EM ANTROPOLOGIA 10",
+        "Tipo": "DISCIPLINA",
+        "Carga_Horária": "60h"
+    },
+    {
+        "Código": "DAN0086",
+        "Nome": "TÓPICOS ESPECIAIS EM ANTROPOLOGIA 11",
+        "Tipo": "DISCIPLINA",
+        "Carga_Horária": "60h"
+    },
+    {
+        "Código": "DAN0088",
+        "Nome": "TÓPICOS ESPECIAIS EM ANTROPOLOGIA 12",
+        "Tipo": "DISCIPLINA",
+        "Carga_Horária": "60h"
+    },
+    {
+        "Código": "DAN0066",
+        "Nome": "TÓPICOS ESPECIAIS EM  ANTROPOLOGIA 2",
+        "Tipo": "DISCIPLINA",
+        "Carga_Horária": "60h"
+    },
+    {
+        "Código": "DAN0068",
+        "Nome": "TÓPICOS ESPECIAIS EM ANTROPOLOGIA 3",
+        "Tipo": "DISCIPLINA",
+        "Carga_Horária": "60h"
+    },
+    {
+        "Código": "DAN0070",
+        "Nome": "TÓPICOS ESPECIAIS EM ANTROPOLOGIA 4",
+        "Tipo": "DISCIPLINA",
+        "Carga_Horária": "60h"
+    },
+    {
+        "Código": "DAN0072",
+        "Nome": "TÓPICOS ESPECIAIS EM ANTROPOLOGIA 5",
+        "Tipo": "DISCIPLINA",
+        "Carga_Horária": "60h"
+    },
+    {
+        "Código": "DAN0074",
+        "Nome": "TÓPICOS ESPECIAIS EM ANTROPOLOGIA 6",
+        "Tipo": "DISCIPLINA",
+        "Carga_Horária": "60h"
+    },
+    {
+        "Código": "DAN0076",
+        "Nome": "TÓPICOS ESPECIAIS EM ANTROPOLOGIA 7",
+        "Tipo": "DISCIPLINA",
+        "Carga_Horária": "60h"
+    },
+    {
+        "Código": "DAN0080",
+        "Nome": "TÓPICOS ESPECIAIS EM ANTROPOLOGIA 8",
+        "Tipo": "DISCIPLINA",
+        "Carga_Horária": "60h"
+    },
+    {
+        "Código": "DAN0082",
+        "Nome": "TÓPICOS ESPECIAIS EM ANTROPOLOGIA 9",
+        "Tipo": "DISCIPLINA",
+        "Carga_Horária": "60h"
+    },
+    {
+        "Código": "DAN0060",
+        "Nome": "TRADIÇÕES CULTURAIS BRASILEIRAS",
+        "Tipo": "DISCIPLINA",
+        "Carga_Horária": "60h"
+    }
+]

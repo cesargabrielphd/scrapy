@@ -1,0 +1,176 @@
+[
+    {
+        "Código": "TAU0010",
+        "Nome": "ARQUITERURA E URBANISMO DA AMERICA LATINA",
+        "Tipo": "DISCIPLINA",
+        "Carga_Horária": "60h"
+    },
+    {
+        "Código": "TAU0007",
+        "Nome": "ARQUITERURA E URBANISMO DA SOCIEDADE INDUSTRIAL",
+        "Tipo": "DISCIPLINA",
+        "Carga_Horária": "60h"
+    },
+    {
+        "Código": "TAU0009",
+        "Nome": "ARQUITERURA E URBANISMO NO BRASIL COLONIA E IMPERIO",
+        "Tipo": "DISCIPLINA",
+        "Carga_Horária": "60h"
+    },
+    {
+        "Código": "TAU0008",
+        "Nome": "ARQUITERURA E URBANISMO NO BRASIL CONTEMPORANEO",
+        "Tipo": "DISCIPLINA",
+        "Carga_Horária": "60h"
+    },
+    {
+        "Código": "TAU0014",
+        "Nome": "ARQUITETURA E ESTETICA",
+        "Tipo": "DISCIPLINA",
+        "Carga_Horária": "60h"
+    },
+    {
+        "Código": "TAU0011",
+        "Nome": "ARQUITETURA E URBANISMO DA ATUALIDADE",
+        "Tipo": "DISCIPLINA",
+        "Carga_Horária": "60h"
+    },
+    {
+        "Código": "TAU0027",
+        "Nome": "ARTE COMPARADA",
+        "Tipo": "DISCIPLINA",
+        "Carga_Horária": "60h"
+    },
+    {
+        "Código": "TAU0028",
+        "Nome": "ARTE E FILOSOFIA",
+        "Tipo": "DISCIPLINA",
+        "Carga_Horária": "60h"
+    },
+    {
+        "Código": "TAU0026",
+        "Nome": "BRASÍLIA, EXPERIÊNCIA URBANISTICA - PRÁTICA E TEORIA",
+        "Tipo": "DISCIPLINA",
+        "Carga_Horária": "60h"
+    },
+    {
+        "Código": "TAU0015",
+        "Nome": "CONFIGURACAO URBANA",
+        "Tipo": "DISCIPLINA",
+        "Carga_Horária": "60h"
+    },
+    {
+        "Código": "TAU0012",
+        "Nome": "ENSAIO DE TEORIA E HISTORIA DE ARQUITETURA E URBANISMO",
+        "Tipo": "DISCIPLINA",
+        "Carga_Horária": "60h"
+    },
+    {
+        "Código": "TAU0023",
+        "Nome": "ESTÉTICA DO ESPAÇO",
+        "Tipo": "DISCIPLINA",
+        "Carga_Horária": "60h"
+    },
+    {
+        "Código": "TAU0025",
+        "Nome": "ESTÉTICA E HISTÓRIA DA ARTE",
+        "Tipo": "DISCIPLINA",
+        "Carga_Horária": "60h"
+    },
+    {
+        "Código": "TAU0020",
+        "Nome": "ESTRUTURAS URBANAS",
+        "Tipo": "DISCIPLINA",
+        "Carga_Horária": "60h"
+    },
+    {
+        "Código": "TAU0005",
+        "Nome": "HISTORIA DA ARQUITETURA E DA ARTE 1",
+        "Tipo": "DISCIPLINA",
+        "Carga_Horária": "60h"
+    },
+    {
+        "Código": "TAU0006",
+        "Nome": "HISTORIA DA ARQUITETURA E DA ARTE 2",
+        "Tipo": "DISCIPLINA",
+        "Carga_Horária": "60h"
+    },
+    {
+        "Código": "TAU0001",
+        "Nome": "INICIAÇÃO CIENTÍFICA EM ARQUITETURA E URBANISMO",
+        "Tipo": "DISCIPLINA",
+        "Carga_Horária": "60h"
+    },
+    {
+        "Código": "TAU0002",
+        "Nome": "INTRODUCAO A ARQUITETURA E URBANISMO",
+        "Tipo": "DISCIPLINA",
+        "Carga_Horária": "60h"
+    },
+    {
+        "Código": "TAU0017",
+        "Nome": "INTRODUÇÃO A PESQUISA E A EXTENSÃO EM ARQUITETURA E URBANISMO",
+        "Tipo": "DISCIPLINA",
+        "Carga_Horária": "30h"
+    },
+    {
+        "Código": "TAU0003",
+        "Nome": "METODOS E TECNICAS NA PROJETACAO ARQUITETONICA",
+        "Tipo": "DISCIPLINA",
+        "Carga_Horária": "60h"
+    },
+    {
+        "Código": "TAU0004",
+        "Nome": "MORFOLOGIA ARQUITETONICA",
+        "Tipo": "DISCIPLINA",
+        "Carga_Horária": "60h"
+    },
+    {
+        "Código": "TAU0018",
+        "Nome": "MORFOLOGIA URBANA",
+        "Tipo": "DISCIPLINA",
+        "Carga_Horária": "60h"
+    },
+    {
+        "Código": "TAU0021",
+        "Nome": "PLANEJAMENTO HABITACIONAL",
+        "Tipo": "DISCIPLINA",
+        "Carga_Horária": "60h"
+    },
+    {
+        "Código": "TAU0013",
+        "Nome": "PLANEJAMENTO URBANO",
+        "Tipo": "DISCIPLINA",
+        "Carga_Horária": "60h"
+    },
+    {
+        "Código": "TAU0029",
+        "Nome": "SEMIÓTICA DA  CULTURA",
+        "Tipo": "DISCIPLINA",
+        "Carga_Horária": "60h"
+    },
+    {
+        "Código": "TAU0022",
+        "Nome": "SINTAXE URBANA",
+        "Tipo": "DISCIPLINA",
+        "Carga_Horária": "60h"
+    },
+    {
+        "Código": "TAU0030",
+        "Nome": "TEORIAS ESTÉTICAS",
+        "Tipo": "DISCIPLINA",
+        "Carga_Horária": "60h"
+    },
+    {
+        "Código": "TAU0019",
+        "Nome": "TEORIA URBANO-REGIONAL",
+        "Tipo": "DISCIPLINA",
+        "Carga_Horária": "60h"
+    },
+    {
+        "Código": "TAU0031",
+        "Nome": "URBANISMO E URBANIZAÇÃO NO BRASIL",
+        "Tipo": "DISCIPLINA",
+        "Carga_Horária": "60h"
+    }
+]

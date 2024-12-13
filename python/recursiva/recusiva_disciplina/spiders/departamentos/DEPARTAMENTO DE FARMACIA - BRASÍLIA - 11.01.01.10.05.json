@@ -1,0 +1,746 @@
+[
+    {
+        "Código": "FAR0185",
+        "Nome": "ANÁLISE INSTRUMENTAL PARTE PRÁTICA",
+        "Tipo": "DISCIPLINA",
+        "Carga_Horária": "30h"
+    },
+    {
+        "Código": "FAR0180",
+        "Nome": "ANÁLISE INSTRUMENTAL PARTE TEÓRICA",
+        "Tipo": "DISCIPLINA",
+        "Carga_Horária": "30h"
+    },
+    {
+        "Código": "FAR0024",
+        "Nome": "ANÁLISE INSTRUMENTAL TEÓRICA E EXPERIMENTAL",
+        "Tipo": "DISCIPLINA",
+        "Carga_Horária": "60h"
+    },
+    {
+        "Código": "FAR0167",
+        "Nome": "ANÁLISE ORGÂNICA DOS FÁRMACOS",
+        "Tipo": "DISCIPLINA",
+        "Carga_Horária": "60h"
+    },
+    {
+        "Código": "FAR0168",
+        "Nome": "ANÁLISE QUALITATIVA E QUANTITATIVA DOS FÁRMACOS",
+        "Tipo": "DISCIPLINA",
+        "Carga_Horária": "90h"
+    },
+    {
+        "Código": "FAR0186",
+        "Nome": "ANÁLISE QUALITATIVA E QUANTITATIVA DOS FÁRMACOS PARTE PRÁTICA",
+        "Tipo": "DISCIPLINA",
+        "Carga_Horária": "30h"
+    },
+    {
+        "Código": "FAR0181",
+        "Nome": "ANALISE QUALITATIVA E QUANTITATIVA DOS FÁRMACOS PARTE TEÓRICA",
+        "Tipo": "DISCIPLINA",
+        "Carga_Horária": "60h"
+    },
+    {
+        "Código": "FAR0119",
+        "Nome": "ASSISTÊNCIA FARMACÊUTICA 1",
+        "Tipo": "DISCIPLINA",
+        "Carga_Horária": "30h"
+    },
+    {
+        "Código": "FAR0173",
+        "Nome": "ASSISTÊNCIA FARMACÊUTICA 2",
+        "Tipo": "DISCIPLINA",
+        "Carga_Horária": "30h"
+    },
+    {
+        "Código": "FAR0162",
+        "Nome": "ATENÇÃO FARMACÊUTICA",
+        "Tipo": "DISCIPLINA",
+        "Carga_Horária": "30h"
+    },
+    {
+        "Código": "FAR0040",
+        "Nome": "AVALIAÇÃO DE TECNOLOGIAS EM SAÚDE",
+        "Tipo": "DISCIPLINA",
+        "Carga_Horária": "240h"
+    },
+    {
+        "Código": "JOR0010",
+        "Nome": "CAMPUS MULTIMÍDIA",
+        "Tipo": "DISCIPLINA",
+        "Carga_Horária": "180h"
+    },
+    {
+        "Código": "JOR0077",
+        "Nome": "CAMPUS ON LINE",
+        "Tipo": "DISCIPLINA",
+        "Carga_Horária": "60h"
+    },
+    {
+        "Código": "JOR0083",
+        "Nome": "COMUNICAÇÃO COMUNITÁRIA",
+        "Tipo": "DISCIPLINA",
+        "Carga_Horária": "60h"
+    },
+    {
+        "Código": "JOR0128",
+        "Nome": "COMUNICAÇÃO COMUNITÁRIA 2",
+        "Tipo": "DISCIPLINA",
+        "Carga_Horária": "60h"
+    },
+    {
+        "Código": "JOR0095",
+        "Nome": "COMUNICAÇÃO E POLÍTICA",
+        "Tipo": "DISCIPLINA",
+        "Carga_Horária": "60h"
+    },
+    {
+        "Código": "JOR0127",
+        "Nome": "COMUNICAÇÃO E POLÍTICA 2",
+        "Tipo": "DISCIPLINA",
+        "Carga_Horária": "60h"
+    },
+    {
+        "Código": "JOR0073",
+        "Nome": "COMUNICAÇÃO E PROCESSOS DE INTERPRETAÇÃO",
+        "Tipo": "DISCIPLINA",
+        "Carga_Horária": "60h"
+    },
+    {
+        "Código": "JOR0079",
+        "Nome": "COMUNICAÇÃO E UNIVERSIDADE",
+        "Tipo": "DISCIPLINA",
+        "Carga_Horária": "30h"
+    },
+    {
+        "Código": "JOR0001",
+        "Nome": "COMUNICAÇÃO, INFORMAÇÃO E COMPUTAÇÃO : FUNDAMENTOS E APLICAÇÃO",
+        "Tipo": "DISCIPLINA",
+        "Carga_Horária": "90h"
+    },
+    {
+        "Código": "JOR0093",
+        "Nome": "COMUNICAÇÃO INSTITUCIONAL",
+        "Tipo": "DISCIPLINA",
+        "Carga_Horária": "60h"
+    },
+    {
+        "Código": "JOR0131",
+        "Nome": "CRÍTICA DA MÍDIA EM COMUNICAÇÃO",
+        "Tipo": "DISCIPLINA",
+        "Carga_Horária": "60h"
+    },
+    {
+        "Código": "JOR0094",
+        "Nome": "DIREITO DO PÚBLICO",
+        "Tipo": "DISCIPLINA",
+        "Carga_Horária": "60h"
+    },
+    {
+        "Código": "JOR0133",
+        "Nome": "EDIÇÃO DE IMAGEM EM REVISTAS",
+        "Tipo": "DISCIPLINA",
+        "Carga_Horária": "60h"
+    },
+    {
+        "Código": "JOR0126",
+        "Nome": "EDIÇÃO DE TEXTO EM REVISTAS",
+        "Tipo": "DISCIPLINA",
+        "Carga_Horária": "60h"
+    },
+    {
+        "Código": "JOR0047",
+        "Nome": "EDICAO JORNALISTICA",
+        "Tipo": "DISCIPLINA",
+        "Carga_Horária": "150h"
+    },
+    {
+        "Código": "JOR0076",
+        "Nome": "ELABORACAO DE PROJETOS EM COMUNICACAO",
+        "Tipo": "DISCIPLINA",
+        "Carga_Horária": "30h"
+    },
+    {
+        "Código": "JOR0012",
+        "Nome": "EMPREENDEDORISMO E GESTÃO EM COMUNICAÇÃO",
+        "Tipo": "DISCIPLINA",
+        "Carga_Horária": "30h"
+    },
+    {
+        "Código": "JOR0026",
+        "Nome": "ESTÁGIO OBRIGATÓRIO",
+        "Tipo": "DISCIPLINA",
+        "Carga_Horária": "210h"
+    },
+    {
+        "Código": "JOR0055",
+        "Nome": "ESTAGIO SUPERVISIONADO EM JORNALISMO",
+        "Tipo": "DISCIPLINA",
+        "Carga_Horária": "225h"
+    },
+    {
+        "Código": "JOR0064",
+        "Nome": "ESTÉTICA DA COMUNICAÇÃO",
+        "Tipo": "DISCIPLINA",
+        "Carga_Horária": "60h"
+    },
+    {
+        "Código": "JOR0004",
+        "Nome": "ÉTICA E JORNALISMO",
+        "Tipo": "DISCIPLINA",
+        "Carga_Horária": "60h"
+    },
+    {
+        "Código": "JOR0056",
+        "Nome": "ETICA E LEGISLACAO EM COMUNICACAO",
+        "Tipo": "DISCIPLINA",
+        "Carga_Horária": "60h"
+    },
+    {
+        "Código": "JOR0062",
+        "Nome": "ÉTICA NA COMUNICAÇÃO",
+        "Tipo": "DISCIPLINA",
+        "Carga_Horária": "30h"
+    },
+    {
+        "Código": "JOR0044",
+        "Nome": "FOTOGRAFIA 1",
+        "Tipo": "DISCIPLINA",
+        "Carga_Horária": "60h"
+    },
+    {
+        "Código": "JOR0039",
+        "Nome": "FOTOJORNALISMO",
+        "Tipo": "DISCIPLINA",
+        "Carga_Horária": "60h"
+    },
+    {
+        "Código": "JOR0130",
+        "Nome": "HISTÓRIA DA COMUNICAÇÃO",
+        "Tipo": "DISCIPLINA",
+        "Carga_Horária": "60h"
+    },
+    {
+        "Código": "JOR0050",
+        "Nome": "HISTORIA DA IMPRENSA",
+        "Tipo": "DISCIPLINA",
+        "Carga_Horária": "60h"
+    },
+    {
+        "Código": "DPG0662",
+        "Nome": "ELEMENTOS FINITOS EM SÓLIDOS",
+        "Tipo": "DISCIPLINA",
+        "Carga_Horária": "60h"
+    },
+    {
+        "Código": "DPG1234",
+        "Nome": "ELEMENTOS FINITOS PARA ANÁLISE DE VIBRAÇÕES",
+        "Tipo": "DISCIPLINA",
+        "Carga_Horária": "60h"
+    },
+    {
+        "Código": "ENM0169",
+        "Nome": "ELEMENTOS FINITOS PARA ENGENHARIA MECANICA",
+        "Tipo": "DISCIPLINA",
+        "Carga_Horária": "60h"
+    },
+    {
+        "Código": "DPG0782",
+        "Nome": "ENERGIA E AMBIENTE",
+        "Tipo": "DISCIPLINA",
+        "Carga_Horária": "60h"
+    },
+    {
+        "Código": "DPG0871",
+        "Nome": "ENGENHARIA DE CONFIABILIDADE",
+        "Tipo": "DISCIPLINA",
+        "Carga_Horária": "60h"
+    },
+    {
+        "Código": "ENM0157",
+        "Nome": "ESCOAMENTO COMPRESSIVEL",
+        "Tipo": "DISCIPLINA",
+        "Carga_Horária": "60h"
+    },
+    {
+        "Código": "DPG0335",
+        "Nome": "ESCOAMENTO MULTIFASICOS",
+        "Tipo": "DISCIPLINA",
+        "Carga_Horária": "60h"
+    },
+    {
+        "Código": "ENM0059",
+        "Nome": "ESTAGIO SUPERVISIONADO",
+        "Tipo": "DISCIPLINA",
+        "Carga_Horária": "150h"
+    },
+    {
+        "Código": "ENM0137",
+        "Nome": "ESTAGIO SUPERVISIONADO",
+        "Tipo": "DISCIPLINA",
+        "Carga_Horária": "120h"
+    },
+    {
+        "Código": "ENM0203",
+        "Nome": "ESTÁTICA APLICADA",
+        "Tipo": "DISCIPLINA",
+        "Carga_Horária": "60h"
+    },
+    {
+        "Código": "DPG0921",
+        "Nome": "FADIGA DOS MATERIAIS",
+        "Tipo": "DISCIPLINA",
+        "Carga_Horária": "60h"
+    },
+    {
+        "Código": "ENM0080",
+        "Nome": "FENOMENOS DE TRANSPORTE",
+        "Tipo": "DISCIPLINA",
+        "Carga_Horária": "75h"
+    },
+    {
+        "Código": "ENM0185",
+        "Nome": "FUNDAMENTOS DE CONVECÇÃO",
+        "Tipo": "DISCIPLINA",
+        "Carga_Horária": "60h"
+    },
+    {
+        "Código": "ENM0003",
+        "Nome": "FUNDAMENTOS DE ENGENHARIA DE RESERVATÓRIO",
+        "Tipo": "DISCIPLINA",
+        "Carga_Horária": "30h"
+    },
+    {
+        "Código": "ENM0194",
+        "Nome": "FUNDAMENTOS DE MAGNETOHIDRODINÂMICA",
+        "Tipo": "DISCIPLINA",
+        "Carga_Horária": "60h"
+    },
+    {
+        "Código": "ENM0155",
+        "Nome": "FUNDICAO",
+        "Tipo": "DISCIPLINA",
+        "Carga_Horária": "60h"
+    },
+    {
+        "Código": "ENM0075",
+        "Nome": "GERACAO E UTILIZACAO DE VAPOR D'AGUA",
+        "Tipo": "DISCIPLINA",
+        "Carga_Horária": "60h"
+    },
+    {
+        "Código": "ENM0166",
+        "Nome": "GESTAO DE QUALIDADE",
+        "Tipo": "DISCIPLINA",
+        "Carga_Horária": "60h"
+    },
+    {
+        "Código": "ENM0072",
+        "Nome": "INSTALACOES TERMOMECANICAS 1",
+        "Tipo": "DISCIPLINA",
+        "Carga_Horária": "60h"
+    },
+    {
+        "Código": "ENM0073",
+        "Nome": "INSTALACOES TERMOMECANICAS 2",
+        "Tipo": "DISCIPLINA",
+        "Carga_Horária": "60h"
+    },
+    {
+        "Código": "DPG0331",
+        "Nome": "INSTRUMENTAÇÃO",
+        "Tipo": "DISCIPLINA",
+        "Carga_Horária": "60h"
+    },
+    {
+        "Código": "ENM0179",
+        "Nome": "INTRODUÇÃO À AEROACÚSTICA",
+        "Tipo": "DISCIPLINA",
+        "Carga_Horária": "60h"
+    },
+    {
+        "Código": "ENM0126",
+        "Nome": "INTRODUÇÃO À CIÊNCIA DOS MATERIAIS",
+        "Tipo": "DISCIPLINA",
+        "Carga_Horária": "45h"
+    },
+    {
+        "Código": "ENM0176",
+        "Nome": "INTRODUÇÃO A ECOLOGIA INDUSTRIAL",
+        "Tipo": "DISCIPLINA",
+        "Carga_Horária": "60h"
+    },
+    {
+        "Código": "ENM0143",
+        "Nome": "INTRODUCAO A ENGENHARIA MECANICA",
+        "Tipo": "DISCIPLINA",
+        "Carga_Horária": "30h"
+    },
+    {
+        "Código": "ENM0002",
+        "Nome": "INTRODUÇÃO À EXPLORAÇÃO DE PETRÓLEO EM ALTO MAR",
+        "Tipo": "DISCIPLINA",
+        "Carga_Horária": "30h"
+    },
+    {
+        "Código": "DPG0690",
+        "Nome": "INTRODUÇÃO À EXPLORAÇÃO OFFSHORE",
+        "Tipo": "DISCIPLINA",
+        "Carga_Horária": "30h"
+    },
+    {
+        "Código": "ENM0321",
+        "Nome": "INTRODUÇÃO À MECÂNICA DO CONTATO ELÁSTICO",
+        "Tipo": "DISCIPLINA",
+        "Carga_Horária": "60h"
+    },
+    {
+        "Código": "ENM0277",
+        "Nome": "INTRODUÇÃO À MECÂNICA DOS SÓLIDOS EXPERIMENTAL",
+        "Tipo": "DISCIPLINA",
+        "Carga_Horária": "60h"
+    },
+    {
+        "Código": "ENM0113",
+        "Nome": "INTRODUCAO A MECANICA EXPERIMENTAL",
+        "Tipo": "DISCIPLINA",
+        "Carga_Horária": "60h"
+    },
+    {
+        "Código": "ENM0193",
+        "Nome": "INTRODUÇÃO A MÉTODOS DE PERTURBAÇÕES EM FLUÍDOS",
+        "Tipo": "DISCIPLINA",
+        "Carga_Horária": "60h"
+    },
+    {
+        "Código": "DPG0157",
+        "Nome": "INTRODUÇÃO AO MÉTODO DOS ELEMENTOS DE CONTORNO",
+        "Tipo": "DISCIPLINA",
+        "Carga_Horária": "60h"
+    },
+    {
+        "Código": "ENM0189",
+        "Nome": "INTRODUÇÃO AOS MATERIAIS INTELIGENTES",
+        "Tipo": "DISCIPLINA",
+        "Carga_Horária": "30h"
+    },
+    {
+        "Código": "DPG0329",
+        "Nome": "INTRODUÇÃO AOS PROCESSOS ESTOCÁSTICOS",
+        "Tipo": "DISCIPLINA",
+        "Carga_Horária": "60h"
+    },
+    {
+        "Código": "ENM0159",
+        "Nome": "INTRODUCAO A TURBULENCIA",
+        "Tipo": "DISCIPLINA",
+        "Carga_Horária": "60h"
+    },
+    {
+        "Código": "ENM0283",
+        "Nome": "MANUFATURA ADITIVA EM METAIS",
+        "Tipo": "DISCIPLINA",
+        "Carga_Horária": "30h"
+    },
+    {
+        "Código": "ENM0106",
+        "Nome": "MAQUINAS DE ELEVACAO E TRANSPORTE",
+        "Tipo": "DISCIPLINA",
+        "Carga_Horária": "60h"
+    },
+    {
+        "Código": "ENM0019",
+        "Nome": "MAQUINAS HIDRAULICAS",
+        "Tipo": "DISCIPLINA",
+        "Carga_Horária": "60h"
+    },
+    {
+        "Código": "ENM0094",
+        "Nome": "MAQUINAS OPERATRIZES",
+        "Tipo": "DISCIPLINA",
+        "Carga_Horária": "60h"
+    },
+    {
+        "Código": "ENM0032",
+        "Nome": "MAQUINAS OPERATRIZES E DE TRANSPORTE 1",
+        "Tipo": "DISCIPLINA",
+        "Carga_Horária": "90h"
+    },
+    {
+        "Código": "ENM0070",
+        "Nome": "MAQUINAS TERMICAS",
+        "Tipo": "DISCIPLINA",
+        "Carga_Horária": "75h"
+    },
+    {
+        "Código": "ENM0007",
+        "Nome": "MAQUINAS TERMICAS",
+        "Tipo": "DISCIPLINA",
+        "Carga_Horária": "75h"
+    },
+    {
+        "Código": "ENM0028",
+        "Nome": "MATERIAIS DE CONSTRUCAO MECANICA 1",
+        "Tipo": "DISCIPLINA",
+        "Carga_Horária": "90h"
+    },
+    {
+        "Código": "ENM0090",
+        "Nome": "MATERIAIS DE CONSTRUCAO MECANICA 1",
+        "Tipo": "DISCIPLINA",
+        "Carga_Horária": "90h"
+    },
+    {
+        "Código": "ENM0228",
+        "Nome": "MATERIAIS DE CONSTRUÇÃO MECÂNICA 1",
+        "Tipo": "DISCIPLINA",
+        "Carga_Horária": "60h"
+    },
+    {
+        "Código": "ENM0029",
+        "Nome": "MATERIAIS DE CONSTRUCAO MECANICA 2",
+        "Tipo": "DISCIPLINA",
+        "Carga_Horária": "60h"
+    },
+    {
+        "Código": "ENM0091",
+        "Nome": "MATERIAIS DE CONSTRUCAO MECANICA 2",
+        "Tipo": "DISCIPLINA",
+        "Carga_Horária": "60h"
+    },
+    {
+        "Código": "DPG0439",
+        "Nome": "MATERIAIS FUNCIONAIS E ESTRUTURAS ADAPTATIVAS",
+        "Tipo": "DISCIPLINA",
+        "Carga_Horária": "60h"
+    },
+    {
+        "Código": "ENM0172",
+        "Nome": "MATERIAIS INDUSTRIAIS",
+        "Tipo": "DISCIPLINA",
+        "Carga_Horária": "90h"
+    },
+    {
+        "Código": "ENM0147",
+        "Nome": "MATERIAIS INDUSTRIAIS 1",
+        "Tipo": "DISCIPLINA",
+        "Carga_Horária": "90h"
+    },
+    {
+        "Código": "ENM0148",
+        "Nome": "MATERIAIS INDUSTRIAIS 2",
+        "Tipo": "DISCIPLINA",
+        "Carga_Horária": "60h"
+    },
+    {
+        "Código": "ENM0120",
+        "Nome": "MECANICA 1",
+        "Tipo": "DISCIPLINA",
+        "Carga_Horária": "60h"
+    },
+    {
+        "Código": "ENM0121",
+        "Nome": "MECANICA 2",
+        "Tipo": "DISCIPLINA",
+        "Carga_Horária": "60h"
+    },
+    {
+        "Código": "DPG0310",
+        "Nome": "MECÂNICA DA FRATURA",
+        "Tipo": "DISCIPLINA",
+        "Carga_Horária": "60h"
+    },
+    {
+        "Código": "DPG1128",
+        "Nome": "MECÂNICA DO CONTATO COMPUTACIONAL",
+        "Tipo": "DISCIPLINA",
+        "Carga_Horária": "60h"
+    },
+    {
+        "Código": "ENM0017",
+        "Nome": "MECANICA DOS FLUIDOS",
+        "Tipo": "DISCIPLINA",
+        "Carga_Horária": "90h"
+    },
+    {
+        "Código": "ENM0140",
+        "Nome": "MECANICA DOS FLUIDOS 1",
+        "Tipo": "DISCIPLINA",
+        "Carga_Horária": "75h"
+    },
+    {
+        "Código": "ENM0231",
+        "Nome": "MECÂNICA DOS FLUIDOS 1",
+        "Tipo": "DISCIPLINA",
+        "Carga_Horária": "60h"
+    },
+    {
+        "Código": "ENM0082",
+        "Nome": "MECANICA DOS FLUIDOS 2",
+        "Tipo": "DISCIPLINA",
+        "Carga_Horária": "75h"
+    },
+    {
+        "Código": "ENM0233",
+        "Nome": "MECÂNICA DOS FLUIDOS 2",
+        "Tipo": "DISCIPLINA",
+        "Carga_Horária": "60h"
+    },
+    {
+        "Código": "ENM0170",
+        "Nome": "MECANICA DOS FLUIDOS EXPERIMENTAL",
+        "Tipo": "DISCIPLINA",
+        "Carga_Horária": "60h"
+    },
+    {
+        "Código": "ENM0004",
+        "Nome": "MECÂNICA DOS FLUÍDOS MAGNÉTICOS",
+        "Tipo": "DISCIPLINA",
+        "Carga_Horária": "60h"
+    },
+    {
+        "Código": "ENM0111",
+        "Nome": "MECANICA DOS MATERIAIS",
+        "Tipo": "DISCIPLINA",
+        "Carga_Horária": "60h"
+    },
+    {
+        "Código": "ENM0164",
+        "Nome": "MECANICA DOS MATERIAIS 1",
+        "Tipo": "DISCIPLINA",
+        "Carga_Horária": "60h"
+    },
+    {
+        "Código": "ENM0165",
+        "Nome": "MECANICA DOS MATERIAIS 2",
+        "Tipo": "DISCIPLINA",
+        "Carga_Horária": "60h"
+    },
+    {
+        "Código": "DPG0635",
+        "Nome": "MECÂNICA DOS MATERIAIS COMPOSITOS",
+        "Tipo": "DISCIPLINA",
+        "Carga_Horária": "60h"
+    },
+    {
+        "Código": "DPG0239",
+        "Nome": "MECÂNICA DOS MEIOS CONTÍNUOS",
+        "Tipo": "DISCIPLINA",
+        "Carga_Horária": "60h"
+    },
+    {
+        "Código": "ENM0163",
+        "Nome": "MECANICA GERAL",
+        "Tipo": "DISCIPLINA",
+        "Carga_Horária": "90h"
+    },
+    {
+        "Código": "ENM0112",
+        "Nome": "MECANISMOS",
+        "Tipo": "DISCIPLINA",
+        "Carga_Horária": "60h"
+    },
+    {
+        "Código": "DPG0277",
+        "Nome": "METALURGIA FÍSICA",
+        "Tipo": "DISCIPLINA",
+        "Carga_Horária": "60h"
+    },
+    {
+        "Código": "DPG0478",
+        "Nome": "METODOLOGIA DE PESQUISA E REDAÇÃO CIENTÍFICA",
+        "Tipo": "DISCIPLINA",
+        "Carga_Horária": "30h"
+    },
+    {
+        "Código": "ENM0144",
+        "Nome": "METODOS COMPUTACIONAIS EM ENGENHARIA MECANICA",
+        "Tipo": "DISCIPLINA",
+        "Carga_Horária": "60h"
+    },
+    {
+        "Código": "DPG0174",
+        "Nome": "MÉTODOS EXPERIMENTAIS EM CIÊNCIAS MECÂNICAS",
+        "Tipo": "DISCIPLINA",
+        "Carga_Horária": "60h"
+    },
+    {
+        "Código": "ENM0281",
+        "Nome": "MÉTODOS EXPERIMENTAIS EM FLUIDOS",
+        "Tipo": "DISCIPLINA",
+        "Carga_Horária": "30h"
+    },
+    {
+        "Código": "DPG0136",
+        "Nome": "MÉTODOS EXPERIMENTAIS EM FLUÍDOS",
+        "Tipo": "DISCIPLINA",
+        "Carga_Horária": "60h"
+    },
+    {
+        "Código": "DPG0996",
+        "Nome": "MÉTODOS MATEMÁTICOS EM CIÊNCIAS MECÂNICAS",
+        "Tipo": "DISCIPLINA",
+        "Carga_Horária": "60h"
+    },
+    {
+        "Código": "DPG0716",
+        "Nome": "MÉTODOS MATEMÁTICOS PARA ENGENHARIA",
+        "Tipo": "DISCIPLINA",
+        "Carga_Horária": "60h"
+    },
+    {
+        "Código": "DPG1119",
+        "Nome": "MÉTODOS NUMÉRICOS EM CIÊNCIAS MECÂNICAS",
+        "Tipo": "DISCIPLINA",
+        "Carga_Horária": "60h"
+    },
+    {
+        "Código": "ENM0160",
+        "Nome": "METODOS NUMERICOS EM TERMOFLUIDOS",
+        "Tipo": "DISCIPLINA",
+        "Carga_Horária": "60h"
+    },
+    {
+        "Código": "DPG1130",
+        "Nome": "MÉTODOS NUMÉRICOS PARA ENGENHEIROS E CIENTISTAS",
+        "Tipo": "DISCIPLINA",
+        "Carga_Horária": "60h"
+    },
+    {
+        "Código": "ENM0145",
+        "Nome": "METROLOGIA",
+        "Tipo": "DISCIPLINA",
+        "Carga_Horária": "60h"
+    },
+    {
+        "Código": "ENM0177",
+        "Nome": "MICROCONTROLADORE APLICADOS À AUTOMAÇÃO",
+        "Tipo": "DISCIPLINA",
+        "Carga_Horária": "60h"
+    },
+    {
+        "Código": "DPG0623",
+        "Nome": "MICROHIDRODINÂMICA",
+        "Tipo": "DISCIPLINA",
+        "Carga_Horária": "60h"
+    },
+    {
+        "Código": "ENM0282",
+        "Nome": "MICROUSINAGEM",
+        "Tipo": "DISCIPLINA",
+        "Carga_Horária": "30h"
+    },
+    {
+        "Código": "ENM0195",
+        "Nome": "MODELAGEM E IMPLEMENTAÇÃO DE SISTEMAS A EVENTOS DISCRETOS",
+        "Tipo": "DISCIPLINA",
+        "Carga_Horária": "90h"
+    },
+    {
+        "Código": "ENM0074",
+        "Nome": "MOTORES DE COMBUSTAO INTERNA",
+        "Tipo": "DISCIPLINA",
+        "Carga_Horária": "60h"
+    }
+]

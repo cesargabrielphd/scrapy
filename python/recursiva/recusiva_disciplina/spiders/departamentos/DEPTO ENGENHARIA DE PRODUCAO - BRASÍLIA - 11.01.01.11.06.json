@@ -1,0 +1,422 @@
+[
+    {
+        "Código": "EPR0075",
+        "Nome": "CONFIABILIDADE, MANUTENIBILIDADE E DISPONIBILIDADE",
+        "Tipo": "DISCIPLINA",
+        "Carga_Horária": "60h"
+    },
+    {
+        "Código": "EPR0014",
+        "Nome": "CONTROLE ESTATÍSTICO DE PROCESSOS",
+        "Tipo": "DISCIPLINA",
+        "Carga_Horária": "60h"
+    },
+    {
+        "Código": "EPR0016",
+        "Nome": "CUSTOS EM SISTEMAS DE PRODUÇÃO",
+        "Tipo": "DISCIPLINA",
+        "Carga_Horária": "60h"
+    },
+    {
+        "Código": "EPR0044",
+        "Nome": "DESENVOLVIMENTO DE SERVIÇOS",
+        "Tipo": "DISCIPLINA",
+        "Carga_Horária": "30h"
+    },
+    {
+        "Código": "EPR0017",
+        "Nome": "DINÂMICA DE SISTEMAS EM ORGANIZAÇÕES",
+        "Tipo": "DISCIPLINA",
+        "Carga_Horária": "60h"
+    },
+    {
+        "Código": "EPR0043",
+        "Nome": "ENGENHARIA DE PRODUTOS FINANCEIROS",
+        "Tipo": "DISCIPLINA",
+        "Carga_Horária": "30h"
+    },
+    {
+        "Código": "EPR0013",
+        "Nome": "ENGENHARIA DO PRODUTO",
+        "Tipo": "DISCIPLINA",
+        "Carga_Horária": "60h"
+    },
+    {
+        "Código": "EPR0076",
+        "Nome": "ENGENHARIA DO TRABALHO",
+        "Tipo": "DISCIPLINA",
+        "Carga_Horária": "30h"
+    },
+    {
+        "Código": "EPR0064",
+        "Nome": "ENGENHARIA ECONÔMICA",
+        "Tipo": "DISCIPLINA",
+        "Carga_Horária": "60h"
+    },
+    {
+        "Código": "EPR0077",
+        "Nome": "ERGONOMIA DE SISTEMAS PRODUTIVOS",
+        "Tipo": "DISCIPLINA",
+        "Carga_Horária": "60h"
+    },
+    {
+        "Código": "EPR0040",
+        "Nome": "ERGONOMIA EM SISTEMAS PRODUTIVOS",
+        "Tipo": "DISCIPLINA",
+        "Carga_Horária": "30h"
+    },
+    {
+        "Código": "EPR0010",
+        "Nome": "ESTÁGIO SUPERVISIONADO OBRIGATÓRIO",
+        "Tipo": "DISCIPLINA",
+        "Carga_Horária": "180h"
+    },
+    {
+        "Código": "EPR0036",
+        "Nome": "FINANÇAS  COMPORTAMENTAIS E PESSOAIS",
+        "Tipo": "DISCIPLINA",
+        "Carga_Horária": "30h"
+    },
+    {
+        "Código": "EPR0061",
+        "Nome": "FORMAÇÃO DE VALOR EM SISTEMAS DE PRODUÇÃO",
+        "Tipo": "DISCIPLINA",
+        "Carga_Horária": "30h"
+    },
+    {
+        "Código": "EPR0047",
+        "Nome": "GERENCIAMENTO DA CADEIA DE SUPRIMENTO",
+        "Tipo": "DISCIPLINA",
+        "Carga_Horária": "60h"
+    },
+    {
+        "Código": "EPR0038",
+        "Nome": "GERENCIAMENTO DE PROJETOS COMPLEXOS",
+        "Tipo": "DISCIPLINA",
+        "Carga_Horária": "30h"
+    },
+    {
+        "Código": "EPR0031",
+        "Nome": "GESTÃO DA CADEIA DE SUPRIMENTOS EM ENGENHARIA",
+        "Tipo": "DISCIPLINA",
+        "Carga_Horária": "0h"
+    },
+    {
+        "Código": "EPR0030",
+        "Nome": "GESTÃO DA QUALIDADE NA PRODUÇÃO",
+        "Tipo": "DISCIPLINA",
+        "Carga_Horária": "60h"
+    },
+    {
+        "Código": "EPR0042",
+        "Nome": "GESTÃO DE CUSTOS",
+        "Tipo": "DISCIPLINA",
+        "Carga_Horária": "30h"
+    },
+    {
+        "Código": "EPR0051",
+        "Nome": "GESTÃO DE PROJETOS AVANÇADOS",
+        "Tipo": "DISCIPLINA",
+        "Carga_Horária": "30h"
+    },
+    {
+        "Código": "EPR0005",
+        "Nome": "GESTÃO DE RISCOS",
+        "Tipo": "DISCIPLINA",
+        "Carga_Horária": "60h"
+    },
+    {
+        "Código": "EPR0018",
+        "Nome": "GESTÃO DE RISCOS EM ORGANIZAÇÃO",
+        "Tipo": "DISCIPLINA",
+        "Carga_Horária": "60h"
+    },
+    {
+        "Código": "EPR0065",
+        "Nome": "GESTÃO ESTRATÉGICA",
+        "Tipo": "DISCIPLINA",
+        "Carga_Horária": "60h"
+    },
+    {
+        "Código": "EPR0059",
+        "Nome": "HIGIENE E SEGURANÇA DO TRABALHO",
+        "Tipo": "DISCIPLINA",
+        "Carga_Horária": "30h"
+    },
+    {
+        "Código": "EPR0035",
+        "Nome": "INOVAÇÃO EM SISTEMAS DE PRODUÇÃO",
+        "Tipo": "DISCIPLINA",
+        "Carga_Horária": "60h"
+    },
+    {
+        "Código": "EPR0058",
+        "Nome": "INSTALACOES INDUSTRIAIS 1",
+        "Tipo": "DISCIPLINA",
+        "Carga_Horária": "60h"
+    },
+    {
+        "Código": "EPR0060",
+        "Nome": "INSTALACOES INDUSTRIAIS 2",
+        "Tipo": "DISCIPLINA",
+        "Carga_Horária": "60h"
+    },
+    {
+        "Código": "EPR0056",
+        "Nome": "INTRODUÇÃO À ENGENHARIA DE PRODUÇÃO",
+        "Tipo": "DISCIPLINA",
+        "Carga_Horária": "30h"
+    },
+    {
+        "Código": "EPR0057",
+        "Nome": "INTRODUÇÃO À ENGENHARIA DE PRODUÇÃO E À QUALIDADE",
+        "Tipo": "DISCIPLINA",
+        "Carga_Horária": "60h"
+    },
+    {
+        "Código": "EPR0048",
+        "Nome": "INTRODUÇÃO A METODOLOGIA DE PESQUISA PARA ENGENHARIA DE PRODUÇÃO",
+        "Tipo": "DISCIPLINA",
+        "Carga_Horária": "30h"
+    },
+    {
+        "Código": "EPR0012",
+        "Nome": "LOGÍSTICA",
+        "Tipo": "DISCIPLINA",
+        "Carga_Horária": "60h"
+    },
+    {
+        "Código": "EPR0019",
+        "Nome": "MERCADOLOGIA ESTRATÉGICA",
+        "Tipo": "DISCIPLINA",
+        "Carga_Horária": "60h"
+    },
+    {
+        "Código": "EPR0069",
+        "Nome": "METODOLOGIA DE PROJETO DE SISTEMAS DE PRODUÇÃO",
+        "Tipo": "DISCIPLINA",
+        "Carga_Horária": "30h"
+    },
+    {
+        "Código": "EPR0068",
+        "Nome": "ORGANIZAÇÃO INDUSTRIAL",
+        "Tipo": "DISCIPLINA",
+        "Carga_Horária": "60h"
+    },
+    {
+        "Código": "EPR0066",
+        "Nome": "PESQUISA OPERACIONAL EM ENGENHARIA 1",
+        "Tipo": "DISCIPLINA",
+        "Carga_Horária": "90h"
+    },
+    {
+        "Código": "EPR0020",
+        "Nome": "PESQUISA OPERACIONAL EM ENGENHARIA 2",
+        "Tipo": "DISCIPLINA",
+        "Carga_Horária": "60h"
+    },
+    {
+        "Código": "EPR0002",
+        "Nome": "PLANEJAMENTO E CONTROLE DA PRODUÇÃO",
+        "Tipo": "DISCIPLINA",
+        "Carga_Horária": "60h"
+    },
+    {
+        "Código": "EPR0039",
+        "Nome": "PLANEJAMENTO E CONTROLE DE SERVIÇOS",
+        "Tipo": "DISCIPLINA",
+        "Carga_Horária": "30h"
+    },
+    {
+        "Código": "EPR0049",
+        "Nome": "PROJETO DE FABRICA E LAYOUT",
+        "Tipo": "DISCIPLINA",
+        "Carga_Horária": "30h"
+    },
+    {
+        "Código": "EPR0045",
+        "Nome": "PROJETO DE GRADUAÇÃO DE ENGENHARIA DE PRODUÇÃO 1",
+        "Tipo": "DISCIPLINA",
+        "Carga_Horária": "30h"
+    },
+    {
+        "Código": "EPR0046",
+        "Nome": "PROJETO DE GRADUAÇÃO DE ENGENHARIA DE PRODUÇÃO 2",
+        "Tipo": "DISCIPLINA",
+        "Carga_Horária": "30h"
+    },
+    {
+        "Código": "EPR0071",
+        "Nome": "PROJETO DE SISTEMAS DE PRODUÇÃO 1",
+        "Tipo": "DISCIPLINA",
+        "Carga_Horária": "30h"
+    },
+    {
+        "Código": "EPR0073",
+        "Nome": "PROJETO DE SISTEMAS DE PRODUÇÃO 2",
+        "Tipo": "DISCIPLINA",
+        "Carga_Horária": "30h"
+    },
+    {
+        "Código": "EPR0074",
+        "Nome": "PROJETO DE SISTEMAS DE PRODUÇÃO 3",
+        "Tipo": "DISCIPLINA",
+        "Carga_Horária": "30h"
+    },
+    {
+        "Código": "EPR0001",
+        "Nome": "PROJETO DE SISTEMAS DE PRODUÇÃO 4",
+        "Tipo": "DISCIPLINA",
+        "Carga_Horária": "30h"
+    },
+    {
+        "Código": "EPR0007",
+        "Nome": "PROJETO DE SISTEMAS DE PRODUÇÃO 5",
+        "Tipo": "DISCIPLINA",
+        "Carga_Horária": "30h"
+    },
+    {
+        "Código": "EPR0008",
+        "Nome": "PROJETO DE SISTEMAS DE PRODUÇÃO 6",
+        "Tipo": "DISCIPLINA",
+        "Carga_Horária": "30h"
+    },
+    {
+        "Código": "EPR0009",
+        "Nome": "PROJETO DE SISTEMAS DE PRODUÇÃO 7",
+        "Tipo": "DISCIPLINA",
+        "Carga_Horária": "30h"
+    },
+    {
+        "Código": "EPR0050",
+        "Nome": "PROJETO DE SISTEMAS DE PRODUÇÃO 8",
+        "Tipo": "DISCIPLINA",
+        "Carga_Horária": "30h"
+    },
+    {
+        "Código": "EPR0006",
+        "Nome": "SEGURANÇA E SAÚDE NO TRABALHO",
+        "Tipo": "DISCIPLINA",
+        "Carga_Horária": "60h"
+    },
+    {
+        "Código": "EPR0021",
+        "Nome": "SEMINÁRIO EM ENGENHARIA DE PRODUÇÃO",
+        "Tipo": "DISCIPLINA",
+        "Carga_Horária": "60h"
+    },
+    {
+        "Código": "EPR0004",
+        "Nome": "SIMULAÇÃO DE SISTEMAS",
+        "Tipo": "DISCIPLINA",
+        "Carga_Horária": "60h"
+    },
+    {
+        "Código": "EPR0052",
+        "Nome": "SISTEMA DE PRODUÇÃO AGROALIMENTAR",
+        "Tipo": "DISCIPLINA",
+        "Carga_Horária": "60h"
+    },
+    {
+        "Código": "EPR0037",
+        "Nome": "SISTEMA DE PRODUÇÃO ENXUTA",
+        "Tipo": "DISCIPLINA",
+        "Carga_Horária": "60h"
+    },
+    {
+        "Código": "EPR0034",
+        "Nome": "SISTEMAS COLABORATIVOS",
+        "Tipo": "DISCIPLINA",
+        "Carga_Horária": "30h"
+    },
+    {
+        "Código": "EPR0072",
+        "Nome": "SISTEMAS DE INFORMAÇÃO EM ENGENHARIA DE PRODUÇÃO",
+        "Tipo": "DISCIPLINA",
+        "Carga_Horária": "60h"
+    },
+    {
+        "Código": "EPR0022",
+        "Nome": "SISTEMAS DE SUPORTE À DECISÃO",
+        "Tipo": "DISCIPLINA",
+        "Carga_Horária": "60h"
+    },
+    {
+        "Código": "EPR0003",
+        "Nome": "TOMADA DE DECISÃO COM ENFOQUE EM ANÁLISE MULTICRITÉRIO",
+        "Tipo": "DISCIPLINA",
+        "Carga_Horária": "60h"
+    },
+    {
+        "Código": "EPR0055",
+        "Nome": "TÓPICOS ESPECIAIS EM ENGENHARIA DE OPERAÇÕES",
+        "Tipo": "DISCIPLINA",
+        "Carga_Horária": "60h"
+    },
+    {
+        "Código": "EPR0026",
+        "Nome": "TÓPICOS ESPECIAIS EM ENGENHARIA DO PRODUTO",
+        "Tipo": "DISCIPLINA",
+        "Carga_Horária": "60h"
+    },
+    {
+        "Código": "EPR0025",
+        "Nome": "TÓPICOS ESPECIAIS EM ENGENHARIA DO TRABALHO E ERGONOMIA",
+        "Tipo": "DISCIPLINA",
+        "Carga_Horária": "60h"
+    },
+    {
+        "Código": "EPR0067",
+        "Nome": "TÓPICOS ESPECIAIS  EM ENGENHARIA ECONÔMICA",
+        "Tipo": "DISCIPLINA",
+        "Carga_Horária": "30h"
+    },
+    {
+        "Código": "EPR0024",
+        "Nome": "TÓPICOS ESPECIAIS EM GESTÃO DA INOVAÇÃO",
+        "Tipo": "DISCIPLINA",
+        "Carga_Horária": "60h"
+    },
+    {
+        "Código": "EPR0023",
+        "Nome": "TÓPICOS ESPECIAIS EM GESTÃO DA PRODUÇÃO",
+        "Tipo": "DISCIPLINA",
+        "Carga_Horária": "60h"
+    },
+    {
+        "Código": "EPR0070",
+        "Nome": "TÓPICOS ESPECIAIS EM GESTÃO DA QUALIDADE",
+        "Tipo": "DISCIPLINA",
+        "Carga_Horária": "60h"
+    },
+    {
+        "Código": "EPR0032",
+        "Nome": "TÓPICOS ESPECIAIS EM GESTÃO SUSTENTÁVEL",
+        "Tipo": "DISCIPLINA",
+        "Carga_Horária": "30h"
+    },
+    {
+        "Código": "EPR0029",
+        "Nome": "TÓPICOS ESPECIAIS EM LOGÍSTICA",
+        "Tipo": "DISCIPLINA",
+        "Carga_Horária": "60h"
+    },
+    {
+        "Código": "EPR0027",
+        "Nome": "TÓPICOS ESPECIAIS EM PESQUISA OPERACIONAL",
+        "Tipo": "DISCIPLINA",
+        "Carga_Horária": "60h"
+    },
+    {
+        "Código": "EPR0028",
+        "Nome": "TÓPICOS ESPECIAIS EM PESQUISA ORGANIZACIONAL",
+        "Tipo": "DISCIPLINA",
+        "Carga_Horária": "60h"
+    },
+    {
+        "Código": "EPR0054",
+        "Nome": "TÓPICOS ESPECIAIS EM SIMULAÇÃO EMPRESARIAL",
+        "Tipo": "DISCIPLINA",
+        "Carga_Horária": "60h"
+    }
+]

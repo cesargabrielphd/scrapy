@@ -1,0 +1,74 @@
+[
+    {
+        "Código": "ELA0014",
+        "Nome": "CIÊNCIAS SOCIAIS LATINO-AMERICANAS 1",
+        "Tipo": "DISCIPLINA",
+        "Carga_Horária": "60h"
+    },
+    {
+        "Código": "ELA0003",
+        "Nome": "CULTURA E IDENTIDADE NAS AMÉRICAS",
+        "Tipo": "DISCIPLINA",
+        "Carga_Horária": "60h"
+    },
+    {
+        "Código": "ELA0010",
+        "Nome": "ESTUDOS COMPARADOS SOBRE AS AMÉRICAS",
+        "Tipo": "DISCIPLINA",
+        "Carga_Horária": "60h"
+    },
+    {
+        "Código": "ELA0013",
+        "Nome": "INTRODUÇÃO À METODOLOGIA DAS CIÊNCIAS SOCIAIS",
+        "Tipo": "DISCIPLINA",
+        "Carga_Horária": "60h"
+    },
+    {
+        "Código": "ELA0117",
+        "Nome": "INTRODUÇÃO ÀS CIÊNCIAS SOCIAIS LATINO-AMERICANAS",
+        "Tipo": "DISCIPLINA",
+        "Carga_Horária": "60h"
+    },
+    {
+        "Código": "ELA0008",
+        "Nome": "PENSAMENTO SOCIAL E POLÍTICO NA AMÉRICA LATINA",
+        "Tipo": "DISCIPLINA",
+        "Carga_Horária": "60h"
+    },
+    {
+        "Código": "ELA0007",
+        "Nome": "POLÍTICA E ESTADO NAS AMÉRICAS",
+        "Tipo": "DISCIPLINA",
+        "Carga_Horária": "60h"
+    },
+    {
+        "Código": "ELA0009",
+        "Nome": "PROCESSOS DE DESENVOLVIMENTO NAS AMÉRICAS",
+        "Tipo": "DISCIPLINA",
+        "Carga_Horária": "60h"
+    },
+    {
+        "Código": "ELA0012",
+        "Nome": "SOCIEDADE, CULTURA E POLÍTICA NAS AMÉRICAS",
+        "Tipo": "DISCIPLINA",
+        "Carga_Horária": "60h"
+    },
+    {
+        "Código": "ELA0001",
+        "Nome": "TÓPICOS ESPECIAIS DE METODOLOGIA QUALITATIVA 1",
+        "Tipo": "DISCIPLINA",
+        "Carga_Horária": "60h"
+    },
+    {
+        "Código": "ELA0004",
+        "Nome": "TÓPICOS ESPECIAIS DE METODOLOGIA QUANTITATIVA 1",
+        "Tipo": "DISCIPLINA",
+        "Carga_Horária": "60h"
+    },
+    {
+        "Código": "DPG0706",
+        "Nome": "TÓPICOS ESPECIAIS DE TEORIA SOCIOLÓGICA 2",
+        "Tipo": "DISCIPLINA",
+        "Carga_Horária": "60h"
+    }
+]

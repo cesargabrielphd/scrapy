@@ -1,0 +1,14 @@
+[
+    {
+        "Código": "TEF0020",
+        "Nome": "FILOSOFIA DA EDUCAÇÃO",
+        "Tipo": "DISCIPLINA",
+        "Carga_Horária": "60h"
+    },
+    {
+        "Código": "TEF0156",
+        "Nome": "TÓPICOS ESPECIAIS EM EDUCAÇÃO ESPECIAL 1",
+        "Tipo": "DISCIPLINA",
+        "Carga_Horária": "60h"
+    }
+]

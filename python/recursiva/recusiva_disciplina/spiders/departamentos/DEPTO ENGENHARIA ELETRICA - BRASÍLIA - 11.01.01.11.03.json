@@ -1,0 +1,1256 @@
+[
+    {
+        "Código": "ENE0233",
+        "Nome": "ACIONAMENTOS INDUSTRIAIS",
+        "Tipo": "DISCIPLINA",
+        "Carga_Horária": "75h"
+    },
+    {
+        "Código": "ENE0013",
+        "Nome": "ALGORITMOS E ESTRUTURA DE DADOS",
+        "Tipo": "DISCIPLINA",
+        "Carga_Horária": "60h"
+    },
+    {
+        "Código": "ENE0228",
+        "Nome": "ANALISE DE SISTEMAS DE POTENCIA",
+        "Tipo": "DISCIPLINA",
+        "Carga_Horária": "60h"
+    },
+    {
+        "Código": "ENE0085",
+        "Nome": "ANÁLISE DINÂMICA  LINEAR",
+        "Tipo": "DISCIPLINA",
+        "Carga_Horária": "90h"
+    },
+    {
+        "Código": "ENE0035",
+        "Nome": "ANÁLISE DINÂMICA LINEAR",
+        "Tipo": "DISCIPLINA",
+        "Carga_Horária": "60h"
+    },
+    {
+        "Código": "ENE0194",
+        "Nome": "ANTENAS",
+        "Tipo": "DISCIPLINA",
+        "Carga_Horária": "60h"
+    },
+    {
+        "Código": "ENE0201",
+        "Nome": "ANTENAS 2",
+        "Tipo": "DISCIPLINA",
+        "Carga_Horária": "90h"
+    },
+    {
+        "Código": "ENE0353",
+        "Nome": "ANTENAS EM REDES DE COMUNICAÇÕES",
+        "Tipo": "DISCIPLINA",
+        "Carga_Horária": "60h"
+    },
+    {
+        "Código": "ENE0331",
+        "Nome": "ANTENAS - TEORIA E PRATICA",
+        "Tipo": "DISCIPLINA",
+        "Carga_Horária": "90h"
+    },
+    {
+        "Código": "ENE0055",
+        "Nome": "ARQUITETURA DE PROCESSADORES DIGITAIS",
+        "Tipo": "DISCIPLINA",
+        "Carga_Horária": "60h"
+    },
+    {
+        "Código": "ENE0245",
+        "Nome": "ARQUITETURA DE PROCESSADORES DIGITAIS",
+        "Tipo": "DISCIPLINA",
+        "Carga_Horária": "90h"
+    },
+    {
+        "Código": "ENE0009",
+        "Nome": "ARQUITETURA E PROTOCOLOS DE REDES",
+        "Tipo": "DISCIPLINA",
+        "Carga_Horária": "60h"
+    },
+    {
+        "Código": "ENE0237",
+        "Nome": "ARQUITETURA E PROTOCOLOS DE REDES",
+        "Tipo": "DISCIPLINA",
+        "Carga_Horária": "90h"
+    },
+    {
+        "Código": "ENE0017",
+        "Nome": "AVALIAÇÃO DE DESEMPENHO DE REDES E SISTEMAS",
+        "Tipo": "DISCIPLINA",
+        "Carga_Horária": "60h"
+    },
+    {
+        "Código": "ENE0089",
+        "Nome": "CABEAMENTO ESTRUTURADO",
+        "Tipo": "DISCIPLINA",
+        "Carga_Horária": "60h"
+    },
+    {
+        "Código": "ENE0075",
+        "Nome": "CARACTERIZAÇÃO DE MATERIAIS E DISPOSITIVOS SEMICONDUTORES",
+        "Tipo": "DISCIPLINA",
+        "Carga_Horária": "60h"
+    },
+    {
+        "Código": "ENE0162",
+        "Nome": "CIRCUITOS DE ELETRONICA DIGITAL",
+        "Tipo": "DISCIPLINA",
+        "Carga_Horária": "60h"
+    },
+    {
+        "Código": "ENE0214",
+        "Nome": "CIRCUITOS DE ELETRONICA LINEAR",
+        "Tipo": "DISCIPLINA",
+        "Carga_Horária": "90h"
+    },
+    {
+        "Código": "ENE0215",
+        "Nome": "CIRCUITOS DE ELETRONICA NAO-LINEAR",
+        "Tipo": "DISCIPLINA",
+        "Carga_Horária": "90h"
+    },
+    {
+        "Código": "ENE0199",
+        "Nome": "CIRCUITOS DE RADIOFREQUÊNCIA",
+        "Tipo": "DISCIPLINA",
+        "Carga_Horária": "60h"
+    },
+    {
+        "Código": "ENE0304",
+        "Nome": "CIRCUITOS ELÉTRICOS",
+        "Tipo": "DISCIPLINA",
+        "Carga_Horária": "60h"
+    },
+    {
+        "Código": "ENE0172",
+        "Nome": "CIRCUITOS ELETRICOS 1",
+        "Tipo": "DISCIPLINA",
+        "Carga_Horária": "90h"
+    },
+    {
+        "Código": "ENE0042",
+        "Nome": "CIRCUITOS ELÉTRICOS 1",
+        "Tipo": "DISCIPLINA",
+        "Carga_Horária": "60h"
+    },
+    {
+        "Código": "ENE0174",
+        "Nome": "CIRCUITOS ELETRICOS 2",
+        "Tipo": "DISCIPLINA",
+        "Carga_Horária": "90h"
+    },
+    {
+        "Código": "ENE0037",
+        "Nome": "CIRCUITOS ELÉTRICOS 2",
+        "Tipo": "DISCIPLINA",
+        "Carga_Horária": "60h"
+    },
+    {
+        "Código": "ENE0313",
+        "Nome": "CIRCUITOS ELETRICOS APLICADOS",
+        "Tipo": "DISCIPLINA",
+        "Carga_Horária": "90h"
+    },
+    {
+        "Código": "ENE0289",
+        "Nome": "CIRCUITOS POLIFASICOS",
+        "Tipo": "DISCIPLINA",
+        "Carga_Horária": "60h"
+    },
+    {
+        "Código": "ENE0334",
+        "Nome": "COMPUTACAO PARA ENGENHARIA",
+        "Tipo": "DISCIPLINA",
+        "Carga_Horária": "60h"
+    },
+    {
+        "Código": "ENE0262",
+        "Nome": "COMUNICAÇÕES DIGITAIS",
+        "Tipo": "DISCIPLINA",
+        "Carga_Horária": "60h"
+    },
+    {
+        "Código": "ENE0344",
+        "Nome": "COMUNICAÇÕES MÓVEIS",
+        "Tipo": "DISCIPLINA",
+        "Carga_Horária": "60h"
+    },
+    {
+        "Código": "ENE0329",
+        "Nome": "COMUNICACOES OPTICAS",
+        "Tipo": "DISCIPLINA",
+        "Carga_Horária": "60h"
+    },
+    {
+        "Código": "ENE0081",
+        "Nome": "COMUNICAÇÕES VIA SATÉLITE",
+        "Tipo": "DISCIPLINA",
+        "Carga_Horária": "60h"
+    },
+    {
+        "Código": "ENE0003",
+        "Nome": "CONTROLE ADAPTATIVO",
+        "Tipo": "DISCIPLINA",
+        "Carga_Horária": "60h"
+    },
+    {
+        "Código": "ENE0004",
+        "Nome": "CONTROLE DE PROCESSOS",
+        "Tipo": "DISCIPLINA",
+        "Carga_Horária": "60h"
+    },
+    {
+        "Código": "ENE0077",
+        "Nome": "CONTROLE DE SISTEMAS DINÂMICOS",
+        "Tipo": "DISCIPLINA",
+        "Carga_Horária": "60h"
+    },
+    {
+        "Código": "ENE0167",
+        "Nome": "CONTROLE DIGITAL",
+        "Tipo": "DISCIPLINA",
+        "Carga_Horária": "60h"
+    },
+    {
+        "Código": "ENE0051",
+        "Nome": "CONTROLE DINÂMICO",
+        "Tipo": "DISCIPLINA",
+        "Carga_Horária": "60h"
+    },
+    {
+        "Código": "ENE0084",
+        "Nome": "CONTROLE DINÂMICO",
+        "Tipo": "DISCIPLINA",
+        "Carga_Horária": "90h"
+    },
+    {
+        "Código": "ENE0319",
+        "Nome": "CONTROLE LINEAR",
+        "Tipo": "DISCIPLINA",
+        "Carga_Horária": "60h"
+    },
+    {
+        "Código": "ENE0165",
+        "Nome": "CONTROLE NAO LINEAR",
+        "Tipo": "DISCIPLINA",
+        "Carga_Horária": "60h"
+    },
+    {
+        "Código": "ENE0079",
+        "Nome": "CONTROLE NO ESPAÇO DE ESTADOS",
+        "Tipo": "DISCIPLINA",
+        "Carga_Horária": "60h"
+    },
+    {
+        "Código": "ENE0240",
+        "Nome": "CONTROLE PARA AUTOMAÇÃO",
+        "Tipo": "DISCIPLINA",
+        "Carga_Horária": "60h"
+    },
+    {
+        "Código": "ENE0186",
+        "Nome": "CONVERSÃO DE ENERGIA E MÁQUINAS ELÉTRICAS",
+        "Tipo": "DISCIPLINA",
+        "Carga_Horária": "60h"
+    },
+    {
+        "Código": "ENE0469",
+        "Nome": "CONVERSÃO DE ENERGIA E MÁQUINAS ELÉTRICAS",
+        "Tipo": "DISCIPLINA",
+        "Carga_Horária": "60h"
+    },
+    {
+        "Código": "ENE0130",
+        "Nome": "CONVERSÃO ELETROMECÂNICA DE ENERGIA",
+        "Tipo": "DISCIPLINA",
+        "Carga_Horária": "90h"
+    },
+    {
+        "Código": "ENE0047",
+        "Nome": "CONVERSÃO ELETROMECÂNICA DE ENERGIA",
+        "Tipo": "DISCIPLINA",
+        "Carga_Horária": "60h"
+    },
+    {
+        "Código": "ENE0027",
+        "Nome": "DISPOSITIVOS E CIRCUITOS ELETRÔNICOS",
+        "Tipo": "DISCIPLINA",
+        "Carga_Horária": "60h"
+    },
+    {
+        "Código": "ENE0340",
+        "Nome": "DISPOSITIVOS E CIRCUITOS ELETRÔNICOS",
+        "Tipo": "DISCIPLINA",
+        "Carga_Horária": "90h"
+    },
+    {
+        "Código": "ENE0212",
+        "Nome": "DISPOSITIVOS ELETRONICOS",
+        "Tipo": "DISCIPLINA",
+        "Carga_Horária": "90h"
+    },
+    {
+        "Código": "ENE0254",
+        "Nome": "DISTRIBUICAO DE ENERGIA ELETRICA",
+        "Tipo": "DISCIPLINA",
+        "Carga_Horária": "60h"
+    },
+    {
+        "Código": "ENE0243",
+        "Nome": "ELETRICIDADE",
+        "Tipo": "DISCIPLINA",
+        "Carga_Horária": "90h"
+    },
+    {
+        "Código": "ENE0001",
+        "Nome": "ELETRICIDADE BÁSICA",
+        "Tipo": "DISCIPLINA",
+        "Carga_Horária": "60h"
+    },
+    {
+        "Código": "ENE0310",
+        "Nome": "ELETROMAGNETISMO",
+        "Tipo": "DISCIPLINA",
+        "Carga_Horária": "60h"
+    },
+    {
+        "Código": "ENE0177",
+        "Nome": "ELETROMAGNETISMO 1",
+        "Tipo": "DISCIPLINA",
+        "Carga_Horária": "60h"
+    },
+    {
+        "Código": "ENE0053",
+        "Nome": "ELETROMAGNETISMO 2",
+        "Tipo": "DISCIPLINA",
+        "Carga_Horária": "60h"
+    },
+    {
+        "Código": "ENE0179",
+        "Nome": "ELETROMAGNETISMO 2",
+        "Tipo": "DISCIPLINA",
+        "Carga_Horária": "90h"
+    },
+    {
+        "Código": "ENE0284",
+        "Nome": "ELETROMAGNETISMO APLICADO",
+        "Tipo": "DISCIPLINA",
+        "Carga_Horária": "60h"
+    },
+    {
+        "Código": "ENE0275",
+        "Nome": "ELETROMAGNETISMO GERAL",
+        "Tipo": "DISCIPLINA",
+        "Carga_Horária": "90h"
+    },
+    {
+        "Código": "ENE0045",
+        "Nome": "ELETRÔNICA",
+        "Tipo": "DISCIPLINA",
+        "Carga_Horária": "60h"
+    },
+    {
+        "Código": "ENE0181",
+        "Nome": "ELETRONICA 1",
+        "Tipo": "DISCIPLINA",
+        "Carga_Horária": "90h"
+    },
+    {
+        "Código": "ENE0302",
+        "Nome": "ELETRONICA 1",
+        "Tipo": "DISCIPLINA",
+        "Carga_Horária": "60h"
+    },
+    {
+        "Código": "ENE0314",
+        "Nome": "ELETRONICA 2",
+        "Tipo": "DISCIPLINA",
+        "Carga_Horária": "60h"
+    },
+    {
+        "Código": "ENE0183",
+        "Nome": "ELETRONICA 2",
+        "Tipo": "DISCIPLINA",
+        "Carga_Horária": "90h"
+    },
+    {
+        "Código": "ENE0059",
+        "Nome": "TÓPICOS ESPECIAIS EM GESTÃO DA PRODUÇÃO",
+        "Tipo": "DISCIPLINA",
+        "Carga_Horária": "60h"
+    },
+    {
+        "Código": "EPR0070",
+        "Nome": "TÓPICOS ESPECIAIS EM GESTÃO DA QUALIDADE",
+        "Tipo": "DISCIPLINA",
+        "Carga_Horária": "60h"
+    },
+    {
+        "Código": "EPR0032",
+        "Nome": "TÓPICOS ESPECIAIS EM GESTÃO SUSTENTÁVEL",
+        "Tipo": "DISCIPLINA",
+        "Carga_Horária": "30h"
+    },
+    {
+        "Código": "EPR0029",
+        "Nome": "TÓPICOS ESPECIAIS EM LOGÍSTICA",
+        "Tipo": "DISCIPLINA",
+        "Carga_Horária": "60h"
+    },
+    {
+        "Código": "EPR0027",
+        "Nome": "TÓPICOS ESPECIAIS EM PESQUISA OPERACIONAL",
+        "Tipo": "DISCIPLINA",
+        "Carga_Horária": "60h"
+    },
+    {
+        "Código": "EPR0028",
+        "Nome": "TÓPICOS ESPECIAIS EM PESQUISA ORGANIZACIONAL",
+        "Tipo": "DISCIPLINA",
+        "Carga_Horária": "60h"
+    },
+    {
+        "Código": "EPR0054",
+        "Nome": "TÓPICOS ESPECIAIS EM SIMULAÇÃO EMPRESARIAL",
+        "Tipo": "DISCIPLINA",
+        "Carga_Horária": "60h"
+    },
+    {
+        "Código": null,
+        "Nome": null,
+        "Tipo": null,
+        "Carga_Horária": "h"
+    },
+    {
+        "Código": null,
+        "Nome": null,
+        "Tipo": null,
+        "Carga_Horária": "h"
+    },
+    {
+        "Código": null,
+        "Nome": null,
+        "Tipo": null,
+        "Carga_Horária": "h"
+    },
+    {
+        "Código": null,
+        "Nome": null,
+        "Tipo": null,
+        "Carga_Horária": "h"
+    },
+    {
+        "Código": null,
+        "Nome": null,
+        "Tipo": null,
+        "Carga_Horária": "h"
+    },
+    {
+        "Código": null,
+        "Nome": null,
+        "Tipo": null,
+        "Carga_Horária": "h"
+    },
+    {
+        "Código": null,
+        "Nome": null,
+        "Tipo": null,
+        "Carga_Horária": "h"
+    },
+    {
+        "Código": null,
+        "Nome": null,
+        "Tipo": null,
+        "Carga_Horária": "h"
+    },
+    {
+        "Código": null,
+        "Nome": null,
+        "Tipo": null,
+        "Carga_Horária": "h"
+    },
+    {
+        "Código": null,
+        "Nome": null,
+        "Tipo": null,
+        "Carga_Horária": "h"
+    },
+    {
+        "Código": null,
+        "Nome": null,
+        "Tipo": null,
+        "Carga_Horária": "h"
+    },
+    {
+        "Código": null,
+        "Nome": null,
+        "Tipo": null,
+        "Carga_Horária": "h"
+    },
+    {
+        "Código": null,
+        "Nome": null,
+        "Tipo": null,
+        "Carga_Horária": "h"
+    },
+    {
+        "Código": null,
+        "Nome": null,
+        "Tipo": null,
+        "Carga_Horária": "h"
+    },
+    {
+        "Código": null,
+        "Nome": null,
+        "Tipo": null,
+        "Carga_Horária": "h"
+    },
+    {
+        "Código": null,
+        "Nome": null,
+        "Tipo": null,
+        "Carga_Horária": "h"
+    },
+    {
+        "Código": null,
+        "Nome": null,
+        "Tipo": null,
+        "Carga_Horária": "h"
+    },
+    {
+        "Código": null,
+        "Nome": null,
+        "Tipo": null,
+        "Carga_Horária": "h"
+    },
+    {
+        "Código": null,
+        "Nome": null,
+        "Tipo": null,
+        "Carga_Horária": "h"
+    },
+    {
+        "Código": null,
+        "Nome": null,
+        "Tipo": null,
+        "Carga_Horária": "h"
+    },
+    {
+        "Código": null,
+        "Nome": null,
+        "Tipo": null,
+        "Carga_Horária": "h"
+    },
+    {
+        "Código": null,
+        "Nome": null,
+        "Tipo": null,
+        "Carga_Horária": "h"
+    },
+    {
+        "Código": null,
+        "Nome": null,
+        "Tipo": null,
+        "Carga_Horária": "h"
+    },
+    {
+        "Código": null,
+        "Nome": null,
+        "Tipo": null,
+        "Carga_Horária": "h"
+    },
+    {
+        "Código": null,
+        "Nome": null,
+        "Tipo": null,
+        "Carga_Horária": "h"
+    },
+    {
+        "Código": null,
+        "Nome": null,
+        "Tipo": null,
+        "Carga_Horária": "h"
+    },
+    {
+        "Código": null,
+        "Nome": null,
+        "Tipo": null,
+        "Carga_Horária": "h"
+    },
+    {
+        "Código": null,
+        "Nome": null,
+        "Tipo": null,
+        "Carga_Horária": "h"
+    },
+    {
+        "Código": null,
+        "Nome": null,
+        "Tipo": null,
+        "Carga_Horária": "h"
+    },
+    {
+        "Código": null,
+        "Nome": null,
+        "Tipo": null,
+        "Carga_Horária": "h"
+    },
+    {
+        "Código": null,
+        "Nome": null,
+        "Tipo": null,
+        "Carga_Horária": "h"
+    },
+    {
+        "Código": null,
+        "Nome": null,
+        "Tipo": null,
+        "Carga_Horária": "h"
+    },
+    {
+        "Código": null,
+        "Nome": null,
+        "Tipo": null,
+        "Carga_Horária": "h"
+    },
+    {
+        "Código": null,
+        "Nome": null,
+        "Tipo": null,
+        "Carga_Horária": "h"
+    },
+    {
+        "Código": null,
+        "Nome": null,
+        "Tipo": null,
+        "Carga_Horária": "h"
+    },
+    {
+        "Código": null,
+        "Nome": null,
+        "Tipo": null,
+        "Carga_Horária": "h"
+    },
+    {
+        "Código": null,
+        "Nome": null,
+        "Tipo": null,
+        "Carga_Horária": "h"
+    },
+    {
+        "Código": null,
+        "Nome": null,
+        "Tipo": null,
+        "Carga_Horária": "h"
+    },
+    {
+        "Código": null,
+        "Nome": null,
+        "Tipo": null,
+        "Carga_Horária": "h"
+    },
+    {
+        "Código": null,
+        "Nome": null,
+        "Tipo": null,
+        "Carga_Horária": "h"
+    },
+    {
+        "Código": null,
+        "Nome": null,
+        "Tipo": null,
+        "Carga_Horária": "h"
+    },
+    {
+        "Código": null,
+        "Nome": null,
+        "Tipo": null,
+        "Carga_Horária": "h"
+    },
+    {
+        "Código": null,
+        "Nome": null,
+        "Tipo": null,
+        "Carga_Horária": "h"
+    },
+    {
+        "Código": null,
+        "Nome": null,
+        "Tipo": null,
+        "Carga_Horária": "h"
+    },
+    {
+        "Código": null,
+        "Nome": null,
+        "Tipo": null,
+        "Carga_Horária": "h"
+    },
+    {
+        "Código": null,
+        "Nome": null,
+        "Tipo": null,
+        "Carga_Horária": "h"
+    },
+    {
+        "Código": null,
+        "Nome": null,
+        "Tipo": null,
+        "Carga_Horária": "h"
+    },
+    {
+        "Código": null,
+        "Nome": null,
+        "Tipo": null,
+        "Carga_Horária": "h"
+    },
+    {
+        "Código": null,
+        "Nome": null,
+        "Tipo": null,
+        "Carga_Horária": "h"
+    },
+    {
+        "Código": null,
+        "Nome": null,
+        "Tipo": null,
+        "Carga_Horária": "h"
+    },
+    {
+        "Código": null,
+        "Nome": null,
+        "Tipo": null,
+        "Carga_Horária": "h"
+    },
+    {
+        "Código": null,
+        "Nome": null,
+        "Tipo": null,
+        "Carga_Horária": "h"
+    },
+    {
+        "Código": null,
+        "Nome": null,
+        "Tipo": null,
+        "Carga_Horária": "h"
+    },
+    {
+        "Código": null,
+        "Nome": null,
+        "Tipo": null,
+        "Carga_Horária": "h"
+    },
+    {
+        "Código": null,
+        "Nome": null,
+        "Tipo": null,
+        "Carga_Horária": "h"
+    },
+    {
+        "Código": null,
+        "Nome": null,
+        "Tipo": null,
+        "Carga_Horária": "h"
+    },
+    {
+        "Código": null,
+        "Nome": null,
+        "Tipo": null,
+        "Carga_Horária": "h"
+    },
+    {
+        "Código": null,
+        "Nome": null,
+        "Tipo": null,
+        "Carga_Horária": "h"
+    },
+    {
+        "Código": null,
+        "Nome": null,
+        "Tipo": null,
+        "Carga_Horária": "h"
+    },
+    {
+        "Código": null,
+        "Nome": null,
+        "Tipo": null,
+        "Carga_Horária": "h"
+    },
+    {
+        "Código": null,
+        "Nome": null,
+        "Tipo": null,
+        "Carga_Horária": "h"
+    },
+    {
+        "Código": null,
+        "Nome": null,
+        "Tipo": null,
+        "Carga_Horária": "h"
+    },
+    {
+        "Código": null,
+        "Nome": null,
+        "Tipo": null,
+        "Carga_Horária": "h"
+    },
+    {
+        "Código": null,
+        "Nome": null,
+        "Tipo": null,
+        "Carga_Horária": "h"
+    },
+    {
+        "Código": null,
+        "Nome": null,
+        "Tipo": null,
+        "Carga_Horária": "h"
+    },
+    {
+        "Código": null,
+        "Nome": null,
+        "Tipo": null,
+        "Carga_Horária": "h"
+    },
+    {
+        "Código": null,
+        "Nome": null,
+        "Tipo": null,
+        "Carga_Horária": "h"
+    },
+    {
+        "Código": null,
+        "Nome": null,
+        "Tipo": null,
+        "Carga_Horária": "h"
+    },
+    {
+        "Código": null,
+        "Nome": null,
+        "Tipo": null,
+        "Carga_Horária": "h"
+    },
+    {
+        "Código": null,
+        "Nome": null,
+        "Tipo": null,
+        "Carga_Horária": "h"
+    },
+    {
+        "Código": null,
+        "Nome": null,
+        "Tipo": null,
+        "Carga_Horária": "h"
+    },
+    {
+        "Código": null,
+        "Nome": null,
+        "Tipo": null,
+        "Carga_Horária": "h"
+    },
+    {
+        "Código": null,
+        "Nome": null,
+        "Tipo": null,
+        "Carga_Horária": "h"
+    },
+    {
+        "Código": null,
+        "Nome": null,
+        "Tipo": null,
+        "Carga_Horária": "h"
+    },
+    {
+        "Código": null,
+        "Nome": null,
+        "Tipo": null,
+        "Carga_Horária": "h"
+    },
+    {
+        "Código": null,
+        "Nome": null,
+        "Tipo": null,
+        "Carga_Horária": "h"
+    },
+    {
+        "Código": null,
+        "Nome": null,
+        "Tipo": null,
+        "Carga_Horária": "h"
+    },
+    {
+        "Código": null,
+        "Nome": null,
+        "Tipo": null,
+        "Carga_Horária": "h"
+    },
+    {
+        "Código": null,
+        "Nome": null,
+        "Tipo": null,
+        "Carga_Horária": "h"
+    },
+    {
+        "Código": null,
+        "Nome": null,
+        "Tipo": null,
+        "Carga_Horária": "h"
+    },
+    {
+        "Código": null,
+        "Nome": null,
+        "Tipo": null,
+        "Carga_Horária": "h"
+    },
+    {
+        "Código": null,
+        "Nome": null,
+        "Tipo": null,
+        "Carga_Horária": "h"
+    },
+    {
+        "Código": null,
+        "Nome": null,
+        "Tipo": null,
+        "Carga_Horária": "h"
+    },
+    {
+        "Código": null,
+        "Nome": null,
+        "Tipo": null,
+        "Carga_Horária": "h"
+    },
+    {
+        "Código": null,
+        "Nome": null,
+        "Tipo": null,
+        "Carga_Horária": "h"
+    },
+    {
+        "Código": null,
+        "Nome": null,
+        "Tipo": null,
+        "Carga_Horária": "h"
+    },
+    {
+        "Código": null,
+        "Nome": null,
+        "Tipo": null,
+        "Carga_Horária": "h"
+    },
+    {
+        "Código": null,
+        "Nome": null,
+        "Tipo": null,
+        "Carga_Horária": "h"
+    },
+    {
+        "Código": null,
+        "Nome": null,
+        "Tipo": null,
+        "Carga_Horária": "h"
+    },
+    {
+        "Código": null,
+        "Nome": null,
+        "Tipo": null,
+        "Carga_Horária": "h"
+    },
+    {
+        "Código": null,
+        "Nome": null,
+        "Tipo": null,
+        "Carga_Horária": "h"
+    },
+    {
+        "Código": null,
+        "Nome": null,
+        "Tipo": null,
+        "Carga_Horária": "h"
+    },
+    {
+        "Código": null,
+        "Nome": null,
+        "Tipo": null,
+        "Carga_Horária": "h"
+    },
+    {
+        "Código": null,
+        "Nome": null,
+        "Tipo": null,
+        "Carga_Horária": "h"
+    },
+    {
+        "Código": null,
+        "Nome": null,
+        "Tipo": null,
+        "Carga_Horária": "h"
+    },
+    {
+        "Código": null,
+        "Nome": null,
+        "Tipo": null,
+        "Carga_Horária": "h"
+    },
+    {
+        "Código": null,
+        "Nome": null,
+        "Tipo": null,
+        "Carga_Horária": "h"
+    },
+    {
+        "Código": null,
+        "Nome": null,
+        "Tipo": null,
+        "Carga_Horária": "h"
+    },
+    {
+        "Código": null,
+        "Nome": null,
+        "Tipo": null,
+        "Carga_Horária": "h"
+    },
+    {
+        "Código": null,
+        "Nome": null,
+        "Tipo": null,
+        "Carga_Horária": "h"
+    },
+    {
+        "Código": null,
+        "Nome": null,
+        "Tipo": null,
+        "Carga_Horária": "h"
+    },
+    {
+        "Código": null,
+        "Nome": null,
+        "Tipo": null,
+        "Carga_Horária": "h"
+    },
+    {
+        "Código": null,
+        "Nome": null,
+        "Tipo": null,
+        "Carga_Horária": "h"
+    },
+    {
+        "Código": null,
+        "Nome": null,
+        "Tipo": null,
+        "Carga_Horária": "h"
+    },
+    {
+        "Código": null,
+        "Nome": null,
+        "Tipo": null,
+        "Carga_Horária": "h"
+    },
+    {
+        "Código": null,
+        "Nome": null,
+        "Tipo": null,
+        "Carga_Horária": "h"
+    },
+    {
+        "Código": null,
+        "Nome": null,
+        "Tipo": null,
+        "Carga_Horária": "h"
+    },
+    {
+        "Código": null,
+        "Nome": null,
+        "Tipo": null,
+        "Carga_Horária": "h"
+    },
+    {
+        "Código": null,
+        "Nome": null,
+        "Tipo": null,
+        "Carga_Horária": "h"
+    },
+    {
+        "Código": null,
+        "Nome": null,
+        "Tipo": null,
+        "Carga_Horária": "h"
+    },
+    {
+        "Código": null,
+        "Nome": null,
+        "Tipo": null,
+        "Carga_Horária": "h"
+    },
+    {
+        "Código": null,
+        "Nome": null,
+        "Tipo": null,
+        "Carga_Horária": "h"
+    },
+    {
+        "Código": null,
+        "Nome": null,
+        "Tipo": null,
+        "Carga_Horária": "h"
+    },
+    {
+        "Código": null,
+        "Nome": null,
+        "Tipo": null,
+        "Carga_Horária": "h"
+    },
+    {
+        "Código": null,
+        "Nome": null,
+        "Tipo": null,
+        "Carga_Horária": "h"
+    },
+    {
+        "Código": null,
+        "Nome": null,
+        "Tipo": null,
+        "Carga_Horária": "h"
+    },
+    {
+        "Código": null,
+        "Nome": null,
+        "Tipo": null,
+        "Carga_Horária": "h"
+    },
+    {
+        "Código": null,
+        "Nome": null,
+        "Tipo": null,
+        "Carga_Horária": "h"
+    },
+    {
+        "Código": null,
+        "Nome": null,
+        "Tipo": null,
+        "Carga_Horária": "h"
+    },
+    {
+        "Código": null,
+        "Nome": null,
+        "Tipo": null,
+        "Carga_Horária": "h"
+    },
+    {
+        "Código": null,
+        "Nome": null,
+        "Tipo": null,
+        "Carga_Horária": "h"
+    },
+    {
+        "Código": null,
+        "Nome": null,
+        "Tipo": null,
+        "Carga_Horária": "h"
+    },
+    {
+        "Código": null,
+        "Nome": null,
+        "Tipo": null,
+        "Carga_Horária": "h"
+    },
+    {
+        "Código": null,
+        "Nome": null,
+        "Tipo": null,
+        "Carga_Horária": "h"
+    },
+    {
+        "Código": null,
+        "Nome": null,
+        "Tipo": null,
+        "Carga_Horária": "h"
+    },
+    {
+        "Código": null,
+        "Nome": null,
+        "Tipo": null,
+        "Carga_Horária": "h"
+    },
+    {
+        "Código": null,
+        "Nome": null,
+        "Tipo": null,
+        "Carga_Horária": "h"
+    },
+    {
+        "Código": null,
+        "Nome": null,
+        "Tipo": null,
+        "Carga_Horária": "h"
+    },
+    {
+        "Código": null,
+        "Nome": null,
+        "Tipo": null,
+        "Carga_Horária": "h"
+    },
+    {
+        "Código": null,
+        "Nome": null,
+        "Tipo": null,
+        "Carga_Horária": "h"
+    },
+    {
+        "Código": null,
+        "Nome": null,
+        "Tipo": null,
+        "Carga_Horária": "h"
+    },
+    {
+        "Código": null,
+        "Nome": null,
+        "Tipo": null,
+        "Carga_Horária": "h"
+    },
+    {
+        "Código": null,
+        "Nome": null,
+        "Tipo": null,
+        "Carga_Horária": "h"
+    },
+    {
+        "Código": null,
+        "Nome": null,
+        "Tipo": null,
+        "Carga_Horária": "h"
+    },
+    {
+        "Código": null,
+        "Nome": null,
+        "Tipo": null,
+        "Carga_Horária": "h"
+    },
+    {
+        "Código": null,
+        "Nome": null,
+        "Tipo": null,
+        "Carga_Horária": "h"
+    },
+    {
+        "Código": null,
+        "Nome": null,
+        "Tipo": null,
+        "Carga_Horária": "h"
+    },
+    {
+        "Código": null,
+        "Nome": null,
+        "Tipo": null,
+        "Carga_Horária": "h"
+    },
+    {
+        "Código": null,
+        "Nome": null,
+        "Tipo": null,
+        "Carga_Horária": "h"
+    }
+]

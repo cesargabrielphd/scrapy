@@ -1,0 +1,1256 @@
+[
+    {
+        "Código": "ENE0233",
+        "Nome": "ACIONAMENTOS INDUSTRIAIS",
+        "Tipo": "DISCIPLINA",
+        "Carga_Horária": "75h"
+    },
+    {
+        "Código": "ENE0013",
+        "Nome": "ALGORITMOS E ESTRUTURA DE DADOS",
+        "Tipo": "DISCIPLINA",
+        "Carga_Horária": "60h"
+    },
+    {
+        "Código": "ENE0228",
+        "Nome": "ANALISE DE SISTEMAS DE POTENCIA",
+        "Tipo": "DISCIPLINA",
+        "Carga_Horária": "60h"
+    },
+    {
+        "Código": "ENE0085",
+        "Nome": "ANÁLISE DINÂMICA  LINEAR",
+        "Tipo": "DISCIPLINA",
+        "Carga_Horária": "90h"
+    },
+    {
+        "Código": "ENE0035",
+        "Nome": "ANÁLISE DINÂMICA LINEAR",
+        "Tipo": "DISCIPLINA",
+        "Carga_Horária": "60h"
+    },
+    {
+        "Código": "ENE0194",
+        "Nome": "ANTENAS",
+        "Tipo": "DISCIPLINA",
+        "Carga_Horária": "60h"
+    },
+    {
+        "Código": "ENE0201",
+        "Nome": "ANTENAS 2",
+        "Tipo": "DISCIPLINA",
+        "Carga_Horária": "90h"
+    },
+    {
+        "Código": "ENE0353",
+        "Nome": "ANTENAS EM REDES DE COMUNICAÇÕES",
+        "Tipo": "DISCIPLINA",
+        "Carga_Horária": "60h"
+    },
+    {
+        "Código": "ENE0331",
+        "Nome": "ANTENAS - TEORIA E PRATICA",
+        "Tipo": "DISCIPLINA",
+        "Carga_Horária": "90h"
+    },
+    {
+        "Código": "ENE0055",
+        "Nome": "ARQUITETURA DE PROCESSADORES DIGITAIS",
+        "Tipo": "DISCIPLINA",
+        "Carga_Horária": "60h"
+    },
+    {
+        "Código": "ENE0245",
+        "Nome": "ARQUITETURA DE PROCESSADORES DIGITAIS",
+        "Tipo": "DISCIPLINA",
+        "Carga_Horária": "90h"
+    },
+    {
+        "Código": "ENE0009",
+        "Nome": "ARQUITETURA E PROTOCOLOS DE REDES",
+        "Tipo": "DISCIPLINA",
+        "Carga_Horária": "60h"
+    },
+    {
+        "Código": "ENE0237",
+        "Nome": "ARQUITETURA E PROTOCOLOS DE REDES",
+        "Tipo": "DISCIPLINA",
+        "Carga_Horária": "90h"
+    },
+    {
+        "Código": "ENE0017",
+        "Nome": "AVALIAÇÃO DE DESEMPENHO DE REDES E SISTEMAS",
+        "Tipo": "DISCIPLINA",
+        "Carga_Horária": "60h"
+    },
+    {
+        "Código": "ENE0089",
+        "Nome": "CABEAMENTO ESTRUTURADO",
+        "Tipo": "DISCIPLINA",
+        "Carga_Horária": "60h"
+    },
+    {
+        "Código": "ENE0075",
+        "Nome": "CARACTERIZAÇÃO DE MATERIAIS E DISPOSITIVOS SEMICONDUTORES",
+        "Tipo": "DISCIPLINA",
+        "Carga_Horária": "60h"
+    },
+    {
+        "Código": "ENE0162",
+        "Nome": "CIRCUITOS DE ELETRONICA DIGITAL",
+        "Tipo": "DISCIPLINA",
+        "Carga_Horária": "60h"
+    },
+    {
+        "Código": "ENE0214",
+        "Nome": "CIRCUITOS DE ELETRONICA LINEAR",
+        "Tipo": "DISCIPLINA",
+        "Carga_Horária": "90h"
+    },
+    {
+        "Código": "ENE0215",
+        "Nome": "CIRCUITOS DE ELETRONICA NAO-LINEAR",
+        "Tipo": "DISCIPLINA",
+        "Carga_Horária": "90h"
+    },
+    {
+        "Código": "ENE0199",
+        "Nome": "CIRCUITOS DE RADIOFREQUÊNCIA",
+        "Tipo": "DISCIPLINA",
+        "Carga_Horária": "60h"
+    },
+    {
+        "Código": "ENE0304",
+        "Nome": "CIRCUITOS ELÉTRICOS",
+        "Tipo": "DISCIPLINA",
+        "Carga_Horária": "60h"
+    },
+    {
+        "Código": "ENE0172",
+        "Nome": "CIRCUITOS ELETRICOS 1",
+        "Tipo": "DISCIPLINA",
+        "Carga_Horária": "90h"
+    },
+    {
+        "Código": "ENE0042",
+        "Nome": "CIRCUITOS ELÉTRICOS 1",
+        "Tipo": "DISCIPLINA",
+        "Carga_Horária": "60h"
+    },
+    {
+        "Código": "ENE0174",
+        "Nome": "CIRCUITOS ELETRICOS 2",
+        "Tipo": "DISCIPLINA",
+        "Carga_Horária": "90h"
+    },
+    {
+        "Código": "ENE0037",
+        "Nome": "CIRCUITOS ELÉTRICOS 2",
+        "Tipo": "DISCIPLINA",
+        "Carga_Horária": "60h"
+    },
+    {
+        "Código": "ENE0313",
+        "Nome": "CIRCUITOS ELETRICOS APLICADOS",
+        "Tipo": "DISCIPLINA",
+        "Carga_Horária": "90h"
+    },
+    {
+        "Código": "ENE0289",
+        "Nome": "CIRCUITOS POLIFASICOS",
+        "Tipo": "DISCIPLINA",
+        "Carga_Horária": "60h"
+    },
+    {
+        "Código": "ENE0334",
+        "Nome": "COMPUTACAO PARA ENGENHARIA",
+        "Tipo": "DISCIPLINA",
+        "Carga_Horária": "60h"
+    },
+    {
+        "Código": "ENE0262",
+        "Nome": "COMUNICAÇÕES DIGITAIS",
+        "Tipo": "DISCIPLINA",
+        "Carga_Horária": "60h"
+    },
+    {
+        "Código": "ENE0344",
+        "Nome": "COMUNICAÇÕES MÓVEIS",
+        "Tipo": "DISCIPLINA",
+        "Carga_Horária": "60h"
+    },
+    {
+        "Código": "ENE0329",
+        "Nome": "COMUNICACOES OPTICAS",
+        "Tipo": "DISCIPLINA",
+        "Carga_Horária": "60h"
+    },
+    {
+        "Código": "ENE0081",
+        "Nome": "COMUNICAÇÕES VIA SATÉLITE",
+        "Tipo": "DISCIPLINA",
+        "Carga_Horária": "60h"
+    },
+    {
+        "Código": "ENE0003",
+        "Nome": "CONTROLE ADAPTATIVO",
+        "Tipo": "DISCIPLINA",
+        "Carga_Horária": "60h"
+    },
+    {
+        "Código": "ENE0004",
+        "Nome": "CONTROLE DE PROCESSOS",
+        "Tipo": "DISCIPLINA",
+        "Carga_Horária": "60h"
+    },
+    {
+        "Código": "ENE0077",
+        "Nome": "CONTROLE DE SISTEMAS DINÂMICOS",
+        "Tipo": "DISCIPLINA",
+        "Carga_Horária": "60h"
+    },
+    {
+        "Código": "ENE0167",
+        "Nome": "CONTROLE DIGITAL",
+        "Tipo": "DISCIPLINA",
+        "Carga_Horária": "60h"
+    },
+    {
+        "Código": "ENE0051",
+        "Nome": "CONTROLE DINÂMICO",
+        "Tipo": "DISCIPLINA",
+        "Carga_Horária": "60h"
+    },
+    {
+        "Código": "ENE0084",
+        "Nome": "CONTROLE DINÂMICO",
+        "Tipo": "DISCIPLINA",
+        "Carga_Horária": "90h"
+    },
+    {
+        "Código": "ENE0319",
+        "Nome": "CONTROLE LINEAR",
+        "Tipo": "DISCIPLINA",
+        "Carga_Horária": "60h"
+    },
+    {
+        "Código": "ENE0165",
+        "Nome": "CONTROLE NAO LINEAR",
+        "Tipo": "DISCIPLINA",
+        "Carga_Horária": "60h"
+    },
+    {
+        "Código": "ENE0079",
+        "Nome": "CONTROLE NO ESPAÇO DE ESTADOS",
+        "Tipo": "DISCIPLINA",
+        "Carga_Horária": "60h"
+    },
+    {
+        "Código": "ENE0240",
+        "Nome": "CONTROLE PARA AUTOMAÇÃO",
+        "Tipo": "DISCIPLINA",
+        "Carga_Horária": "60h"
+    },
+    {
+        "Código": "ENE0186",
+        "Nome": "CONVERSÃO DE ENERGIA E MÁQUINAS ELÉTRICAS",
+        "Tipo": "DISCIPLINA",
+        "Carga_Horária": "60h"
+    },
+    {
+        "Código": "ENE0469",
+        "Nome": "CONVERSÃO DE ENERGIA E MÁQUINAS ELÉTRICAS",
+        "Tipo": "DISCIPLINA",
+        "Carga_Horária": "60h"
+    },
+    {
+        "Código": "ENE0130",
+        "Nome": "CONVERSÃO ELETROMECÂNICA DE ENERGIA",
+        "Tipo": "DISCIPLINA",
+        "Carga_Horária": "90h"
+    },
+    {
+        "Código": "ENE0047",
+        "Nome": "CONVERSÃO ELETROMECÂNICA DE ENERGIA",
+        "Tipo": "DISCIPLINA",
+        "Carga_Horária": "60h"
+    },
+    {
+        "Código": "ENE0027",
+        "Nome": "DISPOSITIVOS E CIRCUITOS ELETRÔNICOS",
+        "Tipo": "DISCIPLINA",
+        "Carga_Horária": "60h"
+    },
+    {
+        "Código": "ENE0340",
+        "Nome": "DISPOSITIVOS E CIRCUITOS ELETRÔNICOS",
+        "Tipo": "DISCIPLINA",
+        "Carga_Horária": "90h"
+    },
+    {
+        "Código": "ENE0212",
+        "Nome": "DISPOSITIVOS ELETRONICOS",
+        "Tipo": "DISCIPLINA",
+        "Carga_Horária": "90h"
+    },
+    {
+        "Código": "ENE0254",
+        "Nome": "DISTRIBUICAO DE ENERGIA ELETRICA",
+        "Tipo": "DISCIPLINA",
+        "Carga_Horária": "60h"
+    },
+    {
+        "Código": "ENE0243",
+        "Nome": "ELETRICIDADE",
+        "Tipo": "DISCIPLINA",
+        "Carga_Horária": "90h"
+    },
+    {
+        "Código": "ENE0001",
+        "Nome": "ELETRICIDADE BÁSICA",
+        "Tipo": "DISCIPLINA",
+        "Carga_Horária": "60h"
+    },
+    {
+        "Código": "ENE0310",
+        "Nome": "ELETROMAGNETISMO",
+        "Tipo": "DISCIPLINA",
+        "Carga_Horária": "60h"
+    },
+    {
+        "Código": "ENE0177",
+        "Nome": "ELETROMAGNETISMO 1",
+        "Tipo": "DISCIPLINA",
+        "Carga_Horária": "60h"
+    },
+    {
+        "Código": "ENE0053",
+        "Nome": "ELETROMAGNETISMO 2",
+        "Tipo": "DISCIPLINA",
+        "Carga_Horária": "60h"
+    },
+    {
+        "Código": "ENE0179",
+        "Nome": "ELETROMAGNETISMO 2",
+        "Tipo": "DISCIPLINA",
+        "Carga_Horária": "90h"
+    },
+    {
+        "Código": "ENE0284",
+        "Nome": "ELETROMAGNETISMO APLICADO",
+        "Tipo": "DISCIPLINA",
+        "Carga_Horária": "60h"
+    },
+    {
+        "Código": "ENE0275",
+        "Nome": "ELETROMAGNETISMO GERAL",
+        "Tipo": "DISCIPLINA",
+        "Carga_Horária": "90h"
+    },
+    {
+        "Código": "ENE0045",
+        "Nome": "ELETRÔNICA",
+        "Tipo": "DISCIPLINA",
+        "Carga_Horária": "60h"
+    },
+    {
+        "Código": "ENE0181",
+        "Nome": "ELETRONICA 1",
+        "Tipo": "DISCIPLINA",
+        "Carga_Horária": "90h"
+    },
+    {
+        "Código": "ENE0302",
+        "Nome": "ELETRONICA 1",
+        "Tipo": "DISCIPLINA",
+        "Carga_Horária": "60h"
+    },
+    {
+        "Código": "ENE0314",
+        "Nome": "ELETRONICA 2",
+        "Tipo": "DISCIPLINA",
+        "Carga_Horária": "60h"
+    },
+    {
+        "Código": "ENE0183",
+        "Nome": "ELETRONICA 2",
+        "Tipo": "DISCIPLINA",
+        "Carga_Horária": "90h"
+    },
+    {
+        "Código": "ENE0059",
+        "Nome": "ELETRÔNICA 2",
+        "Tipo": "DISCIPLINA",
+        "Carga_Horária": "60h"
+    },
+    {
+        "Código": "ENE0326",
+        "Nome": "ELETRÔNICA DE POTÊNCIA",
+        "Tipo": "DISCIPLINA",
+        "Carga_Horária": "60h"
+    },
+    {
+        "Código": "ENE0221",
+        "Nome": "ELETRONICA INDUSTRIAL",
+        "Tipo": "DISCIPLINA",
+        "Carga_Horária": "90h"
+    },
+    {
+        "Código": "ENE0134",
+        "Nome": "ELETROTECNICA APLICADA",
+        "Tipo": "DISCIPLINA",
+        "Carga_Horária": "90h"
+    },
+    {
+        "Código": "ENE0459",
+        "Nome": "ENGENHARIA E MUDANÇAS CLIMÁTICAS",
+        "Tipo": "DISCIPLINA",
+        "Carga_Horária": "30h"
+    },
+    {
+        "Código": "ENE0063",
+        "Nome": "ESTÁGIO SUPERVISIONADO EM ENGENHARIA DE REDES DE COMUNICAÇÃO",
+        "Tipo": "DISCIPLINA",
+        "Carga_Horária": "180h"
+    },
+    {
+        "Código": "ENE0070",
+        "Nome": "ESTÁGIO SUPERVISIONADO EM ENGENHARIA ELÉTRICA",
+        "Tipo": "DISCIPLINA",
+        "Carga_Horária": "180h"
+    },
+    {
+        "Código": "ENE0166",
+        "Nome": "FILTROS ELETRICOS",
+        "Tipo": "DISCIPLINA",
+        "Carga_Horária": "60h"
+    },
+    {
+        "Código": "ENE0238",
+        "Nome": "FOTÔNICA BÁSICA",
+        "Tipo": "DISCIPLINA",
+        "Carga_Horária": "60h"
+    },
+    {
+        "Código": "ENE0076",
+        "Nome": "FUNDAMENTOS DE COMPRESSÃO DE SINAIS",
+        "Tipo": "DISCIPLINA",
+        "Carga_Horária": "60h"
+    },
+    {
+        "Código": "ENE0141",
+        "Nome": "FUNDAMENTOS DE ELETROTÉCNICA",
+        "Tipo": "DISCIPLINA",
+        "Carga_Horária": "30h"
+    },
+    {
+        "Código": "ENE0274",
+        "Nome": "FUNDAMENTOS DE REDES",
+        "Tipo": "DISCIPLINA",
+        "Carga_Horária": "60h"
+    },
+    {
+        "Código": "ENE0015",
+        "Nome": "FUNDAMENTOS DE REDES 2",
+        "Tipo": "DISCIPLINA",
+        "Carga_Horária": "60h"
+    },
+    {
+        "Código": "ENE0230",
+        "Nome": "GERACAO DE ENERGIA ELETRICA",
+        "Tipo": "DISCIPLINA",
+        "Carga_Horária": "60h"
+    },
+    {
+        "Código": "ENE0257",
+        "Nome": "GERACAO HIDRELETRICA",
+        "Tipo": "DISCIPLINA",
+        "Carga_Horária": "60h"
+    },
+    {
+        "Código": "ENE0016",
+        "Nome": "GERÊNCIA DE REDES E SISTEMAS",
+        "Tipo": "DISCIPLINA",
+        "Carga_Horária": "60h"
+    },
+    {
+        "Código": "ENE0260",
+        "Nome": "IDENTIFICAÇÃO DE SISTEMAS DINÂMICOS",
+        "Tipo": "DISCIPLINA",
+        "Carga_Horária": "60h"
+    },
+    {
+        "Código": "ENE0065",
+        "Nome": "IMAGENS MÉDICAS: AQUISIÇÃO E RECONSTRUÇÃO",
+        "Tipo": "DISCIPLINA",
+        "Carga_Horária": "60h"
+    },
+    {
+        "Código": "ENE0229",
+        "Nome": "INSTALAÇÕES ELETRICAS",
+        "Tipo": "DISCIPLINA",
+        "Carga_Horária": "90h"
+    },
+    {
+        "Código": "ENE0071",
+        "Nome": "INSTALAÇÕES ELÉTRICAS",
+        "Tipo": "DISCIPLINA",
+        "Carga_Horária": "60h"
+    },
+    {
+        "Código": "ENE0336",
+        "Nome": "INSTALACOES ELETRICAS INDUSTRIAIS",
+        "Tipo": "DISCIPLINA",
+        "Carga_Horária": "90h"
+    },
+    {
+        "Código": "ENE0220",
+        "Nome": "INSTRUMENTACAO DE CONTROLE",
+        "Tipo": "DISCIPLINA",
+        "Carga_Horária": "60h"
+    },
+    {
+        "Código": "ENE0005",
+        "Nome": "INSTRUMENTAÇÃO DE CONTROLE DE PROCESSOS",
+        "Tipo": "DISCIPLINA",
+        "Carga_Horária": "60h"
+    },
+    {
+        "Código": "ENE0355",
+        "Nome": "INSTRUMENTAÇÃO ELETRÔNICA E SENSORES",
+        "Tipo": "DISCIPLINA",
+        "Carga_Horária": "60h"
+    },
+    {
+        "Código": "ENE0154",
+        "Nome": "INTELIGÊNCIA COMPUTACIONAL",
+        "Tipo": "DISCIPLINA",
+        "Carga_Horária": "60h"
+    },
+    {
+        "Código": "ENE0026",
+        "Nome": "INTRODUÇÃO A ENGENHARIA DE REDES DE COMUNICACÃO",
+        "Tipo": "DISCIPLINA",
+        "Carga_Horária": "30h"
+    },
+    {
+        "Código": "ENE0454",
+        "Nome": "INTRODUÇÃO À ENGENHARIA DE REDES DE COMUNICAÇÃO",
+        "Tipo": "DISCIPLINA",
+        "Carga_Horária": "30h"
+    },
+    {
+        "Código": "ENE0155",
+        "Nome": "INTRODUCAO A ENGENHARIA ELETRICA",
+        "Tipo": "DISCIPLINA",
+        "Carga_Horária": "30h"
+    },
+    {
+        "Código": "ENE0258",
+        "Nome": "INTRODUCAO A IDENTIFICACAO DE PROCESSOS",
+        "Tipo": "DISCIPLINA",
+        "Carga_Horária": "90h"
+    },
+    {
+        "Código": "ENE0168",
+        "Nome": "INTRODUCAO AO CONTROLE OTIMO",
+        "Tipo": "DISCIPLINA",
+        "Carga_Horária": "60h"
+    },
+    {
+        "Código": "ENE0321",
+        "Nome": "INTRODUCAO AO PROJETO DE CIRCUITOS INTEGRADOS",
+        "Tipo": "DISCIPLINA",
+        "Carga_Horária": "90h"
+    },
+    {
+        "Código": "ENE0066",
+        "Nome": "INTRODUÇÃO AOS CIRCUITOS ELÉTRICOS",
+        "Tipo": "DISCIPLINA",
+        "Carga_Horária": "30h"
+    },
+    {
+        "Código": "ENE0323",
+        "Nome": "INTRODUCAO A ROBOTICA",
+        "Tipo": "DISCIPLINA",
+        "Carga_Horária": "60h"
+    },
+    {
+        "Código": "ENE0303",
+        "Nome": "INTRODUCAO A TEORIA ELETROMAGNETICA",
+        "Tipo": "DISCIPLINA",
+        "Carga_Horária": "60h"
+    },
+    {
+        "Código": "ENE0036",
+        "Nome": "LABORATÓRIO DE ANÁLISE DINÂMICA LINEAR",
+        "Tipo": "DISCIPLINA",
+        "Carga_Horária": "30h"
+    },
+    {
+        "Código": "ENE0057",
+        "Nome": "LABORATÓRIO DE ARQUITETURA DE PROCESSADORES DIGITAIS",
+        "Tipo": "DISCIPLINA",
+        "Carga_Horária": "30h"
+    },
+    {
+        "Código": "ENE0010",
+        "Nome": "LABORATÓRIO DE ARQUITETURA E PROTOCOLOS DE REDES",
+        "Tipo": "DISCIPLINA",
+        "Carga_Horária": "30h"
+    },
+    {
+        "Código": "ENE0282",
+        "Nome": "LABORATÓRIO DE CIRCUITOS ELÉTRICOS",
+        "Tipo": "DISCIPLINA",
+        "Carga_Horária": "30h"
+    },
+    {
+        "Código": "ENE0044",
+        "Nome": "LABORATÓRIO DE CIRCUITOS ELÉTRICOS 1",
+        "Tipo": "DISCIPLINA",
+        "Carga_Horária": "30h"
+    },
+    {
+        "Código": "ENE0038",
+        "Nome": "LABORATÓRIO DE CIRCUITOS ELÉTRICOS 2",
+        "Tipo": "DISCIPLINA",
+        "Carga_Horária": "30h"
+    },
+    {
+        "Código": "ENE0290",
+        "Nome": "LABORATORIO DE CONTROLE",
+        "Tipo": "DISCIPLINA",
+        "Carga_Horária": "60h"
+    },
+    {
+        "Código": "ENE0006",
+        "Nome": "LABORATÓRIO DE CONTROLE DE PROCESSOS",
+        "Tipo": "DISCIPLINA",
+        "Carga_Horária": "30h"
+    },
+    {
+        "Código": "ENE0078",
+        "Nome": "LABORATÓRIO DE CONTROLE DE SISTEMAS DINÂMICOS",
+        "Tipo": "DISCIPLINA",
+        "Carga_Horária": "30h"
+    },
+    {
+        "Código": "ENE0052",
+        "Nome": "LABORATÓRIO DE CONTROLE DINÂMICO",
+        "Tipo": "DISCIPLINA",
+        "Carga_Horária": "30h"
+    },
+    {
+        "Código": "ENE0288",
+        "Nome": "LABORATORIO DE CONVERSAO DE ENERGIA",
+        "Tipo": "DISCIPLINA",
+        "Carga_Horária": "60h"
+    },
+    {
+        "Código": "ENE0074",
+        "Nome": "LABORATÓRIO DE CONVERSÃO DE ENERGIA",
+        "Tipo": "DISCIPLINA",
+        "Carga_Horária": "30h"
+    },
+    {
+        "Código": "ENE0048",
+        "Nome": "LABORATÓRIO DE CONVERSÃO ELETROMECÂNICA DE ENERGIA",
+        "Tipo": "DISCIPLINA",
+        "Carga_Horária": "30h"
+    },
+    {
+        "Código": "ENE0028",
+        "Nome": "LABORATÓRIO DE DISPOSITIVOS E CIRCUITOS ELETRÔNICOS",
+        "Tipo": "DISCIPLINA",
+        "Carga_Horária": "30h"
+    },
+    {
+        "Código": "ENE0002",
+        "Nome": "LABORATÓRIO DE ELETRICIDADE BÁSICA",
+        "Tipo": "DISCIPLINA",
+        "Carga_Horária": "30h"
+    },
+    {
+        "Código": "ENE0283",
+        "Nome": "LABORATORIO DE ELETROMAGNETISMO",
+        "Tipo": "DISCIPLINA",
+        "Carga_Horária": "30h"
+    },
+    {
+        "Código": "ENE0054",
+        "Nome": "LABORATÓRIO DE ELETROMAGNETISMO 2",
+        "Tipo": "DISCIPLINA",
+        "Carga_Horária": "30h"
+    },
+    {
+        "Código": "ENE0287",
+        "Nome": "LABORATORIO DE ELETRONICA",
+        "Tipo": "DISCIPLINA",
+        "Carga_Horária": "60h"
+    },
+    {
+        "Código": "ENE0046",
+        "Nome": "LABORATÓRIO DE ELETRÔNICA",
+        "Tipo": "DISCIPLINA",
+        "Carga_Horária": "30h"
+    },
+    {
+        "Código": "ENE0060",
+        "Nome": "LABORATÓRIO DE ELETRÔNICA 2",
+        "Tipo": "DISCIPLINA",
+        "Carga_Horária": "30h"
+    },
+    {
+        "Código": "ENE0080",
+        "Nome": "LABORATÓRIO DE ELETRÔNICA DE POTÊNCIA",
+        "Tipo": "DISCIPLINA",
+        "Carga_Horária": "30h"
+    },
+    {
+        "Código": "ENE0072",
+        "Nome": "LABORATÓRIO DE INSTALAÇÕES ELÉTRICAS",
+        "Tipo": "DISCIPLINA",
+        "Carga_Horária": "30h"
+    },
+    {
+        "Código": "ENE0442",
+        "Nome": "LABORATÓRIO DE INSTALAÇÕES ELÉTRICAS",
+        "Tipo": "DISCIPLINA",
+        "Carga_Horária": "30h"
+    },
+    {
+        "Código": "ENE0050",
+        "Nome": "LABORATÓRIO DE MATERIAIS ELÉTRICOS E MAGNÉTICOS",
+        "Tipo": "DISCIPLINA",
+        "Carga_Horária": "30h"
+    },
+    {
+        "Código": "ENE0295",
+        "Nome": "LABORATÓRIO DE PRINCÍPIOS DE COMUNICAÇÃO",
+        "Tipo": "DISCIPLINA",
+        "Carga_Horária": "30h"
+    },
+    {
+        "Código": "ENE0011",
+        "Nome": "LABORATÓRIO DE REDES",
+        "Tipo": "DISCIPLINA",
+        "Carga_Horária": "30h"
+    },
+    {
+        "Código": "ENE0008",
+        "Nome": "LABORATÓRIO DE REDES DE TELECOMUNICAÇÕES",
+        "Tipo": "DISCIPLINA",
+        "Carga_Horária": "30h"
+    },
+    {
+        "Código": "ENE0291",
+        "Nome": "LABORATORIO DE SISTEMAS DIGITAIS",
+        "Tipo": "DISCIPLINA",
+        "Carga_Horária": "30h"
+    },
+    {
+        "Código": "ENE0040",
+        "Nome": "LABORATÓRIO DE SISTEMAS DIGITAIS",
+        "Tipo": "DISCIPLINA",
+        "Carga_Horária": "30h"
+    },
+    {
+        "Código": "ENE0034",
+        "Nome": "LABORATÓRIO DE SISTEMAS DIGITAIS 2",
+        "Tipo": "DISCIPLINA",
+        "Carga_Horária": "30h"
+    },
+    {
+        "Código": "ENE0073",
+        "Nome": "LABORATÓRIO DE SISTEMAS ELÉTRICOS DE POTÊNCIA",
+        "Tipo": "DISCIPLINA",
+        "Carga_Horária": "30h"
+    },
+    {
+        "Código": "ENE0440",
+        "Nome": "LABORATÓRIO DE SISTEMAS MICROPROCESSADOS",
+        "Tipo": "DISCIPLINA",
+        "Carga_Horária": "30h"
+    },
+    {
+        "Código": "ENE0058",
+        "Nome": "LABORATÓRIO DE SISTEMAS MICROPROCESSADOS",
+        "Tipo": "DISCIPLINA",
+        "Carga_Horária": "30h"
+    },
+    {
+        "Código": "ENE0294",
+        "Nome": "LABORATORIO DE TELECOMUNICACOES",
+        "Tipo": "DISCIPLINA",
+        "Carga_Horária": "30h"
+    },
+    {
+        "Código": "ENE0317",
+        "Nome": "MÁQUINAS ELÉTRICAS 2",
+        "Tipo": "DISCIPLINA",
+        "Carga_Horária": "60h"
+    },
+    {
+        "Código": "ENE0184",
+        "Nome": "MATERIAIS ELETRICOS E MAGNETICOS",
+        "Tipo": "DISCIPLINA",
+        "Carga_Horária": "90h"
+    },
+    {
+        "Código": "ENE0049",
+        "Nome": "MATERIAIS ELÉTRICOS E MAGNÉTICOS",
+        "Tipo": "DISCIPLINA",
+        "Carga_Horária": "60h"
+    },
+    {
+        "Código": "ENE0276",
+        "Nome": "METODOLOGIA E DESENVOLVIMENTO DE SOFTWARE",
+        "Tipo": "DISCIPLINA",
+        "Carga_Horária": "60h"
+    },
+    {
+        "Código": "ENE0200",
+        "Nome": "MICROONDAS 2",
+        "Tipo": "DISCIPLINA",
+        "Carga_Horária": "90h"
+    },
+    {
+        "Código": "ENE0082",
+        "Nome": "NOÇÕES DE INTELIGÊNCIA ARTIFICIAL",
+        "Tipo": "DISCIPLINA",
+        "Carga_Horária": "60h"
+    },
+    {
+        "Código": "ENE0087",
+        "Nome": "OPERAÇÃO E ADMINISTRAÇÃO DE REDES",
+        "Tipo": "DISCIPLINA",
+        "Carga_Horária": "90h"
+    },
+    {
+        "Código": "ENE0014",
+        "Nome": "PLANEJAMENTO DE REDES SEM FIO",
+        "Tipo": "DISCIPLINA",
+        "Carga_Horária": "60h"
+    },
+    {
+        "Código": "ENE0273",
+        "Nome": "PLANEJAMENTO ENERGETICO",
+        "Tipo": "DISCIPLINA",
+        "Carga_Horária": "60h"
+    },
+    {
+        "Código": "ENE0306",
+        "Nome": "PRINCÍPIOS DE COMUNICAÇÃO",
+        "Tipo": "DISCIPLINA",
+        "Carga_Horária": "60h"
+    },
+    {
+        "Código": "ENE0345",
+        "Nome": "PRINCÍPIOS DE CONTROLE DE ROBÔS",
+        "Tipo": "DISCIPLINA",
+        "Carga_Horária": "60h"
+    },
+    {
+        "Código": "ENE0209",
+        "Nome": "PROCESSAMENTO DIGITAL DE IMAGENS",
+        "Tipo": "DISCIPLINA",
+        "Carga_Horária": "60h"
+    },
+    {
+        "Código": "ENE0354",
+        "Nome": "PROJETO FINAL DE GRADUAÇÃO 1",
+        "Tipo": "DISCIPLINA",
+        "Carga_Horária": "30h"
+    },
+    {
+        "Código": "ENE0342",
+        "Nome": "PROJETO FINAL DE GRADUAÇÃO 1",
+        "Tipo": "DISCIPLINA",
+        "Carga_Horária": "30h"
+    },
+    {
+        "Código": "ENE0343",
+        "Nome": "PROJETO FINAL DE GRADUAÇÃO 2",
+        "Tipo": "DISCIPLINA",
+        "Carga_Horária": "90h"
+    },
+    {
+        "Código": "ENE0450",
+        "Nome": "PROJETO INTEGRADOR DE FUNDAMENTOS",
+        "Tipo": "DISCIPLINA",
+        "Carga_Horária": "60h"
+    },
+    {
+        "Código": "ENE0438",
+        "Nome": "PROJETO INTEGRADOR DE TECNOLOGIAS",
+        "Tipo": "DISCIPLINA",
+        "Carga_Horária": "60h"
+    },
+    {
+        "Código": "ENE0456",
+        "Nome": "PROJETO INTEGRADOR EM REDES DE COMUNICAÇÃO",
+        "Tipo": "DISCIPLINA",
+        "Carga_Horária": "60h"
+    },
+    {
+        "Código": "ENE0022",
+        "Nome": "PROJETO TRANSVERSAL EM REDES DE COMUNICAÇÃO 1",
+        "Tipo": "DISCIPLINA",
+        "Carga_Horária": "60h"
+    },
+    {
+        "Código": "ENE0024",
+        "Nome": "PROJETO TRANSVERSAL EM REDES DE COMUNICAÇÃO 2",
+        "Tipo": "DISCIPLINA",
+        "Carga_Horária": "60h"
+    },
+    {
+        "Código": "ENE0195",
+        "Nome": "PROPAGACAO DE ONDAS ELETROMAGNETICAS",
+        "Tipo": "DISCIPLINA",
+        "Carga_Horária": "60h"
+    },
+    {
+        "Código": "ENE0235",
+        "Nome": "PROTECAO DE SISTEMAS ELETRICOS",
+        "Tipo": "DISCIPLINA",
+        "Carga_Horária": "60h"
+    },
+    {
+        "Código": "ENE0025",
+        "Nome": "PROTOCOLOS DE TRANSPORTE E ROTEAMENTO",
+        "Tipo": "DISCIPLINA",
+        "Carga_Horária": "60h"
+    },
+    {
+        "Código": "ENE0341",
+        "Nome": "QUALIDADE DE ENÉRGIA ELÉTRICA",
+        "Tipo": "DISCIPLINA",
+        "Carga_Horária": "60h"
+    },
+    {
+        "Código": "ENE0207",
+        "Nome": "RADIODIFUSAO",
+        "Tipo": "DISCIPLINA",
+        "Carga_Horária": "60h"
+    },
+    {
+        "Código": "ENE0333",
+        "Nome": "REDES DE COMUNICACAO DE DADOS",
+        "Tipo": "DISCIPLINA",
+        "Carga_Horária": "60h"
+    },
+    {
+        "Código": "ENE0007",
+        "Nome": "REDES DE TELECOMUNICAÇÕES",
+        "Tipo": "DISCIPLINA",
+        "Carga_Horária": "60h"
+    },
+    {
+        "Código": "ENE0083",
+        "Nome": "REDES DE TELECOMUNICAÇÕES 1",
+        "Tipo": "DISCIPLINA",
+        "Carga_Horária": "90h"
+    },
+    {
+        "Código": "ENE0086",
+        "Nome": "REDES DE TELECOMUNICAÇÕES 2",
+        "Tipo": "DISCIPLINA",
+        "Carga_Horária": "60h"
+    },
+    {
+        "Código": "ENE0352",
+        "Nome": "REDES LOCAIS",
+        "Tipo": "DISCIPLINA",
+        "Carga_Horária": "60h"
+    },
+    {
+        "Código": "ENE0064",
+        "Nome": "REDES SEM FIO",
+        "Tipo": "DISCIPLINA",
+        "Carga_Horária": "60h"
+    },
+    {
+        "Código": "ENE0090",
+        "Nome": "SEGURANÇA DE REDES",
+        "Tipo": "DISCIPLINA",
+        "Carga_Horária": "60h"
+    },
+    {
+        "Código": "ENE0163",
+        "Nome": "SINAIS E SISTEMAS DISCRETOS NO TEMPO",
+        "Tipo": "DISCIPLINA",
+        "Carga_Horária": "60h"
+    },
+    {
+        "Código": "ENE0067",
+        "Nome": "SINAIS E SISTEMAS EM TEMPO CONTÍNUO",
+        "Tipo": "DISCIPLINA",
+        "Carga_Horária": "60h"
+    },
+    {
+        "Código": "ENE0068",
+        "Nome": "SINAIS E SISTEMAS EM TEMPO DISCRETO",
+        "Tipo": "DISCIPLINA",
+        "Carga_Horária": "60h"
+    },
+    {
+        "Código": "ENE0223",
+        "Nome": "SISTEMAS DE ÁUDIO",
+        "Tipo": "DISCIPLINA",
+        "Carga_Horária": "60h"
+    },
+    {
+        "Código": "ENE0164",
+        "Nome": "SISTEMAS DE AUDIO E VIDEO",
+        "Tipo": "DISCIPLINA",
+        "Carga_Horária": "60h"
+    },
+    {
+        "Código": "ENE0202",
+        "Nome": "SISTEMAS DE COMUNICACOES 1",
+        "Tipo": "DISCIPLINA",
+        "Carga_Horária": "60h"
+    },
+    {
+        "Código": "ENE0088",
+        "Nome": "SISTEMAS DE INFORMAÇÃO DISTRIBUÍDOS",
+        "Tipo": "DISCIPLINA",
+        "Carga_Horária": "60h"
+    },
+    {
+        "Código": "ENE0356",
+        "Nome": "SISTEMAS DE MEDIÇÃO",
+        "Tipo": "DISCIPLINA",
+        "Carga_Horária": "30h"
+    },
+    {
+        "Código": "ENE0335",
+        "Nome": "SISTEMAS DE PROGRAMACAO",
+        "Tipo": "DISCIPLINA",
+        "Carga_Horária": "60h"
+    },
+    {
+        "Código": "ENE0039",
+        "Nome": "SISTEMAS DIGITAIS",
+        "Tipo": "DISCIPLINA",
+        "Carga_Horária": "60h"
+    },
+    {
+        "Código": "ENE0320",
+        "Nome": "SISTEMAS DIGITAIS",
+        "Tipo": "DISCIPLINA",
+        "Carga_Horária": "60h"
+    },
+    {
+        "Código": "ENE0277",
+        "Nome": "SISTEMAS DIGITAIS 1",
+        "Tipo": "DISCIPLINA",
+        "Carga_Horária": "90h"
+    },
+    {
+        "Código": "ENE0029",
+        "Nome": "SISTEMAS DIGITAIS 2",
+        "Tipo": "DISCIPLINA",
+        "Carga_Horária": "60h"
+    },
+    {
+        "Código": "ENE0031",
+        "Nome": "SISTEMAS DIGITAIS 2",
+        "Tipo": "DISCIPLINA",
+        "Carga_Horária": "60h"
+    },
+    {
+        "Código": "ENE0278",
+        "Nome": "SISTEMAS DIGITAIS 2",
+        "Tipo": "DISCIPLINA",
+        "Carga_Horária": "90h"
+    },
+    {
+        "Código": "ENE0301",
+        "Nome": "SISTEMAS LINEARES",
+        "Tipo": "DISCIPLINA",
+        "Carga_Horária": "60h"
+    },
+    {
+        "Código": null,
+        "Nome": null,
+        "Tipo": null,
+        "Carga_Horária": "h"
+    },
+    {
+        "Código": null,
+        "Nome": null,
+        "Tipo": null,
+        "Carga_Horária": "h"
+    },
+    {
+        "Código": null,
+        "Nome": null,
+        "Tipo": null,
+        "Carga_Horária": "h"
+    },
+    {
+        "Código": null,
+        "Nome": null,
+        "Tipo": null,
+        "Carga_Horária": "h"
+    },
+    {
+        "Código": null,
+        "Nome": null,
+        "Tipo": null,
+        "Carga_Horária": "h"
+    },
+    {
+        "Código": null,
+        "Nome": null,
+        "Tipo": null,
+        "Carga_Horária": "h"
+    },
+    {
+        "Código": null,
+        "Nome": null,
+        "Tipo": null,
+        "Carga_Horária": "h"
+    },
+    {
+        "Código": null,
+        "Nome": null,
+        "Tipo": null,
+        "Carga_Horária": "h"
+    },
+    {
+        "Código": null,
+        "Nome": null,
+        "Tipo": null,
+        "Carga_Horária": "h"
+    },
+    {
+        "Código": null,
+        "Nome": null,
+        "Tipo": null,
+        "Carga_Horária": "h"
+    },
+    {
+        "Código": null,
+        "Nome": null,
+        "Tipo": null,
+        "Carga_Horária": "h"
+    },
+    {
+        "Código": null,
+        "Nome": null,
+        "Tipo": null,
+        "Carga_Horária": "h"
+    },
+    {
+        "Código": null,
+        "Nome": null,
+        "Tipo": null,
+        "Carga_Horária": "h"
+    },
+    {
+        "Código": null,
+        "Nome": null,
+        "Tipo": null,
+        "Carga_Horária": "h"
+    },
+    {
+        "Código": null,
+        "Nome": null,
+        "Tipo": null,
+        "Carga_Horária": "h"
+    },
+    {
+        "Código": null,
+        "Nome": null,
+        "Tipo": null,
+        "Carga_Horária": "h"
+    },
+    {
+        "Código": null,
+        "Nome": null,
+        "Tipo": null,
+        "Carga_Horária": "h"
+    },
+    {
+        "Código": null,
+        "Nome": null,
+        "Tipo": null,
+        "Carga_Horária": "h"
+    },
+    {
+        "Código": null,
+        "Nome": null,
+        "Tipo": null,
+        "Carga_Horária": "h"
+    },
+    {
+        "Código": null,
+        "Nome": null,
+        "Tipo": null,
+        "Carga_Horária": "h"
+    },
+    {
+        "Código": null,
+        "Nome": null,
+        "Tipo": null,
+        "Carga_Horária": "h"
+    },
+    {
+        "Código": null,
+        "Nome": null,
+        "Tipo": null,
+        "Carga_Horária": "h"
+    },
+    {
+        "Código": null,
+        "Nome": null,
+        "Tipo": null,
+        "Carga_Horária": "h"
+    },
+    {
+        "Código": null,
+        "Nome": null,
+        "Tipo": null,
+        "Carga_Horária": "h"
+    },
+    {
+        "Código": null,
+        "Nome": null,
+        "Tipo": null,
+        "Carga_Horária": "h"
+    },
+    {
+        "Código": null,
+        "Nome": null,
+        "Tipo": null,
+        "Carga_Horária": "h"
+    },
+    {
+        "Código": null,
+        "Nome": null,
+        "Tipo": null,
+        "Carga_Horária": "h"
+    },
+    {
+        "Código": null,
+        "Nome": null,
+        "Tipo": null,
+        "Carga_Horária": "h"
+    },
+    {
+        "Código": null,
+        "Nome": null,
+        "Tipo": null,
+        "Carga_Horária": "h"
+    },
+    {
+        "Código": null,
+        "Nome": null,
+        "Tipo": null,
+        "Carga_Horária": "h"
+    }
+]

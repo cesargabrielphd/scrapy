@@ -1,0 +1,662 @@
+[
+    {
+        "Código": "MAT0034",
+        "Nome": "ALGEBRA 1",
+        "Tipo": "DISCIPLINA",
+        "Carga_Horária": "60h"
+    },
+    {
+        "Código": "MAT0040",
+        "Nome": "ALGEBRA 2",
+        "Tipo": "DISCIPLINA",
+        "Carga_Horária": "60h"
+    },
+    {
+        "Código": "MAT0107",
+        "Nome": "ALGEBRA 3",
+        "Tipo": "DISCIPLINA",
+        "Carga_Horária": "60h"
+    },
+    {
+        "Código": "MAT0039",
+        "Nome": "ALGEBRA LINEAR",
+        "Tipo": "DISCIPLINA",
+        "Carga_Horária": "90h"
+    },
+    {
+        "Código": "MAT0061",
+        "Nome": "ALGEBRA PARA ENSINO  1 E 2",
+        "Tipo": "DISCIPLINA",
+        "Carga_Horária": "90h"
+    },
+    {
+        "Código": "MAT0122",
+        "Nome": "ÁLGEBRA PARA O ENSINO 1",
+        "Tipo": "DISCIPLINA",
+        "Carga_Horária": "90h"
+    },
+    {
+        "Código": "MAT0134",
+        "Nome": "ÁLGEBRA PARA O ENSINO 2",
+        "Tipo": "DISCIPLINA",
+        "Carga_Horária": "90h"
+    },
+    {
+        "Código": "MAT0045",
+        "Nome": "ANALISE 1",
+        "Tipo": "DISCIPLINA",
+        "Carga_Horária": "60h"
+    },
+    {
+        "Código": "MAT0046",
+        "Nome": "ANALISE 2",
+        "Tipo": "DISCIPLINA",
+        "Carga_Horária": "60h"
+    },
+    {
+        "Código": "MAT0106",
+        "Nome": "ANALISE 3",
+        "Tipo": "DISCIPLINA",
+        "Carga_Horária": "60h"
+    },
+    {
+        "Código": "MAT0082",
+        "Nome": "ANALISE COMBINATORIA",
+        "Tipo": "DISCIPLINA",
+        "Carga_Horária": "60h"
+    },
+    {
+        "Código": "MAT0006",
+        "Nome": "ANÁLISE COMBINATÓRIA PARA CÁLCULO DE PROBABILIDADES",
+        "Tipo": "DISCIPLINA",
+        "Carga_Horária": "60h"
+    },
+    {
+        "Código": "MAT0078",
+        "Nome": "ANALISE DE ALGORITMOS",
+        "Tipo": "DISCIPLINA",
+        "Carga_Horária": "60h"
+    },
+    {
+        "Código": "MAT0057",
+        "Nome": "ANALISE NUMERICA 1",
+        "Tipo": "DISCIPLINA",
+        "Carga_Horária": "60h"
+    },
+    {
+        "Código": "MAT0025",
+        "Nome": "CÁLCULO 1",
+        "Tipo": "DISCIPLINA",
+        "Carga_Horária": "90h"
+    },
+    {
+        "Código": "MAT0137",
+        "Nome": "CÁLCULO 1 - SEMIPRESENCIAL",
+        "Tipo": "DISCIPLINA",
+        "Carga_Horária": "90h"
+    },
+    {
+        "Código": "MAT0026",
+        "Nome": "CÁLCULO 2",
+        "Tipo": "DISCIPLINA",
+        "Carga_Horária": "90h"
+    },
+    {
+        "Código": "MAT0138",
+        "Nome": "CÁLCULO 2 - SEMIPRESENCIAL",
+        "Tipo": "DISCIPLINA",
+        "Carga_Horária": "90h"
+    },
+    {
+        "Código": "MAT0027",
+        "Nome": "CÁLCULO 3",
+        "Tipo": "DISCIPLINA",
+        "Carga_Horária": "90h"
+    },
+    {
+        "Código": "MAT0075",
+        "Nome": "CALCULO DE PROBABILIDADE 1",
+        "Tipo": "DISCIPLINA",
+        "Carga_Horária": "90h"
+    },
+    {
+        "Código": "MAT0076",
+        "Nome": "CALCULO DE PROBABILIDADE 2",
+        "Tipo": "DISCIPLINA",
+        "Carga_Horária": "60h"
+    },
+    {
+        "Código": "MAT0012",
+        "Nome": "CÁLCULO DE VARIAS VARIÁVEIS",
+        "Tipo": "DISCIPLINA",
+        "Carga_Horária": "45h"
+    },
+    {
+        "Código": "MAT0001",
+        "Nome": "CALCULO DIFERENCIAL DE UMA VARIÁVEL",
+        "Tipo": "DISCIPLINA",
+        "Carga_Horária": "60h"
+    },
+    {
+        "Código": "MAT0007",
+        "Nome": "CÁLCULO INTEGRAL DE UMA VARIÁVEL",
+        "Tipo": "DISCIPLINA",
+        "Carga_Horária": "30h"
+    },
+    {
+        "Código": "MAT0053",
+        "Nome": "CALCULO NUMERICO",
+        "Tipo": "DISCIPLINA",
+        "Carga_Horária": "60h"
+    },
+    {
+        "Código": "MAT0164",
+        "Nome": "CURRÍCULO E AVALIAÇÃO EM MATEMÁTICA",
+        "Tipo": "DISCIPLINA",
+        "Carga_Horária": "90h"
+    },
+    {
+        "Código": "MAT0163",
+        "Nome": "DIDÁTICA DA MATEMÁTICA",
+        "Tipo": "DISCIPLINA",
+        "Carga_Horária": "90h"
+    },
+    {
+        "Código": "MAT0048",
+        "Nome": "EQUACOES DIFERENCIAIS 1",
+        "Tipo": "DISCIPLINA",
+        "Carga_Horária": "60h"
+    },
+    {
+        "Código": "MAT0005",
+        "Nome": "ESTÁGIO DE DOCÊNCIA 1",
+        "Tipo": "DISCIPLINA",
+        "Carga_Horária": "105h"
+    },
+    {
+        "Código": "MAT0013",
+        "Nome": "ESTÁGIO DE DOCÊNCIA 2",
+        "Tipo": "DISCIPLINA",
+        "Carga_Horária": "105h"
+    },
+    {
+        "Código": "MAT0091",
+        "Nome": "ESTAGIO DE PESQUISA BIBLIOGRAFICA SOBRE ENSINO DE MATEMATICA",
+        "Tipo": "DISCIPLINA",
+        "Carga_Horária": "60h"
+    },
+    {
+        "Código": "MAT0094",
+        "Nome": "ESTAGIO DE REDACAO SOBRE ENSINO DE MATEMATICA",
+        "Tipo": "DISCIPLINA",
+        "Carga_Horária": "30h"
+    },
+    {
+        "Código": "MAT0089",
+        "Nome": "ESTAGIO EM LABORATORIO DE ENSINO",
+        "Tipo": "DISCIPLINA",
+        "Carga_Horária": "30h"
+    },
+    {
+        "Código": "MAT0108",
+        "Nome": "ESTAGIO EM LABORATORIO DE ENSINO DE MATEMATICA",
+        "Tipo": "DISCIPLINA",
+        "Carga_Horária": "90h"
+    },
+    {
+        "Código": "MAT0115",
+        "Nome": "ESTAGIO ESPECIAL DE ENSINO E REGENCIA EM MATEMATICA",
+        "Tipo": "DISCIPLINA",
+        "Carga_Horária": "150h"
+    },
+    {
+        "Código": "MAT0170",
+        "Nome": "ESTÁGIO SUPERVISIONADO 1",
+        "Tipo": "DISCIPLINA",
+        "Carga_Horária": "135h"
+    },
+    {
+        "Código": "MAT0171",
+        "Nome": "ESTÁGIO SUPERVISIONADO 2",
+        "Tipo": "DISCIPLINA",
+        "Carga_Horária": "135h"
+    },
+    {
+        "Código": "MAT0172",
+        "Nome": "ESTÁGIO SUPERVISIONADO 3",
+        "Tipo": "DISCIPLINA",
+        "Carga_Horária": "135h"
+    },
+    {
+        "Código": "MAT0097",
+        "Nome": "ESTAGIO SUPERVISIONADO DE REGENCIA EM MATEMATICA",
+        "Tipo": "DISCIPLINA",
+        "Carga_Horária": "60h"
+    },
+    {
+        "Código": "MAT0063",
+        "Nome": "ESTAGIO SUPERVISIONADO MATEMATICA - DP",
+        "Tipo": "DISCIPLINA",
+        "Carga_Horária": "120h"
+    },
+    {
+        "Código": "MAT0165",
+        "Nome": "ESTRATÉGIAS PARA O ENSINO DE ÁLGEBRA",
+        "Tipo": "DISCIPLINA",
+        "Carga_Horária": "90h"
+    },
+    {
+        "Código": "MAT0166",
+        "Nome": "ESTRATÉGIAS PARA O ENSINO DE GEOMETRIA",
+        "Tipo": "DISCIPLINA",
+        "Carga_Horária": "90h"
+    },
+    {
+        "Código": "MAT0015",
+        "Nome": "FUNDAMENTOS DE ÁLGEBRA 1",
+        "Tipo": "DISCIPLINA",
+        "Carga_Horária": "30h"
+    },
+    {
+        "Código": "MAT0008",
+        "Nome": "FUNDAMENTOS DE ÁLGEBRA 2",
+        "Tipo": "DISCIPLINA",
+        "Carga_Horária": "45h"
+    },
+    {
+        "Código": "MAT0103",
+        "Nome": "FUNDAMENTOS GEOMETRICOS DA RELATIVIDADE",
+        "Tipo": "DISCIPLINA",
+        "Carga_Horária": "60h"
+    },
+    {
+        "Código": "MAT0072",
+        "Nome": "FUNDAMENTOS MATEMATICA 1",
+        "Tipo": "DISCIPLINA",
+        "Carga_Horária": "60h"
+    },
+    {
+        "Código": "MAT0085",
+        "Nome": "GEOMETRIA",
+        "Tipo": "DISCIPLINA",
+        "Carga_Horária": "90h"
+    },
+    {
+        "Código": "MAT0111",
+        "Nome": "GEOMETRIA 1",
+        "Tipo": "DISCIPLINA",
+        "Carga_Horária": "60h"
+    },
+    {
+        "Código": "MAT0114",
+        "Nome": "GEOMETRIA 2",
+        "Tipo": "DISCIPLINA",
+        "Carga_Horária": "60h"
+    },
+    {
+        "Código": "MAT0003",
+        "Nome": "GEOMETRIA ANALÍTICA E VETORES",
+        "Tipo": "DISCIPLINA",
+        "Carga_Horária": "45h"
+    },
+    {
+        "Código": "MAT0010",
+        "Nome": "GEOMETRIA ANALÍTICA PARA MATEMÁTICA",
+        "Tipo": "DISCIPLINA",
+        "Carga_Horária": "60h"
+    },
+    {
+        "Código": "MAT0050",
+        "Nome": "GEOMETRIA DIFERENCIAL 1",
+        "Tipo": "DISCIPLINA",
+        "Carga_Horária": "60h"
+    },
+    {
+        "Código": "MAT0014",
+        "Nome": "GEOMETRIA ESPACIAL",
+        "Tipo": "DISCIPLINA",
+        "Carga_Horária": "45h"
+    },
+    {
+        "Código": "MAT0062",
+        "Nome": "GEOMETRIA PARA ENSINO DO 1 E 2 GRAUS",
+        "Tipo": "DISCIPLINA",
+        "Carga_Horária": "90h"
+    },
+    {
+        "Código": "MAT0129",
+        "Nome": "GEOMETRIA PARA O ENSINO 1",
+        "Tipo": "DISCIPLINA",
+        "Carga_Horária": "90h"
+    },
+    {
+        "Código": "MAT0131",
+        "Nome": "GEOMETRIA PARA O ENSINO 2",
+        "Tipo": "DISCIPLINA",
+        "Carga_Horária": "90h"
+    },
+    {
+        "Código": "MAT0004",
+        "Nome": "GEOMETRIA PLANA 1",
+        "Tipo": "DISCIPLINA",
+        "Carga_Horária": "45h"
+    },
+    {
+        "Código": "MAT0016",
+        "Nome": "GEOMETRIA PLANA 2",
+        "Tipo": "DISCIPLINA",
+        "Carga_Horária": "30h"
+    },
+    {
+        "Código": "DPG0804",
+        "Nome": "GEOMETRIA RIEMANNIANA",
+        "Tipo": "DISCIPLINA",
+        "Carga_Horária": "75h"
+    },
+    {
+        "Código": "MAT0060",
+        "Nome": "HISTORIA DA MATEMATICA",
+        "Tipo": "DISCIPLINA",
+        "Carga_Horária": "60h"
+    },
+    {
+        "Código": "MAT0142",
+        "Nome": "INICIAÇÃO CIENTÍFICA EM MATEMÁTICA 1",
+        "Tipo": "DISCIPLINA",
+        "Carga_Horária": "15h"
+    },
+    {
+        "Código": "MAT0143",
+        "Nome": "INICIAÇÃO CIENTÍFICA EM MATEMÁTICA 2",
+        "Tipo": "DISCIPLINA",
+        "Carga_Horária": "15h"
+    },
+    {
+        "Código": "MAT0144",
+        "Nome": "INICIAÇÃO CIENTÍFICA EM MATEMÁTICA 3",
+        "Tipo": "DISCIPLINA",
+        "Carga_Horária": "15h"
+    },
+    {
+        "Código": "DPG0760",
+        "Nome": "INTRODUÇÃO A ALGEBRA",
+        "Tipo": "DISCIPLINA",
+        "Carga_Horária": "90h"
+    },
+    {
+        "Código": "MAT0031",
+        "Nome": "INTRODUCAO A ALGEBRA LINEAR",
+        "Tipo": "DISCIPLINA",
+        "Carga_Horária": "60h"
+    },
+    {
+        "Código": "DPG1117",
+        "Nome": "INTRODUÇÃO A ANÁLISE",
+        "Tipo": "DISCIPLINA",
+        "Carga_Horária": "90h"
+    },
+    {
+        "Código": "MAT0077",
+        "Nome": "INTRODUCAO A AUTOMATOS PROBABILISTICOS",
+        "Tipo": "DISCIPLINA",
+        "Carga_Horária": "60h"
+    },
+    {
+        "Código": "MAT0105",
+        "Nome": "INTRODUCAO A COMPUTACAO ALGEBRICA",
+        "Tipo": "DISCIPLINA",
+        "Carga_Horária": "60h"
+    },
+    {
+        "Código": "MAT0071",
+        "Nome": "INTRODUCAO A MATEMATICA SUPERIOR",
+        "Tipo": "DISCIPLINA",
+        "Carga_Horária": "90h"
+    },
+    {
+        "Código": "MAT0041",
+        "Nome": "INTRODUCAO A OTIMIZACAO",
+        "Tipo": "DISCIPLINA",
+        "Carga_Horária": "60h"
+    },
+    {
+        "Código": "MAT0054",
+        "Nome": "INTRODUCAO A PROGRAMACAO LINEAR",
+        "Tipo": "DISCIPLINA",
+        "Carga_Horária": "60h"
+    },
+    {
+        "Código": "MAT0099",
+        "Nome": "INTRODUCAO AS EQUACOES DIFERENCIAIS PARCIAIS",
+        "Tipo": "DISCIPLINA",
+        "Carga_Horária": "60h"
+    },
+    {
+        "Código": "MAT0017",
+        "Nome": "INTRODUÇÃO ÀS PROBABILIDADES DISCRETAS",
+        "Tipo": "DISCIPLINA",
+        "Carga_Horária": "45h"
+    },
+    {
+        "Código": "MAT0120",
+        "Nome": "INTRODUÇÃO À TEORIA DE MEDIDA E INTEGRAÇÃO",
+        "Tipo": "DISCIPLINA",
+        "Carga_Horária": "60h"
+    },
+    {
+        "Código": "MAT0080",
+        "Nome": "INTRODUCAO A TEORIA DOS GRAFOS",
+        "Tipo": "DISCIPLINA",
+        "Carga_Horária": "60h"
+    },
+    {
+        "Código": "MAT0011",
+        "Nome": "LABORATÓRIO DE ENSINO DE MATEMÁTICA",
+        "Tipo": "DISCIPLINA",
+        "Carga_Horária": "45h"
+    },
+    {
+        "Código": "MAT0081",
+        "Nome": "LINGUAGENS FORMAIS E AUTOMATOS",
+        "Tipo": "DISCIPLINA",
+        "Carga_Horária": "60h"
+    },
+    {
+        "Código": "MAT0119",
+        "Nome": "LÓGICA MATEMÁTICA E COMPUTACIONAL",
+        "Tipo": "DISCIPLINA",
+        "Carga_Horária": "60h"
+    },
+    {
+        "Código": "MAT0022",
+        "Nome": "MATEMATICA 1",
+        "Tipo": "DISCIPLINA",
+        "Carga_Horária": "60h"
+    },
+    {
+        "Código": "MAT0023",
+        "Nome": "MATEMATICA 2",
+        "Tipo": "DISCIPLINA",
+        "Carga_Horária": "60h"
+    },
+    {
+        "Código": "MAT0059",
+        "Nome": "METODOS MATEMÁTICOS DA FÍSICA 1",
+        "Tipo": "DISCIPLINA",
+        "Carga_Horária": "90h"
+    },
+    {
+        "Código": "MAT0102",
+        "Nome": "METODOS MATEMATICOS DA FISICA 2",
+        "Tipo": "DISCIPLINA",
+        "Carga_Horária": "60h"
+    },
+    {
+        "Código": "MAT0083",
+        "Nome": "METODOS PROBABILISTICOS OPERACIONAIS",
+        "Tipo": "DISCIPLINA",
+        "Carga_Horária": "60h"
+    },
+    {
+        "Código": "MAT0101",
+        "Nome": "OTIMIZACAO DE SISTEMAS DE GRANDE PORTE",
+        "Tipo": "DISCIPLINA",
+        "Carga_Horária": "60h"
+    },
+    {
+        "Código": "MAT0139",
+        "Nome": "PRÁTICAS DE EXTENSÃO EM MATEMÁTICA 1",
+        "Tipo": "DISCIPLINA",
+        "Carga_Horária": "30h"
+    },
+    {
+        "Código": "MAT0140",
+        "Nome": "PRÁTICAS DE EXTENSÃO EM MATEMÁTICA 2",
+        "Tipo": "DISCIPLINA",
+        "Carga_Horária": "60h"
+    },
+    {
+        "Código": "MAT0141",
+        "Nome": "PRÁTICAS DE EXTENSÃO EM MATEMÁTICA 3",
+        "Tipo": "DISCIPLINA",
+        "Carga_Horária": "90h"
+    },
+    {
+        "Código": "MAT0098",
+        "Nome": "PROGRAMACAO INTEIRA E DINAMICA",
+        "Tipo": "DISCIPLINA",
+        "Carga_Horária": "60h"
+    },
+    {
+        "Código": "MAT0132",
+        "Nome": "PROGRAMAÇÃO MATEMÁTICA",
+        "Tipo": "DISCIPLINA",
+        "Carga_Horária": "60h"
+    },
+    {
+        "Código": "MAT0100",
+        "Nome": "PROGRAMACAO NAO LINEAR",
+        "Tipo": "DISCIPLINA",
+        "Carga_Horária": "60h"
+    },
+    {
+        "Código": "MAT0136",
+        "Nome": "REGÊNCIA 1",
+        "Tipo": "DISCIPLINA",
+        "Carga_Horária": "120h"
+    },
+    {
+        "Código": "MAT0124",
+        "Nome": "REGÊNCIA 2",
+        "Tipo": "DISCIPLINA",
+        "Carga_Horária": "120h"
+    },
+    {
+        "Código": "MAT0168",
+        "Nome": "SEMINÁRIO DE PESQUISA EM EDUCAÇÃO MATEMÁTICA",
+        "Tipo": "DISCIPLINA",
+        "Carga_Horária": "30h"
+    },
+    {
+        "Código": "MAT0068",
+        "Nome": "SEMINÁRIO DE TÓPICOS EM ÁLGEBRA",
+        "Tipo": "DISCIPLINA",
+        "Carga_Horária": "60h"
+    },
+    {
+        "Código": "MAT0066",
+        "Nome": "SEMINÁRIO DE TÓPICOS EM ANÁLISE",
+        "Tipo": "DISCIPLINA",
+        "Carga_Horária": "60h"
+    },
+    {
+        "Código": "MAT0167",
+        "Nome": "SEMINÁRIO DE TÓPICOS EM EDUCAÇÃO MATEMÁTICA",
+        "Tipo": "DISCIPLINA",
+        "Carga_Horária": "60h"
+    },
+    {
+        "Código": "MAT0069",
+        "Nome": "SEMINARIO DE TOPICOS EM GEOMETRIA",
+        "Tipo": "DISCIPLINA",
+        "Carga_Horária": "60h"
+    },
+    {
+        "Código": "MAT0117",
+        "Nome": "SEMINÁRIO DE TÓPICOS EM MATEMÁTICA APLICADA",
+        "Tipo": "DISCIPLINA",
+        "Carga_Horária": "60h"
+    },
+    {
+        "Código": "MAT0087",
+        "Nome": "SEMINARIO TOPICOS ESPECIAIS",
+        "Tipo": "DISCIPLINA",
+        "Carga_Horária": "30h"
+    },
+    {
+        "Código": "MAT0038",
+        "Nome": "TEORIA DOS NÚMEROS 1",
+        "Tipo": "DISCIPLINA",
+        "Carga_Horária": "60h"
+    },
+    {
+        "Código": "MAT0118",
+        "Nome": "TEORIA DOS NÚMEROS 2",
+        "Tipo": "DISCIPLINA",
+        "Carga_Horária": "60h"
+    },
+    {
+        "Código": "MAT0019",
+        "Nome": "TÓPICOS DE ÁLGEBRA LINEAR",
+        "Tipo": "DISCIPLINA",
+        "Carga_Horária": "45h"
+    },
+    {
+        "Código": "MAT0002",
+        "Nome": "TÓPICOS DE EDUCAÇÃO MATEMÁTICA",
+        "Tipo": "DISCIPLINA",
+        "Carga_Horária": "60h"
+    },
+    {
+        "Código": "MAT0018",
+        "Nome": "TÓPICOS DE GEOMETRIA ANALÍTICA",
+        "Tipo": "DISCIPLINA",
+        "Carga_Horária": "15h"
+    },
+    {
+        "Código": "MAT0009",
+        "Nome": "TÓPICOS EM GEOMETRIA ANALÍTICA",
+        "Tipo": "DISCIPLINA",
+        "Carga_Horária": "15h"
+    },
+    {
+        "Código": "MAT0047",
+        "Nome": "TOPOLOGIA DOS ESPACOS METRICOS",
+        "Tipo": "DISCIPLINA",
+        "Carga_Horária": "60h"
+    },
+    {
+        "Código": "MAT0020",
+        "Nome": "TRABALHO DE CONCLUSÃO DE CURSO",
+        "Tipo": "DISCIPLINA",
+        "Carga_Horária": "60h"
+    },
+    {
+        "Código": "MAT0125",
+        "Nome": "TRABALHO FINAL 1",
+        "Tipo": "DISCIPLINA",
+        "Carga_Horária": "15h"
+    },
+    {
+        "Código": "MAT0126",
+        "Nome": "TRABALHO FINAL 2",
+        "Tipo": "DISCIPLINA",
+        "Carga_Horária": "15h"
+    },
+    {
+        "Código": "MAT0028",
+        "Nome": "VARIAVEL COMPLEXA 1",
+        "Tipo": "DISCIPLINA",
+        "Carga_Horária": "90h"
+    }
+]

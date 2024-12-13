@@ -1,0 +1,338 @@
+[
+    {
+        "Código": "GPP0034",
+        "Nome": "ADMINISTRAÇÃO DE SERVIÇOS NO SETOR PÚBLICO",
+        "Tipo": "DISCIPLINA",
+        "Carga_Horária": "60h"
+    },
+    {
+        "Código": "GPP0054",
+        "Nome": "ADMINISTRAÇÃO ESTRATÉGICA",
+        "Tipo": "DISCIPLINA",
+        "Carga_Horária": "60h"
+    },
+    {
+        "Código": "GPP0035",
+        "Nome": "ADMINISTRACAO PUBLICA COMPARADA",
+        "Tipo": "DISCIPLINA",
+        "Carga_Horária": "60h"
+    },
+    {
+        "Código": "GPP0057",
+        "Nome": "AUDITORIA E CONTROLADORIA",
+        "Tipo": "DISCIPLINA",
+        "Carga_Horária": "60h"
+    },
+    {
+        "Código": "GPP0015",
+        "Nome": "AVALIAÇÃO DE PROGRAMAS GOVERNAMENTAIS",
+        "Tipo": "DISCIPLINA",
+        "Carga_Horária": "60h"
+    },
+    {
+        "Código": "GPP0043",
+        "Nome": "CARGOS NO SERVIÇO PÚBLICO",
+        "Tipo": "DISCIPLINA",
+        "Carga_Horária": "60h"
+    },
+    {
+        "Código": "GPP0045",
+        "Nome": "CONTABILIDADE PÚBLICA",
+        "Tipo": "DISCIPLINA",
+        "Carga_Horária": "60h"
+    },
+    {
+        "Código": "GPP0016",
+        "Nome": "CONTROVÉRSIAS URBANAS",
+        "Tipo": "DISCIPLINA",
+        "Carga_Horária": "60h"
+    },
+    {
+        "Código": "GPP0088",
+        "Nome": "CORPO E POLÍTICAS PÚBLICAS: EPISTEMOLOGIAS, PRÁTICAS DE PESQUISA E EXTENSÃO",
+        "Tipo": "DISCIPLINA",
+        "Carga_Horária": "60h"
+    },
+    {
+        "Código": "GPP0017",
+        "Nome": "DEMOCRACIA DIGITAL, GOVERNANÇA DA INTERNET E POLÍTICAS PÚBLICAS",
+        "Tipo": "DISCIPLINA",
+        "Carga_Horária": "60h"
+    },
+    {
+        "Código": "GPP0018",
+        "Nome": "DEMOCRACIA E POLÍTICAS PÚBLICAS",
+        "Tipo": "DISCIPLINA",
+        "Carga_Horária": "60h"
+    },
+    {
+        "Código": "GPP0089",
+        "Nome": "DIREITOS HUMANOS E POLÍTICAS PÚBLICAS: CONCEITOS E PRÁTICAS",
+        "Tipo": "DISCIPLINA",
+        "Carga_Horária": "60h"
+    },
+    {
+        "Código": "GPP0031",
+        "Nome": "ECONOMIA PARA  POLÍTICAS PÚBLICAS",
+        "Tipo": "DISCIPLINA",
+        "Carga_Horária": "60h"
+    },
+    {
+        "Código": "GPP0039",
+        "Nome": "ECONOMIA PARA POLÍTICAS PÚBLICAS 2",
+        "Tipo": "DISCIPLINA",
+        "Carga_Horária": "60h"
+    },
+    {
+        "Código": "GPP0056",
+        "Nome": "ELABORAÇÃO E GESTÃO DE PROJETO",
+        "Tipo": "DISCIPLINA",
+        "Carga_Horária": "30h"
+    },
+    {
+        "Código": "GPP0032",
+        "Nome": "FINANÇAS PÚBLICAS",
+        "Tipo": "DISCIPLINA",
+        "Carga_Horária": "60h"
+    },
+    {
+        "Código": "GPP0037",
+        "Nome": "FUNDAMENTOS DA ADMINISTRAÇÃO PÚBLICA",
+        "Tipo": "DISCIPLINA",
+        "Carga_Horária": "60h"
+    },
+    {
+        "Código": "GPP0058",
+        "Nome": "GESTÃO DA REGULAÇÃO",
+        "Tipo": "DISCIPLINA",
+        "Carga_Horária": "30h"
+    },
+    {
+        "Código": "GPP0055",
+        "Nome": "GESTÃO DE OPERAÇÕES E LOGÍSTICA 2",
+        "Tipo": "DISCIPLINA",
+        "Carga_Horária": "60h"
+    },
+    {
+        "Código": "GPP0051",
+        "Nome": "GESTÃO DE PESSOAS NO SETOR PÚBLICO",
+        "Tipo": "DISCIPLINA",
+        "Carga_Horária": "60h"
+    },
+    {
+        "Código": "GPP0019",
+        "Nome": "GESTÃO E GOVERNANÇA PÚBLICA",
+        "Tipo": "DISCIPLINA",
+        "Carga_Horária": "60h"
+    },
+    {
+        "Código": "GPP0020",
+        "Nome": "IMPLEMENTAÇÃO DE POLÍTICAS PÚBLICAS",
+        "Tipo": "DISCIPLINA",
+        "Carga_Horária": "60h"
+    },
+    {
+        "Código": "GPP0040",
+        "Nome": "INOVAÇÃO NO SETOR PÚBLICO",
+        "Tipo": "DISCIPLINA",
+        "Carga_Horária": "60h"
+    },
+    {
+        "Código": "GPP0046",
+        "Nome": "INSTITUIÇÕES DE DIREITO PÚBLICO E PRIVADO",
+        "Tipo": "DISCIPLINA",
+        "Carga_Horária": "60h"
+    },
+    {
+        "Código": "GPP0021",
+        "Nome": "INTRODUÇÃO À GESTÃO DE POLÍTICAS PÚBLICAS",
+        "Tipo": "DISCIPLINA",
+        "Carga_Horária": "60h"
+    },
+    {
+        "Código": "GPP0052",
+        "Nome": "LEGISLAÇÃO TRIBUTÁRIA E COMERCIAL",
+        "Tipo": "DISCIPLINA",
+        "Carga_Horária": "60h"
+    },
+    {
+        "Código": "GPP0009",
+        "Nome": "METODOLOGIA DE PESQUISA APLICADA À GPP",
+        "Tipo": "DISCIPLINA",
+        "Carga_Horária": "60h"
+    },
+    {
+        "Código": "GPP0012",
+        "Nome": "MONOGRAFIA GPP",
+        "Tipo": "DISCIPLINA",
+        "Carga_Horária": "120h"
+    },
+    {
+        "Código": "GPP0022",
+        "Nome": "NOVAS INSTITUCIONALIDADES NA ADMINISTRAÇÃO PÚBLICA",
+        "Tipo": "DISCIPLINA",
+        "Carga_Horária": "60h"
+    },
+    {
+        "Código": "GPP0036",
+        "Nome": "ORCAMENTO PUBLICO",
+        "Tipo": "DISCIPLINA",
+        "Carga_Horária": "60h"
+    },
+    {
+        "Código": "GPP0053",
+        "Nome": "ORÇAMENTO PÚBLICO",
+        "Tipo": "DISCIPLINA",
+        "Carga_Horária": "60h"
+    },
+    {
+        "Código": "GPP0038",
+        "Nome": "ORGANIZAÇÃO DA ADMINISTRAÇÃO PÚBLICA FEDERAL",
+        "Tipo": "DISCIPLINA",
+        "Carga_Horária": "60h"
+    },
+    {
+        "Código": "DIN0050",
+        "Nome": "MATERIAIS E PROCESSOS GRAFICOS",
+        "Tipo": "DISCIPLINA",
+        "Carga_Horária": "90h"
+    },
+    {
+        "Código": "DIN0023",
+        "Nome": "METODOLOGIA DO PROJETO",
+        "Tipo": "DISCIPLINA",
+        "Carga_Horária": "60h"
+    },
+    {
+        "Código": "DIN0066",
+        "Nome": "MODELAGEM DIGITAL",
+        "Tipo": "DISCIPLINA",
+        "Carga_Horária": "90h"
+    },
+    {
+        "Código": "DIN0046",
+        "Nome": "OFICINA DE MODELOS E MAQUETE",
+        "Tipo": "DISCIPLINA",
+        "Carga_Horária": "60h"
+    },
+    {
+        "Código": "DIN0008",
+        "Nome": "PROCESSOS ARTESANAIS DE REPRODUÇÃO GRÁFICA",
+        "Tipo": "DISCIPLINA",
+        "Carga_Horária": "60h"
+    },
+    {
+        "Código": "MAT0172",
+        "Nome": "ESTÁGIO SUPERVISIONADO 3",
+        "Tipo": "DISCIPLINA",
+        "Carga_Horária": "135h"
+    },
+    {
+        "Código": "MAT0097",
+        "Nome": "ESTAGIO SUPERVISIONADO DE REGENCIA EM MATEMATICA",
+        "Tipo": "DISCIPLINA",
+        "Carga_Horária": "60h"
+    },
+    {
+        "Código": "MAT0063",
+        "Nome": "ESTAGIO SUPERVISIONADO MATEMATICA - DP",
+        "Tipo": "DISCIPLINA",
+        "Carga_Horária": "120h"
+    },
+    {
+        "Código": "MAT0165",
+        "Nome": "ESTRATÉGIAS PARA O ENSINO DE ÁLGEBRA",
+        "Tipo": "DISCIPLINA",
+        "Carga_Horária": "90h"
+    },
+    {
+        "Código": "MAT0166",
+        "Nome": "ESTRATÉGIAS PARA O ENSINO DE GEOMETRIA",
+        "Tipo": "DISCIPLINA",
+        "Carga_Horária": "90h"
+    },
+    {
+        "Código": "MAT0015",
+        "Nome": "FUNDAMENTOS DE ÁLGEBRA 1",
+        "Tipo": "DISCIPLINA",
+        "Carga_Horária": "30h"
+    },
+    {
+        "Código": "MAT0008",
+        "Nome": "FUNDAMENTOS DE ÁLGEBRA 2",
+        "Tipo": "DISCIPLINA",
+        "Carga_Horária": "45h"
+    },
+    {
+        "Código": "MAT0103",
+        "Nome": "FUNDAMENTOS GEOMETRICOS DA RELATIVIDADE",
+        "Tipo": "DISCIPLINA",
+        "Carga_Horária": "60h"
+    },
+    {
+        "Código": "MAT0072",
+        "Nome": "FUNDAMENTOS MATEMATICA 1",
+        "Tipo": "DISCIPLINA",
+        "Carga_Horária": "60h"
+    },
+    {
+        "Código": "MAT0085",
+        "Nome": "GEOMETRIA",
+        "Tipo": "DISCIPLINA",
+        "Carga_Horária": "90h"
+    },
+    {
+        "Código": "MAT0111",
+        "Nome": "GEOMETRIA 1",
+        "Tipo": "DISCIPLINA",
+        "Carga_Horária": "60h"
+    },
+    {
+        "Código": "MAT0114",
+        "Nome": "GEOMETRIA 2",
+        "Tipo": "DISCIPLINA",
+        "Carga_Horária": "60h"
+    },
+    {
+        "Código": "MAT0003",
+        "Nome": "GEOMETRIA ANALÍTICA E VETORES",
+        "Tipo": "DISCIPLINA",
+        "Carga_Horária": "45h"
+    },
+    {
+        "Código": "MAT0010",
+        "Nome": "GEOMETRIA ANALÍTICA PARA MATEMÁTICA",
+        "Tipo": "DISCIPLINA",
+        "Carga_Horária": "60h"
+    },
+    {
+        "Código": "MAT0050",
+        "Nome": "GEOMETRIA DIFERENCIAL 1",
+        "Tipo": "DISCIPLINA",
+        "Carga_Horária": "60h"
+    },
+    {
+        "Código": "MAT0014",
+        "Nome": "GEOMETRIA ESPACIAL",
+        "Tipo": "DISCIPLINA",
+        "Carga_Horária": "45h"
+    },
+    {
+        "Código": "MAT0062",
+        "Nome": "GEOMETRIA PARA ENSINO DO 1 E 2 GRAUS",
+        "Tipo": "DISCIPLINA",
+        "Carga_Horária": "90h"
+    },
+    {
+        "Código": "MAT0129",
+        "Nome": "GEOMETRIA PARA O ENSINO 1",
+        "Tipo": "DISCIPLINA",
+        "Carga_Horária": "90h"
+    },
+    {
+        "Código": "MAT0131",
+        "Nome": "GEOMETRIA PARA O ENSINO 2",
+        "Tipo": "DISCIPLINA",
+        "Carga_Horária": "90h"
+    }
+]

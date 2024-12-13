@@ -1,0 +1,224 @@
+[
+    {
+        "Código": "TEC0037",
+        "Nome": "AÇO E ARQUITETURA",
+        "Tipo": "DISCIPLINA",
+        "Carga_Horária": "60h"
+    },
+    {
+        "Código": "TEC0029",
+        "Nome": "CONFORTO AMBIENTAL LUMINOSO",
+        "Tipo": "DISCIPLINA",
+        "Carga_Horária": "30h"
+    },
+    {
+        "Código": "TEC0028",
+        "Nome": "CONFORTO SONORO",
+        "Tipo": "DISCIPLINA",
+        "Carga_Horária": "30h"
+    },
+    {
+        "Código": "TEC0017",
+        "Nome": "CONFORTO TERMICO AMBIENTAL",
+        "Tipo": "DISCIPLINA",
+        "Carga_Horária": "60h"
+    },
+    {
+        "Código": "TEC0042",
+        "Nome": "CONFORTO TÉRMICO AMBIENTAL 1",
+        "Tipo": "DISCIPLINA",
+        "Carga_Horária": "30h"
+    },
+    {
+        "Código": "TEC0033",
+        "Nome": "ENSAIO EM TECNOLOGIA  DA ARQUITETURA E URBANISMO",
+        "Tipo": "DISCIPLINA",
+        "Carga_Horária": "60h"
+    },
+    {
+        "Código": "TEC0014",
+        "Nome": "ESTAGIO SUPERVISIONADO EM OBRA",
+        "Tipo": "DISCIPLINA",
+        "Carga_Horária": "30h"
+    },
+    {
+        "Código": "TEC0010",
+        "Nome": "ESTRUTURAS ARQUITETONICAS 3",
+        "Tipo": "DISCIPLINA",
+        "Carga_Horária": "120h"
+    },
+    {
+        "Código": "TEC0036",
+        "Nome": "ESTRUTURAS ARQUITETÔNICAS E O AMBIENTE CONSTRUÍDO",
+        "Tipo": "DISCIPLINA",
+        "Carga_Horária": "60h"
+    },
+    {
+        "Código": "TEC0024",
+        "Nome": "ESTRUTURAS ESPECIAIS EM ARQUITETURA",
+        "Tipo": "DISCIPLINA",
+        "Carga_Horária": "60h"
+    },
+    {
+        "Código": "TEC0016",
+        "Nome": "ESTUDOS AMBIENTAIS-BIOCLIMATISMO",
+        "Tipo": "DISCIPLINA",
+        "Carga_Horária": "30h"
+    },
+    {
+        "Código": "TEC0031",
+        "Nome": "ESTUDOS ESPECIAIS EM TECNOLOGIA",
+        "Tipo": "DISCIPLINA",
+        "Carga_Horária": "60h"
+    },
+    {
+        "Código": "TEC0032",
+        "Nome": "GESTÃO AMBIENTAL URBANA",
+        "Tipo": "DISCIPLINA",
+        "Carga_Horária": "60h"
+    },
+    {
+        "Código": "TEC0008",
+        "Nome": "INDUSTRIALIZACAO DA CONSTRUCAO",
+        "Tipo": "DISCIPLINA",
+        "Carga_Horária": "60h"
+    },
+    {
+        "Código": "TEC0027",
+        "Nome": "INFRA-ESTRUTURA URBANA",
+        "Tipo": "DISCIPLINA",
+        "Carga_Horária": "30h"
+    },
+    {
+        "Código": "TEC0002",
+        "Nome": "INSTALAÇÕES E EQUIPAMENTOS 1",
+        "Tipo": "DISCIPLINA",
+        "Carga_Horária": "30h"
+    },
+    {
+        "Código": "TEC0007",
+        "Nome": "INSTALAÇÕES E EQUIPAMENTOS 1",
+        "Tipo": "DISCIPLINA",
+        "Carga_Horária": "60h"
+    },
+    {
+        "Código": "TEC0003",
+        "Nome": "INSTALAÇÕES E EQUIPAMENTOS 2",
+        "Tipo": "DISCIPLINA",
+        "Carga_Horária": "30h"
+    },
+    {
+        "Código": "TEC0026",
+        "Nome": "INTRODUÇÃO À TECNOLOGIA EM ARQUITETURA E URBANISMO",
+        "Tipo": "DISCIPLINA",
+        "Carga_Horária": "60h"
+    },
+    {
+        "Código": "TEC0004",
+        "Nome": "PRÁTICA CONSTRUTIVA EM CANTEIRO EXPERIMENTAL 1",
+        "Tipo": "DISCIPLINA",
+        "Carga_Horária": "60h"
+    },
+    {
+        "Código": "TEC0005",
+        "Nome": "PRÁTICA CONSTRUTIVA EM CANTEIRO EXPERIMENTAL 2",
+        "Tipo": "DISCIPLINA",
+        "Carga_Horária": "60h"
+    },
+    {
+        "Código": "TEC0009",
+        "Nome": "PROGRAMACAO E CONTROLE DE PROJETO E OBRA",
+        "Tipo": "DISCIPLINA",
+        "Carga_Horária": "60h"
+    },
+    {
+        "Código": "TEC0035",
+        "Nome": "PROJETO AMBIENTAL INTEGRADO",
+        "Tipo": "DISCIPLINA",
+        "Carga_Horária": "60h"
+    },
+    {
+        "Código": "TEC0034",
+        "Nome": "PROJETO AMBIENTAL INTEGRADO",
+        "Tipo": "DISCIPLINA",
+        "Carga_Horária": "90h"
+    },
+    {
+        "Código": "TEC0012",
+        "Nome": "SISTEMAS CONSTRUTIVOS 1",
+        "Tipo": "DISCIPLINA",
+        "Carga_Horária": "60h"
+    },
+    {
+        "Código": "TEC0030",
+        "Nome": "SISTEMAS CONSTRUTIVOS 2",
+        "Tipo": "DISCIPLINA",
+        "Carga_Horária": "60h"
+    },
+    {
+        "Código": "TEC0038",
+        "Nome": "SISTEMAS ESTRUTURAIS 1",
+        "Tipo": "DISCIPLINA",
+        "Carga_Horária": "60h"
+    },
+    {
+        "Código": "TEC0039",
+        "Nome": "SISTEMAS ESTRUTURAIS 2",
+        "Tipo": "DISCIPLINA",
+        "Carga_Horária": "60h"
+    },
+    {
+        "Código": "TEC0022",
+        "Nome": "SISTEMAS ESTRUTURAIS EM AÇO",
+        "Tipo": "DISCIPLINA",
+        "Carga_Horária": "60h"
+    },
+    {
+        "Código": "TEC0019",
+        "Nome": "SISTEMAS ESTRUTURAIS EM CONCRETO ARMADO",
+        "Tipo": "DISCIPLINA",
+        "Carga_Horária": "120h"
+    },
+    {
+        "Código": "TEC0041",
+        "Nome": "SISTEMAS ESTRUTURAIS EM CONCRETO ARMADO 1",
+        "Tipo": "DISCIPLINA",
+        "Carga_Horária": "60h"
+    },
+    {
+        "Código": "TEC0001",
+        "Nome": "SISTEMAS ESTRUTURAIS EM CONCRETO ARMADO 2",
+        "Tipo": "DISCIPLINA",
+        "Carga_Horária": "60h"
+    },
+    {
+        "Código": "TEC0023",
+        "Nome": "SISTEMAS ESTRUTURAIS EM MADEIRA",
+        "Tipo": "DISCIPLINA",
+        "Carga_Horária": "60h"
+    },
+    {
+        "Código": "TEC0018",
+        "Nome": "SISTEMAS ESTRUTURAIS NA ARQUITETURA",
+        "Tipo": "DISCIPLINA",
+        "Carga_Horária": "120h"
+    },
+    {
+        "Código": "TEC0013",
+        "Nome": "TECNICAS DE CONSTRUCAO",
+        "Tipo": "DISCIPLINA",
+        "Carga_Horária": "60h"
+    },
+    {
+        "Código": "TEC0043",
+        "Nome": "TÉCNICAS DE CONSTRUÇÃO 1",
+        "Tipo": "DISCIPLINA",
+        "Carga_Horária": "30h"
+    },
+    {
+        "Código": "TEC0044",
+        "Nome": "TÉCNICAS DE CONSTRUÇÃO 2",
+        "Tipo": "DISCIPLINA",
+        "Carga_Horária": "30h"
+    }
+]
