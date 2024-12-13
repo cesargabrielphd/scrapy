@@ -1,18 +1,18 @@
 import os
 import scrapy
+import json
 from scrapy.http import FormRequest
-import pdfkit
 
 
-class DisciplinasSpider(scrapy.Spider):
-    name = "disciplinas"
+class DisciplinaSpider(scrapy.Spider):
+    name = "disciplina"
     allowed_domains = ["sigaa.unb.br"]
     start_urls = [
         "https://sigaa.unb.br/sigaa/public/componentes/busca_componentes.jsf?aba=p-ensino"
     ]
     custom_settings = {
         "FEED_FORMAT": "json",
-        "FEED_URI": "disciplinas.json",
+        "FEED_URI": "temp.json",  # Temporarily save data to temp.json
     }
 
     def parse(self, response):
@@ -39,10 +39,9 @@ class DisciplinasSpider(scrapy.Spider):
         )
 
     def after_form_submission(self, response):
-        # Nome do departamento (usado para criar a pasta)
-        departamento = "DEPARTAMENTO_DE_MATEMATICA"
-        if not os.path.exists(departamento):
-            os.makedirs(departamento)
+        # Salva os dados coletados no arquivo temp.json
+        temp_file_path = "temp.json"
+        disciplinas = []
 
         # Itera sobre as linhas da tabela
         for linha in response.css("table.listagem tbody tr"):
@@ -50,63 +49,43 @@ class DisciplinasSpider(scrapy.Spider):
             nome = linha.css("td:nth-child(2)::text").get()
             tipo = linha.css("td:nth-child(3)::text").get()
             ch_total = linha.css("td:nth-child(4)::text").get()
+            id_componente = linha.css("a[title='Programa Atual do Componente']::attr(onclick)").re(r"idComponente':'(\d+)'")[0]
 
-            # ID da disciplina para acessar a ementa
-            id_componente = linha.css(
-                'a[title="Programa Atual do Componente"]::attr(onclick)'
-            )
-            id_componente = self.extract_id_from_onclick(id_componente.get())
-
-            yield {
-                "codigo": codigo,
-                "nome": nome,
-                "tipo": tipo,
-                "ch_total": ch_total,
+            disciplina = {
+                "Código": codigo,
+                "Nome": nome,
+                "Tipo": tipo,
+                "Carga_Horária": ch_total,
+                "ID_Componente": id_componente,  # Adicionando ID da disciplina
             }
+            disciplinas.append(disciplina)
 
-            # Gera URL para acessar a ementa
-            if id_componente:
-                ementa_url = "https://sigaa.unb.br/sigaa/public/componentes/busca_componentes.jsf"
-                formdata = {
-                    "formListagemComponentes:j_id_jsp_190531263_27j_id_109": "formListagemComponentes:j_id_jsp_190531263_27j_id_109",
-                    "idComponente": id_componente,
-                    "javax.faces.ViewState": response.css(
-                        'input[name="javax.faces.ViewState"]::attr(value)'
-                    ).get(),
-                }
+            # Gerar o link para acessar a ementa
+            ementa_url = f"https://sigaa.unb.br/sigaa/public/componentes/ementa_componentes.jsf?idComponente={id_componente}"
+            # Fazer a requisição para baixar o PDF
+            yield scrapy.Request(ementa_url, callback=self.download_pdf, meta={'codigo': codigo, 'nome': nome})
 
-                # Faz o download da página de ementa
-                yield FormRequest(
-                    url=ementa_url,
-                    formdata=formdata,
-                    callback=self.save_ementa,
-                    meta={"codigo": codigo, "nome": nome, "departamento": departamento},
-                )
+        # Grava os dados em temp.json
+        with open(temp_file_path, "w", encoding="utf-8") as temp_file:
+            json.dump(disciplinas, temp_file, ensure_ascii=False, indent=4)
 
-    def extract_id_from_onclick(self, onclick_text):
-        """Extrai o idComponente do atributo onclick."""
-        try:
-            id_componente = onclick_text.split("idComponente':'")[1].split("'}")[0]
-            return id_componente
-        except IndexError:
-            return None
+        # Remover o arquivo temp.json após a operação
+        if os.path.exists(temp_file_path):
+            os.remove(temp_file_path)
 
-    def save_ementa(self, response):
-        # Dados da disciplina
-        codigo = response.meta["codigo"]
-        nome = response.meta["nome"]
-        departamento = response.meta["departamento"]
+    def download_pdf(self, response):
+        # Cria a pasta GRADMAT se não existir
+        folder = "GRADMAT"
+        if not os.path.exists(folder):
+            os.makedirs(folder)
 
-        # Criar arquivos HTML e PDF
-        html_filename = os.path.join(departamento, f"{codigo}_{nome}.html")
-        pdf_filename = os.path.join(departamento, f"{codigo}_{nome}.pdf")
+        # Nome do arquivo com base no código e nome da disciplina
+        codigo = response.meta['codigo']
+        nome = response.meta['nome']
+        pdf_filename = f"{folder}/{codigo}_{nome}.pdf"
 
-        # Salvar HTML
-        with open(html_filename, "w", encoding="utf-8") as f:
-            f.write(response.text)
+        # Baixa o PDF
+        with open(pdf_filename, 'wb') as f:
+            f.write(response.body)
 
-        # Converter para PDF
-        try:
-            pdfkit.from_file(html_filename, pdf_filename)
-        except Exception as e:
-            self.logger.error(f"Erro ao gerar PDF para {codigo} - {nome}: {e}")
+        self.log(f"PDF da disciplina {nome} ({codigo}) salvo como {pdf_filename}")
